@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cnm_090_q3",
+    "type": "numeric",
+    "prompt": "Solving the equation group 3x+2y=12, 3x-y=3. (Value x, y in turn, separated by commas)",
+    "answer": "2, 3",
+    "independent": "3, 3"
+  },
+  {
+    "id": "cnm_213_q4",
+    "type": "numeric",
+    "prompt": "6 Data 3, 5, 7, a, 10, 12 Other Organiser 8 Please.a.",
+    "answer": "9",
+    "independent": "6"
+  },
+  {
+    "id": "cnm_311_q4",
+    "type": "numeric",
+    "prompt": "It's on the three cards.1, 2, 3 What is the probability of a three-digit number being even? (results written in minimum fractions)",
+    "answer": "1/3",
+    "independent": "2/3"
+  }
+]

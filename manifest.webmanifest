@@ -1,0 +1,74 @@
+{
+  "id": "./",
+  "name": "12Grades Knowledge Graph",
+  "short_name": "Knowledge Graph",
+  "description": "Knowledge graphs and adaptive diagnostics for math, English, Chinese, and physics. Follow prerequisite relationships to find foundational learning gaps.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#0f6e62",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Start a Diagnostic",
+      "short_name": "Diagnostics",
+      "url": "diagnose/?source=pwa",
+      "icons": [
+        {
+          "src": "assets/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Knowledge Graph",
+      "short_name": "Graph",
+      "url": "explore/?source=pwa",
+      "icons": [
+        {
+          "src": "assets/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Child Profiles",
+      "short_name": "Profiles",
+      "url": "children/?source=pwa",
+      "icons": [
+        {
+          "src": "assets/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

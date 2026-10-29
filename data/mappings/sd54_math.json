@@ -1,0 +1,104 @@
+{
+  "edition": "sd54_math",
+  "label": "Shandong Five Four Maths (Qingshima Press)",
+  "status": "draft",
+  "source": "Contrast: Yamadong Five-Four-System Textbook (V-IV), Mathematics, Qingjiang Press, 2026 Year 7 Year 2 Year, third-year roll] ISBN 978-7-5736-2076-7; module and page code taken from material/electronic version of the teaching material (the material of our 13 book has been cross-checked on a volume basis) ISBN/version/print and unit structure, date of verification 2026-10-25",
+  "entries": [
+    {
+      "topicId": "cnm_p221",
+      "grade": 2,
+      "term": "上",
+      "unit": "Whose eyes are bright?",
+      "chapter": "The shapes that you see from different positions are different.",
+      "note": "The human version is on the third and the Aoshima Five Four is on the second grade M-2A-04-01, textbook P63))"
+    },
+    {
+      "topicId": "cnm_p222",
+      "grade": 2,
+      "term": "上",
+      "unit": "Whose eyes are bright?",
+      "chapter": "Seeing position based on the graphics seen",
+      "note": "Ibid.; the \" roll-out \" is not listed separately in our side course and is included in the same observation unit M-2A-04-02, P.64)"
+    },
+    {
+      "topicId": "cnm_p223",
+      "grade": 3,
+      "term": "上",
+      "unit": "Work is most beautiful.",
+      "chapter": "Mixed Operations",
+      "note": "M-3A-05, Textbook P75; order of operation including multipliers, subtractions, subtractions"
+    },
+    {
+      "topicId": "cnm_p058",
+      "grade": 3,
+      "term": "上",
+      "unit": "Work is most beautiful.",
+      "chapter": "Mixed order of operations with small brackets",
+      "note": "M-3A-05, P82"
+    },
+    {
+      "topicId": "cnm_p059",
+      "grade": 3,
+      "term": "上",
+      "unit": "Work is most beautiful.",
+      "chapter": "Column integrated calculation to solve practical problems",
+      "note": "M-3A-05, P86; we're using the \"lines in a composite \", which is applied in two steps."
+    },
+    {
+      "topicId": "cnm_p079",
+      "grade": 3,
+      "term": "上",
+      "unit": "I'm having dinner today.",
+      "chapter": "One in a few.",
+      "note": "M-3A-06, P91."
+    },
+    {
+      "topicId": "cnm_p226",
+      "grade": 3,
+      "term": "上",
+      "unit": "I'm having dinner today.",
+      "chapter": "A little bit of awareness and points.",
+      "note": "M-3A-06, P93"
+    },
+    {
+      "topicId": "cnm_p227",
+      "grade": 3,
+      "term": "上",
+      "unit": "I'm having dinner today.",
+      "chapter": "Same fraction size for denominator",
+      "note": "M-3A-06, P96"
+    },
+    {
+      "topicId": "cnm_p080",
+      "grade": 3,
+      "term": "上",
+      "unit": "I'm having dinner today.",
+      "chapter": "Add-minus-mix operation of the same denominator",
+      "note": "M-3A-06, P100 on our side"
+    },
+    {
+      "topicId": "cnm_p073",
+      "grade": 3,
+      "term": "上",
+      "unit": "Non-past culture to school",
+      "chapter": "Problem resolution (multiple relationships)",
+      "note": "M-3A-02, P15-P22; we put \"multiple\" in the \"problem\" module, with multiples for one number and multiples for the other."
+    },
+    {
+      "topicId": "cnm_p095",
+      "grade": 3,
+      "term": "上",
+      "unit": "Smart Square.",
+      "chapter": "Compatibility problems (ingenative multiplication principles)",
+      "note": "M-3A-P02-01; we're listed as \"Wise Square\" outreach, informal module"
+    },
+    {
+      "topicId": "cnm_p075",
+      "grade": 3,
+      "term": "上",
+      "unit": "The New Face of the Country",
+      "chapter": "At the end of the multiplier.0 Multiplication simple",
+      "note": "Inconsistent caliber: the unit on our side is \"multidigit times double digit \" M-3A-04, P51], covering only those cases at the end of the multiplier where there is 0; we are not singled out in the middle of the multiplier where 0"
+    }
+  ]
+}

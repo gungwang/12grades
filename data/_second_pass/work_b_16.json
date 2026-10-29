@@ -1,0 +1,4 @@
+{
+  "cnm_314_q4": "A: frequency stability, with a large number of repeat test frequencies close to the probability, correct; B: the probability remains 1/2, wrong for each independent event; C: the probability 0.01 does not guarantee that 100 must occur [about 1 [about 63%, wrong; D: does not necessarily happen 50 times, wrong. Only A is established.",
+  "cnm_315_q4": "A: Frequency variations are normal fluctuations, cannot be judged to be unfair or wrong; B: the result is valid without re-design, error; C: 46/54 fluctuated randomly with 1/2 deviations, and the increased frequency of the tests was closer 1/2, correct; D: unfounded, wrong. Only C is established."
+}

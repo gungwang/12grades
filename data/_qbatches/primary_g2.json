@@ -1,0 +1,1520 @@
+[
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Choose a sorting criterion first. When sorting buttons by shape, what must you decide first?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "the sorting criterion"
+      },
+      {
+        "key": "B",
+        "text": "the price of the buttons"
+      },
+      {
+        "key": "C",
+        "text": "who picked them up first"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Choose a criterion first so you can sort the buttons into different groups.",
+    "verify": "'the sorting criterion'",
+    "id": "cnm_p037_q1",
+    "topicId": "cnm_p037"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 7 red buttons and 4 blue buttons. How many groups are there when they are sorted by color?",
+    "answer": "2",
+    "explanation": "The red buttons form one group and the blue buttons form another, for 2 groups in total.",
+    "verify": "2",
+    "id": "cnm_p037_q2",
+    "topicId": "cnm_p037"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 7 red buttons and 4 blue buttons. How many more red buttons are there than blue buttons?",
+    "answer": "3",
+    "explanation": "Compare the counts after sorting: 7−4=3.",
+    "verify": "7-4",
+    "id": "cnm_p037_q3",
+    "topicId": "cnm_p037"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "One pile of buttons is sorted into 2 color groups and into large, medium, and small sizes. How many groups are there when sorted by size?",
+    "answer": "3",
+    "explanation": "The question asks for the number of size groups; large, medium, and small make 3 groups.",
+    "verify": "3",
+    "id": "cnm_p037_q4",
+    "topicId": "cnm_p037"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What does multiplication represent?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "the sum of several equal addends"
+      },
+      {
+        "key": "B",
+        "text": "removing part of a total"
+      },
+      {
+        "key": "C",
+        "text": "comparing which is larger"
+      }
+    ],
+    "answer": "A",
+    "explanation": "For example, 2+2+2 can be written as 2×3.",
+    "verify": "'the sum of several equal addends'",
+    "id": "cnm_p038_q1",
+    "topicId": "cnm_p038"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the sum of three 2s?",
+    "answer": "6",
+    "explanation": "2+2+2=6, or 2×3=6.",
+    "verify": "2+2+2",
+    "id": "cnm_p038_q2",
+    "topicId": "cnm_p038"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 4 groups, each with 3 people. How many people are there in all?",
+    "answer": "12",
+    "explanation": "Adding 3 four times gives 3×4=12.",
+    "verify": "3*4",
+    "id": "cnm_p038_q3",
+    "topicId": "cnm_p038"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many 4s does 4+4+4 represent?",
+    "answer": "3",
+    "explanation": "The addend 4 appears 3 times, so it is three 4s.",
+    "verify": "3",
+    "id": "cnm_p038_q4",
+    "topicId": "cnm_p038"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 6 rows with 2 seats in each row. How many seats are there?",
+    "answer": "12",
+    "explanation": "2×6=12.",
+    "verify": "2*6",
+    "id": "cnm_p039_q1",
+    "topicId": "cnm_p039"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 4 plates with 3 apples on each plate. How many apples are there in all?",
+    "answer": "12",
+    "explanation": "3×4=12.",
+    "verify": "3*4",
+    "id": "cnm_p039_q2",
+    "topicId": "cnm_p039"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 6 boxes with 5 balls in each box. How many balls are there in all?",
+    "answer": "30",
+    "explanation": "5×6=30.",
+    "verify": "5*6",
+    "id": "cnm_p039_q3",
+    "topicId": "cnm_p039"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "There are 3 rows with 4 trees in each row. Two more trees are planted nearby. How many trees are there in all?",
+    "answer": "14",
+    "explanation": "First calculate 4×3=12, then add 2 trees to get 14.",
+    "verify": "4*3+2",
+    "id": "cnm_p039_q4",
+    "topicId": "cnm_p039"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "About how long is 1 centimeter?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "about the width of a fingernail"
+      },
+      {
+        "key": "B",
+        "text": "about the length of a classroom"
+      },
+      {
+        "key": "C",
+        "text": "about the length of a pencil"
+      }
+    ],
+    "answer": "A",
+    "explanation": "One centimeter is very short, about the width of a fingernail.",
+    "verify": "'about the width of a fingernail'",
+    "id": "cnm_p040_q1",
+    "topicId": "cnm_p040"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "One end of a stick is aligned with 0 on a ruler and the other with 4. How many centimeters long is the stick?",
+    "answer": "4",
+    "explanation": "The distance from 0 to 4 is 4 centimeters.",
+    "verify": "4",
+    "id": "cnm_p040_q2",
+    "topicId": "cnm_p040"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Two sticks are 3 centimeters and 2 centimeters long. They are placed end to end. What is their total length?",
+    "answer": "5",
+    "explanation": "3+2=5 centimeters.",
+    "verify": "3+2",
+    "id": "cnm_p040_q3",
+    "topicId": "cnm_p040"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "On a ruler, one end of a stick is at 2 centimeters and the other is at 7 centimeters. How long is the stick?",
+    "answer": "5",
+    "explanation": "Do not read only the 7 mark. The length is 7−2=5 centimeters.",
+    "verify": "7-2",
+    "id": "cnm_p040_q4",
+    "topicId": "cnm_p040"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "How many centimeters are in 1 meter?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "100 centimeters"
+      },
+      {
+        "key": "B",
+        "text": "10 centimeters"
+      },
+      {
+        "key": "C",
+        "text": "1000 centimeters"
+      }
+    ],
+    "answer": "A",
+    "explanation": "1 meter=100 centimeters.",
+    "verify": "'100 centimeters'",
+    "id": "cnm_p041_q1",
+    "topicId": "cnm_p041"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many centimeters are in 2 meters?",
+    "answer": "200",
+    "explanation": "2×100=200 centimeters.",
+    "verify": "2*100",
+    "id": "cnm_p041_q2",
+    "topicId": "cnm_p041"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "How many centimeters are in 4 meters?",
+    "answer": "400",
+    "explanation": "4×100=400 centimeters.",
+    "verify": "4*100",
+    "id": "cnm_p041_q3",
+    "topicId": "cnm_p041"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A flagpole is 2 meters tall and a platform is 50 centimeters long. How many centimeters taller is the flagpole? First convert 2 meters to centimeters.",
+    "answer": "150",
+    "explanation": "2 meters=200 centimeters, and 200−50=150 centimeters.",
+    "verify": "2*100-50",
+    "id": "cnm_p041_q4",
+    "topicId": "cnm_p041"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 8 rows with 7 seats in each row. How many seats are there?",
+    "answer": "56",
+    "explanation": "7×8=56.",
+    "verify": "7*8",
+    "id": "cnm_p042_q1",
+    "topicId": "cnm_p042"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 3 boxes with 9 pens in each box. How many pens are there in all?",
+    "answer": "27",
+    "explanation": "3×9=27.",
+    "verify": "9*3",
+    "id": "cnm_p042_q2",
+    "topicId": "cnm_p042"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 6 boxes with 8 notebooks in each box. How many notebooks are there in all?",
+    "answer": "48",
+    "explanation": "8×6=48 notebooks.",
+    "verify": "8*6",
+    "id": "cnm_p042_q3",
+    "topicId": "cnm_p042"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "There are 8 rows with 7 flowers in each row. How many flowers are left after 6 are moved?",
+    "answer": "50",
+    "explanation": "7×8=56, and 56−6=50 flowers are left.",
+    "verify": "7*8-6",
+    "id": "cnm_p042_q4",
+    "topicId": "cnm_p042"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What does division represent?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "splitting a total equally into a given number of groups to find the amount in each group"
+      },
+      {
+        "key": "B",
+        "text": "the sum of several equal addends"
+      },
+      {
+        "key": "C",
+        "text": "comparing which of two numbers is larger"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Division is used for equal sharing and is the inverse operation of multiplication.",
+    "verify": "'splitting a total equally into a given number of groups to find the amount in each group'",
+    "id": "cnm_p043_q1",
+    "topicId": "cnm_p043"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Twelve candies are shared equally among 3 students. How many candies does each student get?",
+    "answer": "4",
+    "explanation": "12÷3=4 candies.",
+    "verify": "12//3",
+    "id": "cnm_p043_q2",
+    "topicId": "cnm_p043"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 8 apples. If 2 apples go on each plate, how many plates can be filled?",
+    "answer": "4",
+    "explanation": "8÷2=4 plates.",
+    "verify": "8//2",
+    "id": "cnm_p043_q3",
+    "topicId": "cnm_p043"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Since 6×4=24, how many 6s are there in 24?",
+    "answer": "4",
+    "explanation": "Division is the inverse operation of multiplication, so 24÷6=4.",
+    "verify": "24//6",
+    "id": "cnm_p043_q4",
+    "topicId": "cnm_p043"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Fifty-six balloons are divided equally into 7 groups. How many balloons are in each group?",
+    "answer": "8",
+    "explanation": "Seven groups of 8 make 56: 56÷7=8.",
+    "verify": "56//7",
+    "id": "cnm_p044_q1",
+    "topicId": "cnm_p044"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Seventy-two pens are divided equally into 8 groups. How many pens are in each group?",
+    "answer": "9",
+    "explanation": "Eight groups of 9 make 72: 72÷8=9.",
+    "verify": "72//8",
+    "id": "cnm_p044_q2",
+    "topicId": "cnm_p044"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Sixty-three balloons are divided equally into 9 groups. How many balloons are in each group?",
+    "answer": "7",
+    "explanation": "63÷9=7 balloons.",
+    "verify": "63//9",
+    "id": "cnm_p044_q3",
+    "topicId": "cnm_p044"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Forty-eight notebooks are shared equally among 8 students. Xiaoming returns one of his notebooks. How many notebooks does he have left?",
+    "answer": "5",
+    "explanation": "Each student gets 48÷8=6 notebooks; after returning 1, Xiaoming has 5 left.",
+    "verify": "48//8-1",
+    "id": "cnm_p044_q4",
+    "topicId": "cnm_p044"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "About how long is 1 centimeter? When estimating with body measurements, what is often close to this shortest unit?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "about the width of a fingernail"
+      },
+      {
+        "key": "B",
+        "text": "about one step"
+      },
+      {
+        "key": "C",
+        "text": "about the length of a classroom"
+      }
+    ],
+    "answer": "A",
+    "explanation": "One centimeter is very short; a step is much longer than 1 centimeter.",
+    "verify": "'about the width of a fingernail'",
+    "id": "cnm_p045_q1",
+    "topicId": "cnm_p045"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "One handspan is about 10 centimeters. About how many centimeters are 3 handspans?",
+    "answer": "30",
+    "explanation": "Three groups of 10 centimeters make 30 centimeters.",
+    "verify": "3*10",
+    "id": "cnm_p045_q2",
+    "topicId": "cnm_p045"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A desk is about 2 handspans long. If one handspan is 10 centimeters, about how many centimeters long is the desk?",
+    "answer": "20",
+    "explanation": "Two groups of 10 centimeters make 20 centimeters.",
+    "verify": "2*10",
+    "id": "cnm_p045_q3",
+    "topicId": "cnm_p045"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A rope is estimated to be about 4 handspans long, with each handspan taken as 10 centimeters. It measures 35 centimeters with a ruler. How many centimeters greater is the estimate than the measurement?",
+    "answer": "5",
+    "explanation": "The estimate is 4×10=40 centimeters, which is 5 centimeters more than 35 centimeters.",
+    "verify": "4*10-35",
+    "id": "cnm_p045_q4",
+    "topicId": "cnm_p045"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Eighteen candies are shared equally among 3 people. How many candies does each person get?",
+    "answer": "6",
+    "explanation": "Three groups of 6 make 18: 18÷3=6.",
+    "verify": "18//3",
+    "id": "cnm_p046_q1",
+    "topicId": "cnm_p046"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Twenty-four notebooks are divided equally into 6 groups. How many notebooks are in each group?",
+    "answer": "4",
+    "explanation": "Four groups of 6 make 24: 24÷6=4.",
+    "verify": "24//6",
+    "id": "cnm_p046_q2",
+    "topicId": "cnm_p046"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Twenty stickers are divided equally into 4 groups. How many stickers are in each group?",
+    "answer": "5",
+    "explanation": "20÷4=5 stickers.",
+    "verify": "20//4",
+    "id": "cnm_p046_q3",
+    "topicId": "cnm_p046"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "There are 30 balls, with 5 in each bag. Two bags have already been filled. How many more bags can be filled?",
+    "answer": "4",
+    "explanation": "A total of 30÷5=6 bags can be filled, so 6−2=4 more bags are needed.",
+    "verify": "30//5-2",
+    "id": "cnm_p046_q4",
+    "topicId": "cnm_p046"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Lili calculates 24÷4=6. To check by multiplication, what is the quotient 6 times the divisor 4?",
+    "answer": "24",
+    "explanation": "Quotient × divisor = dividend. Since 6×4=24, the quotient is correct.",
+    "verify": "6*4",
+    "id": "cnm_p047_q1",
+    "topicId": "cnm_p047"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What should you check when verifying division with multiplication?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "whether the quotient times the divisor equals the dividend"
+      },
+      {
+        "key": "B",
+        "text": "whether the quotient plus the divisor equals the dividend"
+      },
+      {
+        "key": "C",
+        "text": "only whether the quotient is 0"
+      }
+    ],
+    "answer": "A",
+    "explanation": "To check division, use: quotient × divisor = dividend.",
+    "verify": "'whether the quotient times the divisor equals the dividend'",
+    "id": "cnm_p047_q2",
+    "topicId": "cnm_p047"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Someone says 36÷6=5. When checking with multiplication, what is 6×5?",
+    "answer": "30",
+    "explanation": "6×5=30, which is not 36, so the quotient 5 is incorrect.",
+    "verify": "6*5",
+    "id": "cnm_p047_q3",
+    "topicId": "cnm_p047"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Xiaohua says 42÷6=8. Since 6×8=48, not 42, what is the correct quotient?",
+    "answer": "7",
+    "explanation": "Six times seven is forty-two: 42÷6=7.",
+    "verify": "42//6",
+    "id": "cnm_p047_q4",
+    "topicId": "cnm_p047"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 6 groups with 3 people in each group. How many people are there in all?",
+    "answer": "18",
+    "explanation": "3×6=18 people.",
+    "verify": "3*6",
+    "id": "cnm_p048_q1",
+    "topicId": "cnm_p048"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 4 colored pencils in each box. How many pencils are there in 5 boxes?",
+    "answer": "20",
+    "explanation": "4×5=20 pencils.",
+    "verify": "4*5",
+    "id": "cnm_p048_q2",
+    "topicId": "cnm_p048"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 8 boxes with 5 eggs in each box. How many eggs are there in all?",
+    "answer": "40",
+    "explanation": "5×8=40 eggs.",
+    "verify": "5*8",
+    "id": "cnm_p048_q3",
+    "topicId": "cnm_p048"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "There are 4 boxes with 6 erasers in each box. How many erasers are left after 5 are used?",
+    "answer": "19",
+    "explanation": "There are 6×4=24 erasers in all, so 24−5=19 are left.",
+    "verify": "6*4-5",
+    "id": "cnm_p048_q4",
+    "topicId": "cnm_p048"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "How are east and west related?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "opposite directions"
+      },
+      {
+        "key": "B",
+        "text": "the same direction"
+      },
+      {
+        "key": "C",
+        "text": "both south"
+      }
+    ],
+    "answer": "A",
+    "explanation": "East and west are opposites, as are north and south.",
+    "verify": "'opposite directions'",
+    "id": "cnm_p049_q1",
+    "topicId": "cnm_p049"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "How are directions usually shown on a map?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "north at the top, south at the bottom, west on the left, east on the right"
+      },
+      {
+        "key": "B",
+        "text": "south at the top, north at the bottom, east on the left, west on the right"
+      },
+      {
+        "key": "C",
+        "text": "there is no fixed convention"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Maps usually show north at the top, south at the bottom, west on the left, and east on the right.",
+    "verify": "'north at the top, south at the bottom, west on the left, east on the right'",
+    "id": "cnm_p049_q2",
+    "topicId": "cnm_p049"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Xiaoming faces east in the morning. Which direction is behind him?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "east"
+      },
+      {
+        "key": "B",
+        "text": "west"
+      },
+      {
+        "key": "C",
+        "text": "south"
+      },
+      {
+        "key": "D",
+        "text": "north"
+      }
+    ],
+    "answer": "B",
+    "explanation": "If he faces east, west is behind him.",
+    "verify": "'west'",
+    "id": "cnm_p049_q3",
+    "topicId": "cnm_p049"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "Xiaoming faces east in the morning. Which direction is to his right?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "south"
+      },
+      {
+        "key": "B",
+        "text": "north"
+      },
+      {
+        "key": "C",
+        "text": "east"
+      },
+      {
+        "key": "D",
+        "text": "west"
+      }
+    ],
+    "answer": "A",
+    "explanation": "When he faces east, north is on his left and south is on his right.",
+    "verify": "'south'",
+    "id": "cnm_p049_q4",
+    "topicId": "cnm_p049"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "In division with a remainder, which is smaller: the remainder or the divisor?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "the remainder is smaller than the divisor"
+      },
+      {
+        "key": "B",
+        "text": "the remainder is larger than the divisor"
+      },
+      {
+        "key": "C",
+        "text": "the remainder is always 0"
+      }
+    ],
+    "answer": "A",
+    "explanation": "If the remainder is not smaller than the divisor, another group can still be made.",
+    "verify": "'the remainder is smaller than the divisor'",
+    "id": "cnm_p050_q1",
+    "topicId": "cnm_p050"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 13 candies, with 5 in each bag. Give the quotient first, then the remainder.",
+    "answer": "2, 3",
+    "explanation": "13÷5=2 bags, remainder 3; the remainder 3 is less than the divisor 5.",
+    "verify": "(13//5, 13%5)",
+    "id": "cnm_p050_q2",
+    "topicId": "cnm_p050"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 17 notebooks, with 3 in each bundle. Give the quotient first, then the remainder.",
+    "answer": "5, 2",
+    "explanation": "17÷3=5 bundles, remainder 2.",
+    "verify": "(17//3, 17%3)",
+    "id": "cnm_p050_q3",
+    "topicId": "cnm_p050"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "The remainder of 20÷6 is written as 8. Why is this incorrect?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "the remainder must be smaller than the divisor"
+      },
+      {
+        "key": "B",
+        "text": "the quotient must be 0"
+      },
+      {
+        "key": "C",
+        "text": "the remainder must be larger than the quotient"
+      }
+    ],
+    "answer": "A",
+    "explanation": "6×2=12 and 20−12=8. Since 8 is greater than the divisor 6, another group can be made. The correct remainder is 2.",
+    "verify": "'the remainder must be smaller than the divisor'",
+    "id": "cnm_p050_q4",
+    "topicId": "cnm_p050"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 14 candies, with 4 in each bag. Give the quotient first, then the remainder.",
+    "answer": "3, 2",
+    "explanation": "4×3=12 and 14−12=2, so the quotient is 3 and the remainder is 2.",
+    "verify": "(14//4, 14%4)",
+    "id": "cnm_p051_q1",
+    "topicId": "cnm_p051"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 25 apples, with 7 in each bag. Give the quotient first, then the remainder.",
+    "answer": "3, 4",
+    "explanation": "7×3=21 and 25−21=4, so the quotient is 3 and the remainder is 4.",
+    "verify": "(25//7, 25%7)",
+    "id": "cnm_p051_q2",
+    "topicId": "cnm_p051"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 30 apples, with 8 in each bag. Give the quotient first, then the remainder.",
+    "answer": "3, 6",
+    "explanation": "8×3=24 and 30−24=6.",
+    "verify": "(30//8, 30%8)",
+    "id": "cnm_p051_q3",
+    "topicId": "cnm_p051"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "For 47÷7, use 7×6=42 to find the remainder.",
+    "answer": "5",
+    "explanation": "The quotient is 6 and the remainder is 47−42=5, which is less than 7.",
+    "verify": "47%7",
+    "id": "cnm_p051_q4",
+    "topicId": "cnm_p051"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 23 balls, with 5 in each bag. Give the quotient first, then the remainder.",
+    "answer": "4, 3",
+    "explanation": "23÷5=4 bags, remainder 3.",
+    "verify": "(23//5, 23%5)",
+    "id": "cnm_p052_q1",
+    "topicId": "cnm_p052"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Nineteen people line up in rows of 4. Give the number of full rows first, then the number of people left over.",
+    "answer": "4, 3",
+    "explanation": "19÷4=4 rows, remainder 3 people.",
+    "verify": "(19//4, 19%4)",
+    "id": "cnm_p052_q2",
+    "topicId": "cnm_p052"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Twenty-eight people rent boats that hold 6 people each. How many people are left who cannot fill another boat?",
+    "answer": "4",
+    "explanation": "28÷6=4 boats, remainder 4 people.",
+    "verify": "28%6",
+    "id": "cnm_p052_q3",
+    "topicId": "cnm_p052"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "There are 23 balls, with 5 in each bag, and 3 balls are left after filling the bags. How many more balls are needed to fill one more bag?",
+    "answer": "2",
+    "explanation": "There are 5−3=2 balls missing.",
+    "verify": "5-3",
+    "id": "cnm_p052_q4",
+    "topicId": "cnm_p052"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What number comes after 999?",
+    "answer": "1000",
+    "explanation": "Adding 1 to 999 gives 1000.",
+    "verify": "999+1",
+    "id": "cnm_p053_q1",
+    "topicId": "cnm_p053"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What number comes before 1000?",
+    "answer": "999",
+    "explanation": "The number before 1000 is 999.",
+    "verify": "1000-1",
+    "id": "cnm_p053_q2",
+    "topicId": "cnm_p053"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What digit is in the hundreds place in 3400?",
+    "answer": "4",
+    "explanation": "From right to left, the places are ones, tens, and hundreds; the hundreds digit in 3400 is 4.",
+    "verify": "4",
+    "id": "cnm_p053_q3",
+    "topicId": "cnm_p053"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "What digit is in the thousands place in 5060?",
+    "answer": "5",
+    "explanation": "5060 has 5 thousands, 0 hundreds, 6 tens, and 0 ones, so the thousands digit is 5.",
+    "verify": "5",
+    "id": "cnm_p053_q4",
+    "topicId": "cnm_p053"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Which is greater, 999 or 1000?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1000"
+      },
+      {
+        "key": "B",
+        "text": "999"
+      },
+      {
+        "key": "C",
+        "text": "they are equal"
+      }
+    ],
+    "answer": "A",
+    "explanation": "1000 has four digits and 999 has three; a number with more digits is greater.",
+    "verify": "'1000'",
+    "id": "cnm_p054_q1",
+    "topicId": "cnm_p054"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Which is the greater number, 3200 or 999?",
+    "answer": "3200",
+    "explanation": "3200 has four digits and 999 has three, so 3200 is greater.",
+    "verify": "3200",
+    "id": "cnm_p054_q2",
+    "topicId": "cnm_p054"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which of these four numbers is the greatest?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "3986"
+      },
+      {
+        "key": "B",
+        "text": "4012"
+      },
+      {
+        "key": "C",
+        "text": "4001"
+      },
+      {
+        "key": "D",
+        "text": "998"
+      }
+    ],
+    "answer": "B",
+    "explanation": "4012 and 4001 both have four digits and the same thousands digit; comparing the hundreds digits shows that 4012 is greater. 998 has only three digits.",
+    "verify": "'4012'",
+    "id": "cnm_p054_q3",
+    "topicId": "cnm_p054"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "What is the greatest number among 989, 1001, 999, and 1100?",
+    "answer": "1100",
+    "explanation": "1100 has 1 thousand and 1 hundred, so it is greater than 1001.",
+    "verify": "1100",
+    "id": "cnm_p054_q4",
+    "topicId": "cnm_p054"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many hundreds are in 2300?",
+    "answer": "23",
+    "explanation": "2300=23 hundreds.",
+    "verify": "2300//100",
+    "id": "cnm_p055_q1",
+    "topicId": "cnm_p055"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many thousands are in 4000?",
+    "answer": "4",
+    "explanation": "4000=4 thousands.",
+    "verify": "4000//1000",
+    "id": "cnm_p055_q2",
+    "topicId": "cnm_p055"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What digit is in the hundreds place in 1600?",
+    "answer": "6",
+    "explanation": "1600 has 1 thousand and 6 hundreds, so the hundreds digit is 6.",
+    "verify": "6",
+    "id": "cnm_p055_q3",
+    "topicId": "cnm_p055"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "What number is made from 3 thousands and 5 tens?",
+    "answer": "3050",
+    "explanation": "3 thousands make 3000 and 5 tens make 50; together they make 3050.",
+    "verify": "3000+50",
+    "id": "cnm_p055_q4",
+    "topicId": "cnm_p055"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When an expression has multiplication and addition or subtraction, what order should you use?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "multiply and divide first, then add and subtract"
+      },
+      {
+        "key": "B",
+        "text": "always work from left to right, without prioritizing multiplication"
+      },
+      {
+        "key": "C",
+        "text": "calculate the largest number first"
+      }
+    ],
+    "answer": "A",
+    "explanation": "When multiplication and addition or subtraction appear together, do the multiplication first.",
+    "verify": "'multiply and divide first, then add and subtract'",
+    "id": "cnm_p057_q1",
+    "topicId": "cnm_p057"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Following the correct order, what is 3×4+5?",
+    "answer": "17",
+    "explanation": "First calculate 3×4=12, then add 5 to get 17.",
+    "verify": "3*4+5",
+    "id": "cnm_p057_q2",
+    "topicId": "cnm_p057"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 4 pens in each box. How many pens are there in 3 boxes plus 2 extra pens?",
+    "answer": "14",
+    "explanation": "First calculate 4×3=12, then add 2 to get 14.",
+    "verify": "4*3+2",
+    "id": "cnm_p057_q3",
+    "topicId": "cnm_p057"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "In 20−2×6, multiply first. What is the result?",
+    "answer": "8",
+    "explanation": "First calculate 2×6=12, then 20−12=8. Do not subtract 2 from 20 first.",
+    "verify": "20-2*6",
+    "id": "cnm_p057_q4",
+    "topicId": "cnm_p057"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A sequence is 2, 5, 8. The amount added each time is the same. What comes after 8?",
+    "answer": "11",
+    "explanation": "Add 3 each time: 8+3=11.",
+    "verify": "8+3",
+    "id": "cnm_p060_q1",
+    "topicId": "cnm_p060"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A sequence is 16, 14, 12. The amount subtracted each time is the same. What comes after 12?",
+    "answer": "10",
+    "explanation": "Subtract 2 each time: 12−2=10.",
+    "verify": "12-2",
+    "id": "cnm_p060_q2",
+    "topicId": "cnm_p060"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A sequence is 3, 6, 9, 12. What comes after 12 if the pattern continues?",
+    "answer": "15",
+    "explanation": "Add 3 each time: 12+3=15.",
+    "verify": "12+3",
+    "id": "cnm_p060_q3",
+    "topicId": "cnm_p060"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A sequence is 2, 5, 8, 11, 14. What comes after 14 if the pattern continues?",
+    "answer": "17",
+    "explanation": "Add 3 each time: 14+3=17.",
+    "verify": "14+3",
+    "id": "cnm_p060_q4",
+    "topicId": "cnm_p060"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "How long does it take for the second hand to make one full turn?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1 minute"
+      },
+      {
+        "key": "B",
+        "text": "1 hour"
+      },
+      {
+        "key": "C",
+        "text": "1 second"
+      }
+    ],
+    "answer": "A",
+    "explanation": "One full turn takes 60 seconds, or 1 minute.",
+    "verify": "'1 minute'",
+    "id": "cnm_p061_q1",
+    "topicId": "cnm_p061"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many seconds are in 2 minutes?",
+    "answer": "120",
+    "explanation": "1 minute=60 seconds, so 2 minutes=120 seconds.",
+    "verify": "2*60",
+    "id": "cnm_p061_q2",
+    "topicId": "cnm_p061"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "How many seconds are in 3 minutes?",
+    "answer": "180",
+    "explanation": "3×60=180 seconds.",
+    "verify": "3*60",
+    "id": "cnm_p061_q3",
+    "topicId": "cnm_p061"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "The second hand has moved for 40 seconds. How many more seconds until it completes 1 minute?",
+    "answer": "20",
+    "explanation": "1 minute=60 seconds, and 60−40=20 seconds.",
+    "verify": "60-40",
+    "id": "cnm_p061_q4",
+    "topicId": "cnm_p061"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "How many minutes are in 1 hour?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "60 minutes"
+      },
+      {
+        "key": "B",
+        "text": "100 minutes"
+      },
+      {
+        "key": "C",
+        "text": "24 minutes"
+      }
+    ],
+    "answer": "A",
+    "explanation": "1 hour=60 minutes.",
+    "verify": "'60 minutes'",
+    "id": "cnm_p062_q1",
+    "topicId": "cnm_p062"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many minutes are in 2 hours?",
+    "answer": "120",
+    "explanation": "2×60=120 minutes.",
+    "verify": "2*60",
+    "id": "cnm_p062_q2",
+    "topicId": "cnm_p062"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "How many seconds are in 4 minutes?",
+    "answer": "240",
+    "explanation": "1 minute=60 seconds, so 4 minutes=240 seconds.",
+    "verify": "4*60",
+    "id": "cnm_p062_q3",
+    "topicId": "cnm_p062"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many minutes are in 1 hour and 20 minutes?",
+    "answer": "80",
+    "explanation": "1 hour=60 minutes; add 20 minutes to get 80 minutes.",
+    "verify": "60+20",
+    "id": "cnm_p062_q4",
+    "topicId": "cnm_p062"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many minutes pass from 3:20 to 3:35?",
+    "answer": "15",
+    "explanation": "35−20=15 minutes.",
+    "verify": "35-20",
+    "id": "cnm_p063_q1",
+    "topicId": "cnm_p063"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many minutes pass from 4:45 to 5:00?",
+    "answer": "15",
+    "explanation": "There are 60−45=15 minutes until 5:00.",
+    "verify": "60-45",
+    "id": "cnm_p063_q2",
+    "topicId": "cnm_p063"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A movie starts at 7:15 and ends at 7:50. How many minutes long is it?",
+    "answer": "35",
+    "explanation": "50−15=35 minutes.",
+    "verify": "50-15",
+    "id": "cnm_p063_q3",
+    "topicId": "cnm_p063"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many minutes pass from 3:50 to 4:10?",
+    "answer": "20",
+    "explanation": "It takes 10 minutes to reach 4:00, then another 10 minutes, for 20 minutes in all.",
+    "verify": "60-50+10",
+    "id": "cnm_p063_q4",
+    "topicId": "cnm_p063"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A library receives 300 books in one delivery and 400 in another. How many books are there in the two deliveries altogether?",
+    "answer": "700",
+    "explanation": "3 hundreds plus 4 hundreds make 7 hundreds, or 700.",
+    "verify": "300+400",
+    "id": "cnm_p064_q1",
+    "topicId": "cnm_p064"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 250 storybooks, and 30 more are added. How many are there now?",
+    "answer": "280",
+    "explanation": "250+30=280.",
+    "verify": "250+30",
+    "id": "cnm_p064_q2",
+    "topicId": "cnm_p064"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "One box has 180 books and another has 140. How many books are in the two boxes altogether?",
+    "answer": "320",
+    "explanation": "180+140=320.",
+    "verify": "180+140",
+    "id": "cnm_p064_q3",
+    "topicId": "cnm_p064"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "One box has 180 books and another has 140. Then 50 more books arrive. How many are there now?",
+    "answer": "370",
+    "explanation": "180+140=320, then add 50 to get 370.",
+    "verify": "180+140+50",
+    "id": "cnm_p064_q4",
+    "topicId": "cnm_p064"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 800 books on a shelf. How many are left after 300 are moved?",
+    "answer": "500",
+    "explanation": "800−300=500.",
+    "verify": "800-300",
+    "id": "cnm_p065_q1",
+    "topicId": "cnm_p065"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 560 books, and 40 are borrowed. How many are left?",
+    "answer": "520",
+    "explanation": "560−40=520.",
+    "verify": "560-40",
+    "id": "cnm_p065_q2",
+    "topicId": "cnm_p065"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A library has 730 books, and 280 are borrowed. How many are left?",
+    "answer": "450",
+    "explanation": "730−280=450.",
+    "verify": "730-280",
+    "id": "cnm_p065_q3",
+    "topicId": "cnm_p065"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A library has 730 books. After 280 are borrowed, 50 are returned. How many books are there now?",
+    "answer": "500",
+    "explanation": "730−280=450, then add 50 to get 500.",
+    "verify": "730-280+50",
+    "id": "cnm_p065_q4",
+    "topicId": "cnm_p065"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is the purpose of estimating?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "to quickly find about how much something is"
+      },
+      {
+        "key": "B",
+        "text": "to always calculate the exact answer"
+      },
+      {
+        "key": "C",
+        "text": "to use only with subtraction"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Estimation rounds numbers to the nearest ten or hundred to find an approximate result.",
+    "verify": "'to quickly find about how much something is'",
+    "id": "cnm_p066_q1",
+    "topicId": "cnm_p066"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "When estimating 198+102, what should 198 be rounded to?",
+    "answer": "200",
+    "explanation": "198 is close to 200.",
+    "verify": "200",
+    "id": "cnm_p066_q2",
+    "topicId": "cnm_p066"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A shirt costs 198 yuan and a hat costs 102 yuan. If their prices are rounded to 200 yuan and 100 yuan, about how much do they cost altogether?",
+    "answer": "300",
+    "explanation": "200+100=300.",
+    "verify": "200+100",
+    "id": "cnm_p066_q3",
+    "topicId": "cnm_p066"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "For 43+28, round 43 to 40 and 28 to 30 to estimate 70. The exact sum is 71. How much less is the estimate than the exact sum?",
+    "answer": "1",
+    "explanation": "71−70=1.",
+    "verify": "43+28-(40+30)",
+    "id": "cnm_p066_q4",
+    "topicId": "cnm_p066"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Two warehouses have 234 boxes and 125 boxes, respectively. How many boxes are there altogether?",
+    "answer": "359",
+    "explanation": "234+125=359.",
+    "verify": "234+125",
+    "id": "cnm_p071_q1",
+    "topicId": "cnm_p071"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is 406 boxes plus 270 boxes?",
+    "answer": "676",
+    "explanation": "406+270=676.",
+    "verify": "406+270",
+    "id": "cnm_p071_q2",
+    "topicId": "cnm_p071"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Two warehouses have 368 boxes and 475 boxes, respectively. How many boxes are there altogether?",
+    "answer": "843",
+    "explanation": "Regroup from the ones and tens places: 368+475=843.",
+    "verify": "368+475",
+    "id": "cnm_p071_q3",
+    "topicId": "cnm_p071"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "For 498+357, regroup in both the ones and tens places. What is the sum?",
+    "answer": "855",
+    "explanation": "In the ones place, 8+7=15; in the tens place, 9+5+1=15; in the hundreds place, 4+3+1=8. The sum is 855.",
+    "verify": "498+357",
+    "id": "cnm_p071_q4",
+    "topicId": "cnm_p071"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 756 books on a shelf. How many are left after 234 are moved?",
+    "answer": "522",
+    "explanation": "756−234=522.",
+    "verify": "756-234",
+    "id": "cnm_p072_q1",
+    "topicId": "cnm_p072"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 600 books on a shelf. How many are left after 248 are moved?",
+    "answer": "352",
+    "explanation": "Regroup in both the ones and tens places: 600−248=352.",
+    "verify": "600-248",
+    "id": "cnm_p072_q2",
+    "topicId": "cnm_p072"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "In 803−457, there is a 0 in the middle, so regrouping must continue across places. What is the difference?",
+    "answer": "346",
+    "explanation": "803−457=346.",
+    "verify": "803-457",
+    "id": "cnm_p072_q3",
+    "topicId": "cnm_p072"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "In 702−468, the tens digit is 0, so regrouping must continue across places. What is the difference?",
+    "answer": "234",
+    "explanation": "After regrouping in the ones place, regroup from the hundreds place through the 0 in the tens place: 702−468=234.",
+    "verify": "702-468",
+    "id": "cnm_p072_q4",
+    "topicId": "cnm_p072"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 4 boxes with 6 eggs in each box. How many eggs are there in all?",
+    "answer": "24",
+    "explanation": "Amount per group × number of groups = total: 6×4=24.",
+    "verify": "6*4",
+    "id": "cnm_p219_q1",
+    "topicId": "cnm_p219"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Eighteen apples are shared equally among 3 children. How many apples does each child get?",
+    "answer": "6",
+    "explanation": "Total ÷ number of groups = amount per group: 18÷3=6.",
+    "verify": "18//3",
+    "id": "cnm_p219_q2",
+    "topicId": "cnm_p219"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 35 balloons, with 5 tied in each bunch. How many bunches can be made?",
+    "answer": "7",
+    "explanation": "Total ÷ amount per group = number of groups: 35÷5=7.",
+    "verify": "35//5",
+    "id": "cnm_p219_q3",
+    "topicId": "cnm_p219"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "There are 4 boxes with 6 eggs in each box. How many eggs are left after 5 are eaten?",
+    "answer": "19",
+    "explanation": "First find the total, 6×4=24, then subtract 5 to get 19.",
+    "verify": "6*4-5",
+    "id": "cnm_p219_q4",
+    "topicId": "cnm_p219"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "□+250=600. What is □?",
+    "answer": "350",
+    "explanation": "Addend = sum − other addend: 600−250=350.",
+    "verify": "600-250",
+    "id": "cnm_p220_q1",
+    "topicId": "cnm_p220"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "□−180=320. What is □?",
+    "answer": "500",
+    "explanation": "Minuend = difference + subtrahend: 320+180=500.",
+    "verify": "320+180",
+    "id": "cnm_p220_q2",
+    "topicId": "cnm_p220"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "760−□=430. What is □?",
+    "answer": "330",
+    "explanation": "Subtrahend = minuend − difference: 760−430=330.",
+    "verify": "760-430",
+    "id": "cnm_p220_q3",
+    "topicId": "cnm_p220"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "The sum is 600, and one addend is 250. How much remains after subtracting 40 from the other addend?",
+    "answer": "310",
+    "explanation": "The other addend is 600−250=350; subtracting 40 leaves 310.",
+    "verify": "600-250-40",
+    "id": "cnm_p220_q4",
+    "topicId": "cnm_p220"
+  }
+]

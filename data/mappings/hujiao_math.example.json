@@ -1,0 +1,42 @@
+{
+  "edition": "hujiao_math",
+  "label": "Mathematics",
+  "status": "example",
+  "note": "Only the presentation format, not the true control table: value, value, unit, or chapter, is not checked against the directory of teaching materials, and cannot be cited as a reference in the front end or read the document. Press docs/edition-mappings.md to add PR, file name hujao math.json and write the basis for the comparison in the source.",
+  "entries": [
+    {
+      "topicId": "cnm_p001",
+      "grade": 1,
+      "term": "上",
+      "unit": "Example Unit Name (placed)",
+      "chapter": "Example title (placed)"
+    },
+    {
+      "topicId": "cnm_p002",
+      "grade": 1,
+      "term": "上",
+      "note": "Example: unit, chapter can be omitted"
+    },
+    {
+      "topicId": "cnm_p029",
+      "grade": 1,
+      "term": "下"
+    },
+    {
+      "topicId": "cnm_p054",
+      "grade": 2,
+      "term": "下"
+    },
+    {
+      "topicId": "cnm_p158",
+      "grade": 5,
+      "term": "上",
+      "note": "Example: Presentation grade/term of a different formulation than a human version (the human version is in the lower fifth grade) with a value of place rather than a true comparison"
+    },
+    {
+      "topicId": "cnm_p188",
+      "grade": 6,
+      "term": "上"
+    }
+  ]
+}

@@ -1,0 +1,2026 @@
+[
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the product of 12×11?",
+    "answer": "132",
+    "explanation": "12×10=120; add 12 to get 132.",
+    "verify": "12*11",
+    "id": "cnm_p086_q1",
+    "topicId": "cnm_p086"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Each box contains 15 pencils. How many pencils are in 12 boxes?",
+    "answer": "180",
+    "explanation": "15×12=180 pencils.",
+    "verify": "15*12",
+    "id": "cnm_p086_q2",
+    "topicId": "cnm_p086"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Each box contains 24 pencils. How many pencils are in 13 boxes?",
+    "answer": "312",
+    "explanation": "24×13=312 pencils.",
+    "verify": "24*13",
+    "id": "cnm_p086_q3",
+    "topicId": "cnm_p086"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Each case contains 36 bottles. After buying 25 cases and selling 200 bottles, how many bottles remain?",
+    "answer": "700",
+    "explanation": "There are 36×25=900 bottles in all, so 900−200=700 bottles remain.",
+    "verify": "36*25-200",
+    "id": "cnm_p086_q4",
+    "topicId": "cnm_p086"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "There are 16 seats in each row and 12 rows. How many seats are there altogether?",
+    "answer": "192",
+    "explanation": "16×12=192 seats.",
+    "verify": "16*12",
+    "id": "cnm_p087_q1",
+    "topicId": "cnm_p087"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Each workbook has 25 pages. How many pages are there in 14 workbooks?",
+    "answer": "350",
+    "explanation": "25×14=350 pages.",
+    "verify": "25*14",
+    "id": "cnm_p087_q2",
+    "topicId": "cnm_p087"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 32 seats in each row and 21 rows. How many seats are there altogether?",
+    "answer": "672",
+    "explanation": "32×21=672 seats.",
+    "verify": "32*21",
+    "id": "cnm_p087_q3",
+    "topicId": "cnm_p087"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Each case contains 18 bottles. After buying 15 cases and drinking 50 bottles, how many bottles remain?",
+    "answer": "220",
+    "explanation": "There are 18×15=270 bottles in all, so 270−50=220 bottles remain.",
+    "verify": "18*15-50",
+    "id": "cnm_p087_q4",
+    "topicId": "cnm_p087"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What digit is in the ten-thousands place of 10000?",
+    "answer": "1",
+    "explanation": "The ten-thousands digit of 10000 is 1; the thousands, hundreds, tens, and ones digits are all 0.",
+    "verify": "1",
+    "id": "cnm_p096_q1",
+    "topicId": "cnm_p096"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the hundreds digit of 30500?",
+    "answer": "5",
+    "explanation": "From the right, the places are ones, tens, hundreds; the third digit is the hundreds digit, so it is 5 in 30500.",
+    "verify": "5",
+    "id": "cnm_p096_q2",
+    "topicId": "cnm_p096"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A number has 2 in the ten-thousands place, 4 in the thousands place, and 0 in the hundreds, tens, and ones places. What is the number?",
+    "answer": "24000",
+    "explanation": "The ten-thousands digit is 2 and the thousands digit is 4, followed by three zeros: 24000.",
+    "verify": "24000",
+    "id": "cnm_p096_q3",
+    "topicId": "cnm_p096"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How much greater is the greatest five-digit number than the least five-digit number?",
+    "answer": "89999",
+    "explanation": "The greatest five-digit number is 99999 and the least is 10000; their difference is 99999−10000=89999.",
+    "verify": "99999-10000",
+    "id": "cnm_p096_q4",
+    "topicId": "cnm_p096"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Express 230000 in units of ten-thousands. How many ten-thousands is that?",
+    "answer": "23",
+    "explanation": "230000=23 groups of 10000, so it is written as 23 ten-thousands.",
+    "verify": "230000/10000",
+    "id": "cnm_p097_q1",
+    "topicId": "cnm_p097"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Express 48000 in units of ten-thousands. How many ten-thousands is that? (Answer as a decimal.)",
+    "answer": "4.8",
+    "explanation": "48000=4.8 groups of 10000, so it is written as 4.8 ten-thousands.",
+    "verify": "Fraction(48000,10000)",
+    "id": "cnm_p097_q2",
+    "topicId": "cnm_p097"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A city has about 1260000 people. Express this in units of ten-thousands. How many ten-thousands is that?",
+    "answer": "126",
+    "explanation": "1260000÷10000=126, so it is written as 126 ten-thousands.",
+    "verify": "1260000/10000",
+    "id": "cnm_p097_q3",
+    "topicId": "cnm_p097"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Round 35280 to the nearest ten-thousand. What is the approximate value?",
+    "answer": "40000",
+    "explanation": "The thousands digit is 5, so round the ten-thousands digit up by 1: 35280≈40000.",
+    "verify": "40000",
+    "id": "cnm_p097_q4",
+    "topicId": "cnm_p097"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When measuring an angle with a protractor, which part of the angle should align with the protractor's center?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Vertex"
+      },
+      {
+        "key": "B",
+        "text": "Midpoint of either side"
+      },
+      {
+        "key": "C",
+        "text": "Outside the angle"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Place the center at the vertex, align the zero-degree line with one ray, then read the mark where the other ray crosses.",
+    "verify": "'Vertex'",
+    "id": "cnm_p100_q1",
+    "topicId": "cnm_p100"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "The two sides of an angle line up with 0 degrees and 40 degrees on a protractor. How many degrees is the angle?",
+    "answer": "40",
+    "explanation": "The other side lines up with 40 degrees, so the angle measures 40 degrees.",
+    "verify": "40",
+    "id": "cnm_p100_q2",
+    "topicId": "cnm_p100"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A right angle is 90 degrees and another angle is 35 degrees. How many degrees smaller is the other angle?",
+    "answer": "55",
+    "explanation": "90−35=55 degrees.",
+    "verify": "90-35",
+    "id": "cnm_p100_q3",
+    "topicId": "cnm_p100"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Draw a 50-degree angle, then draw a 40-degree angle outward from one of its sides. What is the measure of the combined angle?",
+    "answer": "90",
+    "explanation": "Combine the two angles: 50+40=90 degrees.",
+    "verify": "50+40",
+    "id": "cnm_p100_q4",
+    "topicId": "cnm_p100"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the product of 123×11?",
+    "answer": "1353",
+    "explanation": "123×10=1230; add 123 to get 1353.",
+    "verify": "123*11",
+    "id": "cnm_p102_q1",
+    "topicId": "cnm_p102"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Each case contains 200 books. How many books are in 12 cases?",
+    "answer": "2400",
+    "explanation": "200×12=2400 books.",
+    "verify": "200*12",
+    "id": "cnm_p102_q2",
+    "topicId": "cnm_p102"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Each case contains 125 bottles. How many bottles are in 16 cases?",
+    "answer": "2000",
+    "explanation": "125×16=2000 bottles.",
+    "verify": "125*16",
+    "id": "cnm_p102_q3",
+    "topicId": "cnm_p102"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A book has 308 pages. How many pages are in 24 copies?",
+    "answer": "7392",
+    "explanation": "308×24=7392 pages.",
+    "verify": "308*24",
+    "id": "cnm_p102_q4",
+    "topicId": "cnm_p102"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Two lines intersect at a right angle. What is their relationship?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Perpendicular"
+      },
+      {
+        "key": "B",
+        "text": "Parallel"
+      },
+      {
+        "key": "C",
+        "text": "Coincident"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Two lines that intersect at a right angle are perpendicular.",
+    "verify": "'Perpendicular'",
+    "id": "cnm_p103_q1",
+    "topicId": "cnm_p103"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Two perpendicular lines intersect and form 4 angles. How many of them are right angles?",
+    "answer": "4",
+    "explanation": "When two lines are perpendicular, all 4 angles are right angles.",
+    "verify": "4",
+    "id": "cnm_p103_q2",
+    "topicId": "cnm_p103"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A flagpole is perpendicular to the ground. What is the angle between the flagpole and the ground?",
+    "answer": "90",
+    "explanation": "Perpendicular lines form a right angle, which measures 90 degrees.",
+    "verify": "90",
+    "id": "cnm_p103_q3",
+    "topicId": "cnm_p103"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many perpendicular lines can be drawn through a point outside a given line?",
+    "answer": "1",
+    "explanation": "Exactly 1 line through a point outside a given line is perpendicular to that line.",
+    "verify": "1",
+    "id": "cnm_p103_q4",
+    "topicId": "cnm_p103"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "In the same plane, what is the relationship between two lines that do not intersect?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Parallel"
+      },
+      {
+        "key": "B",
+        "text": "Perpendicular"
+      },
+      {
+        "key": "C",
+        "text": "They must coincide"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Two non-intersecting lines in the same plane are parallel.",
+    "verify": "'Parallel'",
+    "id": "cnm_p104_q1",
+    "topicId": "cnm_p104"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many pairs of parallel sides does a rectangle have?",
+    "answer": "2",
+    "explanation": "The two pairs of opposite sides of a rectangle are parallel, so there are 2 pairs.",
+    "verify": "2",
+    "id": "cnm_p104_q2",
+    "topicId": "cnm_p104"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "How does the distance between two parallel lines vary?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It is the same everywhere"
+      },
+      {
+        "key": "B",
+        "text": "It is wider in some places and narrower in others"
+      },
+      {
+        "key": "C",
+        "text": "It is always 0"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The distance between parallel lines is the same everywhere.",
+    "verify": "'It is the same everywhere'",
+    "id": "cnm_p104_q3",
+    "topicId": "cnm_p104"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A perpendicular segment between two parallel lines is 5 centimeters long. How long is a perpendicular segment drawn at another point?",
+    "answer": "5",
+    "explanation": "The perpendicular segments measure the distance between the parallel lines, which is the same everywhere: 5 centimeters.",
+    "verify": "5",
+    "id": "cnm_p104_q4",
+    "topicId": "cnm_p104"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is true of the opposite sides of a parallelogram?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "They are parallel and equal in length"
+      },
+      {
+        "key": "B",
+        "text": "None of the four sides are parallel"
+      },
+      {
+        "key": "C",
+        "text": "Only one side is parallel"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Both pairs of opposite sides in a parallelogram are parallel and equal in length.",
+    "verify": "'They are parallel and equal in length'",
+    "id": "cnm_p105_q1",
+    "topicId": "cnm_p105"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is the defining property of a trapezoid?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "One pair of opposite sides is parallel"
+      },
+      {
+        "key": "B",
+        "text": "All four sides are equal"
+      },
+      {
+        "key": "C",
+        "text": "It has no parallel sides"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A trapezoid has one pair of parallel opposite sides.",
+    "verify": "'One pair of opposite sides is parallel'",
+    "id": "cnm_p105_q2",
+    "topicId": "cnm_p105"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Adjacent sides of a parallelogram are 6 centimeters and 4 centimeters long. What is its perimeter?",
+    "answer": "20",
+    "explanation": "Opposite sides are equal: (6+4)×2=20 centimeters.",
+    "verify": "(6+4)*2",
+    "id": "cnm_p105_q3",
+    "topicId": "cnm_p105"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "One pair of opposite sides of a parallelogram is 8 centimeters long, and its perimeter is 28 centimeters. How long is each side in the other pair?",
+    "answer": "6",
+    "explanation": "The first pair totals 16 centimeters. The other pair totals 28−16=12 centimeters, so each side is 12÷2=6 centimeters.",
+    "verify": "(28-8*2)//2",
+    "id": "cnm_p105_q4",
+    "topicId": "cnm_p105"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the quotient of 96÷12?",
+    "answer": "8",
+    "explanation": "12×8=96, so 96÷12=8.",
+    "verify": "96//12",
+    "id": "cnm_p106_q1",
+    "topicId": "cnm_p106"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the quotient of 150÷25?",
+    "answer": "6",
+    "explanation": "25×6=150, so 150÷25=6.",
+    "verify": "150//25",
+    "id": "cnm_p106_q2",
+    "topicId": "cnm_p106"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 288 notebooks, bundled 16 to a bundle. How many bundles can be made?",
+    "answer": "18",
+    "explanation": "288÷16=18 bundles.",
+    "verify": "288//16",
+    "id": "cnm_p106_q3",
+    "topicId": "cnm_p106"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Notebooks are bundled 16 to a bundle. Ten bundles have been made, and 128 notebooks remain. How many notebooks were there originally?",
+    "answer": "288",
+    "explanation": "The 10 bundles contain 16×10=160 notebooks. Add the remaining 128 to get 288 notebooks altogether.",
+    "verify": "16*10+128",
+    "id": "cnm_p106_q4",
+    "topicId": "cnm_p106"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the quotient of 80÷20?",
+    "answer": "4",
+    "explanation": "80÷20=4.",
+    "verify": "80//20",
+    "id": "cnm_p107_q1",
+    "topicId": "cnm_p107"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Given that 15÷5=3, what is the quotient of 150÷50 by the invariant quotient property?",
+    "answer": "3",
+    "explanation": "Multiplying both the dividend and divisor by 10 does not change the quotient, so it remains 3.",
+    "verify": "15//5",
+    "id": "cnm_p107_q2",
+    "topicId": "cnm_p107"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "For 600÷30, remove one zero from both numbers and calculate 60÷3 first. What is the quotient?",
+    "answer": "20",
+    "explanation": "Dividing both the dividend and divisor by 10 does not change the quotient: 60÷3=20.",
+    "verify": "600//30",
+    "id": "cnm_p107_q3",
+    "topicId": "cnm_p107"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Multiply both the dividend and divisor in 12÷4 by 5. What is the quotient of the new expression?",
+    "answer": "3",
+    "explanation": "Multiplying both by the same nonzero number does not change the quotient, so 12÷4=3.",
+    "verify": "12//4",
+    "id": "cnm_p107_q4",
+    "topicId": "cnm_p107"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is a bar graph useful for?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Comparing quantities"
+      },
+      {
+        "key": "B",
+        "text": "Showing how a quantity changes"
+      },
+      {
+        "key": "C",
+        "text": "Showing each part as a percentage of the total"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The length of each bar represents its quantity; a longer bar means a greater quantity.",
+    "verify": "'Comparing quantities'",
+    "id": "cnm_p108_q1",
+    "topicId": "cnm_p108"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "On a bar graph, the bar for people who like apples reaches 15, and the bar for people who like bananas reaches 9. How many people like apples?",
+    "answer": "15",
+    "explanation": "The value at the end of the bar is the quantity, so 15 people like apples.",
+    "verify": "15",
+    "id": "cnm_p108_q2",
+    "topicId": "cnm_p108"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Fifteen people like apples and 9 like bananas. How many more people like apples?",
+    "answer": "6",
+    "explanation": "15−9=6 people.",
+    "verify": "15-9",
+    "id": "cnm_p108_q3",
+    "topicId": "cnm_p108"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "The numbers of books borrowed over four days are 8, 6, 10, and 5. How many more books were borrowed on the busiest day than on the least busy day?",
+    "answer": "5",
+    "explanation": "The greatest number is 10 and the least is 5, so the difference is 10−5=5 books.",
+    "verify": "10-5",
+    "id": "cnm_p108_q4",
+    "topicId": "cnm_p108"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Two numbers add up to 36. If one addend is 15, what is the other?",
+    "answer": "21",
+    "explanation": "Subtract one addend from the sum to find the other: 36−15=21.",
+    "verify": "36-15",
+    "id": "cnm_p110_q1",
+    "topicId": "cnm_p110"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "The product of two factors is 48. If one factor is 6, what is the other?",
+    "answer": "8",
+    "explanation": "Divide the product by one factor to find the other: 48÷6=8.",
+    "verify": "48//6",
+    "id": "cnm_p110_q2",
+    "topicId": "cnm_p110"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Two numbers add up to 70. If one is 28, what is the other?",
+    "answer": "42",
+    "explanation": "70−28=42.",
+    "verify": "70-28",
+    "id": "cnm_p110_q3",
+    "topicId": "cnm_p110"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "The product of three numbers is 72. Two of the factors are 3 and 8. What is the third factor?",
+    "answer": "3",
+    "explanation": "Multiply the known factors first: 3×8=24. The third factor is 72÷24=3.",
+    "verify": "72//(3*8)",
+    "id": "cnm_p110_q4",
+    "topicId": "cnm_p110"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A notebook costs 8 yuan. How much do 6 notebooks cost?",
+    "answer": "48",
+    "explanation": "Total cost=unit price×quantity: 8×6=48 yuan.",
+    "verify": "8*6",
+    "id": "cnm_p111_q1",
+    "topicId": "cnm_p111"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A car travels at 60 kilometers per hour for 3 hours. How far does it travel?",
+    "answer": "180",
+    "explanation": "Distance=speed×time: 60×3=180 kilometers.",
+    "verify": "60*3",
+    "id": "cnm_p111_q2",
+    "topicId": "cnm_p111"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Six identical notebooks cost 48 yuan. How much does each notebook cost?",
+    "answer": "8",
+    "explanation": "Unit price=total cost÷quantity: 48÷6=8 yuan.",
+    "verify": "48//6",
+    "id": "cnm_p111_q3",
+    "topicId": "cnm_p111"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A car travels at 60 kilometers per hour. After traveling for 2 hours, it has 180 kilometers left to go. How many more hours will it take?",
+    "answer": "3",
+    "explanation": "Remaining time=distance÷speed: 180÷60=3 hours.",
+    "verify": "180//60",
+    "id": "cnm_p111_q4",
+    "topicId": "cnm_p111"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "The order of operations is parentheses first, then multiplication and division, then addition and subtraction. What is 50−(8+12)×2?",
+    "answer": "10",
+    "explanation": "First calculate 8+12=20, then 20×2=40, and finally 50−40=10.",
+    "verify": "50-(8+12)*2",
+    "id": "cnm_p112_q1",
+    "topicId": "cnm_p112"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is (12+8)×3?",
+    "answer": "60",
+    "explanation": "First calculate inside the parentheses: 12+8=20, then 20×3=60.",
+    "verify": "(12+8)*3",
+    "id": "cnm_p112_q2",
+    "topicId": "cnm_p112"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What is 96÷4−7?",
+    "answer": "17",
+    "explanation": "Without parentheses, calculate multiplication and division first: 96÷4=24, then 24−7=17.",
+    "verify": "96//4-7",
+    "id": "cnm_p112_q3",
+    "topicId": "cnm_p112"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "There are 3 boxes of pencils with 12 pencils in each. Six more pencils are taken out, then all the pencils are shared equally among 6 people. How many pencils does each person get?",
+    "answer": "7",
+    "explanation": "First find the total: 12×3+6=42 pencils. Then share equally: 42÷6=7 pencils each.",
+    "verify": "(12*3+6)//6",
+    "id": "cnm_p112_q4",
+    "topicId": "cnm_p112"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When viewing the same object from the front, side, and top, how might its shape appear?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The shape may look different"
+      },
+      {
+        "key": "B",
+        "text": "It must look the same"
+      },
+      {
+        "key": "C",
+        "text": "Only the front can be seen"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The object may look different when viewed from different directions.",
+    "verify": "'The shape may look different'",
+    "id": "cnm_p113_q1",
+    "topicId": "cnm_p113"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Three identical small cubes are placed in one horizontal row, one layer high. How many squares are visible from above?",
+    "answer": "3",
+    "explanation": "From above, the single row shows 3 squares.",
+    "verify": "3",
+    "id": "cnm_p113_q2",
+    "topicId": "cnm_p113"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Four identical small cubes are stacked vertically. How many squares are visible from above?",
+    "answer": "1",
+    "explanation": "The cubes are stacked, so from above only the top square is visible.",
+    "verify": "1",
+    "id": "cnm_p113_q3",
+    "topicId": "cnm_p113"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Place 3 small cubes in a row on the bottom layer, then stack 1 cube on top of the leftmost cube. How many squares are visible from the front?",
+    "answer": "4",
+    "explanation": "The left column is 2 layers high and the middle and right columns are each 1 layer high, so 2+1+1=4 squares are visible from the front.",
+    "verify": "2+1+1",
+    "id": "cnm_p113_q4",
+    "topicId": "cnm_p113"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Rewrite 28+72 as 72+28. What is the result?",
+    "answer": "100",
+    "explanation": "Commutative property of addition: changing the order of the addends does not change the sum. 28+72=100.",
+    "verify": "28+72",
+    "id": "cnm_p114_q1",
+    "topicId": "cnm_p114"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate 36+64 first, then add 50. What is the result?",
+    "answer": "150",
+    "explanation": "Associative property of addition: combine 36 and 64 to make 100, then add 50 to get 150.",
+    "verify": "36+64+50",
+    "id": "cnm_p114_q2",
+    "topicId": "cnm_p114"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Use the commutative or associative property to make a multiple of ten: what is 17+83?",
+    "answer": "100",
+    "explanation": "17+83=100.",
+    "verify": "17+83",
+    "id": "cnm_p114_q3",
+    "topicId": "cnm_p114"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Calculate 46+98+54. First add the numbers that make 100. What is the result?",
+    "answer": "198",
+    "explanation": "46+54=100, then add 98 to get 198.",
+    "verify": "46+98+54",
+    "id": "cnm_p114_q4",
+    "topicId": "cnm_p114"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the product of 25×4?",
+    "answer": "100",
+    "explanation": "25×4=100.",
+    "verify": "25*4",
+    "id": "cnm_p115_q1",
+    "topicId": "cnm_p115"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "In 5×8×2, calculate 5×2 first. What is the product?",
+    "answer": "80",
+    "explanation": "Associative property of multiplication: first calculate 5×2=10, then 10×8=80.",
+    "verify": "5*8*2",
+    "id": "cnm_p115_q2",
+    "topicId": "cnm_p115"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There are 25 people in each row and 4 rows. How many people are there altogether?",
+    "answer": "100",
+    "explanation": "25×4=100 people.",
+    "verify": "25*4",
+    "id": "cnm_p115_q3",
+    "topicId": "cnm_p115"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "In 25×4×7, calculate 25×4 first. What is the product?",
+    "answer": "700",
+    "explanation": "25×4=100, and 100×7=700.",
+    "verify": "25*4*7",
+    "id": "cnm_p115_q4",
+    "topicId": "cnm_p115"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Rewrite 25×4+25×6 as 25×(4+6). What is the result?",
+    "answer": "250",
+    "explanation": "Distributive property of multiplication: 25×10=250.",
+    "verify": "25*4+25*6",
+    "id": "cnm_p116_q1",
+    "topicId": "cnm_p116"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is 25×(4+6)?",
+    "answer": "250",
+    "explanation": "First calculate 4+6=10, then 25×10=250.",
+    "verify": "25*(4+6)",
+    "id": "cnm_p116_q2",
+    "topicId": "cnm_p116"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "You buy 4 pens and 6 more pens. Each pen costs 8 yuan. What is the total cost?",
+    "answer": "80",
+    "explanation": "8×(4+6)=8×10=80 yuan.",
+    "verify": "8*(4+6)",
+    "id": "cnm_p116_q3",
+    "topicId": "cnm_p116"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Rewrite 99×15 as (100−1)×15. What is the result?",
+    "answer": "1485",
+    "explanation": "100×15−1×15=1500−15=1485.",
+    "verify": "(100-1)*15",
+    "id": "cnm_p116_q4",
+    "topicId": "cnm_p116"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Rewrite 99×5 as (100−1)×5. What is the result?",
+    "answer": "495",
+    "explanation": "100×5−5=495.",
+    "verify": "99*5",
+    "id": "cnm_p117_q1",
+    "topicId": "cnm_p117"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate 36+64+50 by adding 36 and 64 to make 100 first. What is the result?",
+    "answer": "150",
+    "explanation": "100+50=150.",
+    "verify": "36+64+50",
+    "id": "cnm_p117_q2",
+    "topicId": "cnm_p117"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Rewrite 25×12 as 25×4×3. What is the product?",
+    "answer": "300",
+    "explanation": "25×4=100, and 100×3=300.",
+    "verify": "25*12",
+    "id": "cnm_p117_q3",
+    "topicId": "cnm_p117"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Each book costs 48 yuan. You buy 2 books. Estimate with 50×2, then subtract the extra amount. How much do you actually pay?",
+    "answer": "96",
+    "explanation": "50×2=100, which is 2×2=4 yuan too much, so the actual cost is 100−4=96 yuan.",
+    "verify": "48*2",
+    "id": "cnm_p117_q4",
+    "topicId": "cnm_p117"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Divide 1 meter into 10 equal parts. How many meters is 1 part? (Answer as a decimal.)",
+    "answer": "0.1",
+    "explanation": "One part is one tenth of a meter, written as 0.1 meter.",
+    "verify": "Fraction(1,10)",
+    "id": "cnm_p118_q1",
+    "topicId": "cnm_p118"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many 0.1s are in 0.3?",
+    "answer": "3",
+    "explanation": "A one-place decimal counts tenths; there are 3 tenths in 0.3.",
+    "verify": "3",
+    "id": "cnm_p118_q2",
+    "topicId": "cnm_p118"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Divide 1 meter into 10 equal parts and take 7 parts. How many meters is that, written as a one-place decimal? (Answer as a decimal.)",
+    "answer": "0.7",
+    "explanation": "Seven lengths of 0.1 meter make 0.7 meter.",
+    "verify": "Fraction(7,10)",
+    "id": "cnm_p118_q3",
+    "topicId": "cnm_p118"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Divide 1 whole into 100 equal parts and take 25 parts. What decimal represents this? (Answer as a decimal.)",
+    "answer": "0.25",
+    "explanation": "One part is 0.01, so 25 parts make 0.25. Two-place decimals represent hundredths.",
+    "verify": "Fraction(25,100)",
+    "id": "cnm_p118_q4",
+    "topicId": "cnm_p118"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Which is greater, 3.5 or 2.8? (Answer as a decimal.)",
+    "answer": "3.5",
+    "explanation": "Compare the whole-number parts first: 3＞2, so 3.5＞2.8.",
+    "verify": "Fraction(35,10)",
+    "id": "cnm_p119_q1",
+    "topicId": "cnm_p119"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Which number is greatest?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "0.8"
+      },
+      {
+        "key": "B",
+        "text": "0.75"
+      },
+      {
+        "key": "C",
+        "text": "0.9"
+      },
+      {
+        "key": "D",
+        "text": "0.69"
+      }
+    ],
+    "answer": "C",
+    "explanation": "All have a whole-number part of 0. The tenths digit 9 is greatest, so 0.9 is greatest.",
+    "verify": "Fraction(9,10)",
+    "id": "cnm_p119_q2",
+    "topicId": "cnm_p119"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "One rope is 2.4 meters long and another is 1.9 meters long. How long is the longer rope? (Answer as a decimal.)",
+    "answer": "2.4",
+    "explanation": "The whole-number part 2 is greater than 1, so the 2.4-meter rope is longer.",
+    "verify": "Fraction(24,10)",
+    "id": "cnm_p119_q3",
+    "topicId": "cnm_p119"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Which is the smallest of 0.7, 0.70, and 0.07? (Answer as a decimal.)",
+    "answer": "0.07",
+    "explanation": "0.7 and 0.70 are equal, while the tenths digit of 0.07 is 0, making it smaller.",
+    "verify": "Fraction(7,100)",
+    "id": "cnm_p119_q4",
+    "topicId": "cnm_p119"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What does 1.2 become when the decimal point moves one place to the right?",
+    "answer": "12",
+    "explanation": "Moving the decimal point one place to the right makes the number 10 times as large: 1.2×10=12.",
+    "verify": "Fraction(12,10)*10",
+    "id": "cnm_p120_q1",
+    "topicId": "cnm_p120"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What does 35 become when the decimal point moves one place to the left? (Answer as a decimal.)",
+    "answer": "3.5",
+    "explanation": "Moving the decimal point one place to the left makes the number one tenth as large: 35÷10=3.5.",
+    "verify": "Fraction(35,10)",
+    "id": "cnm_p120_q2",
+    "topicId": "cnm_p120"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What is 0.8 multiplied by 100?",
+    "answer": "80",
+    "explanation": "Multiplying by 100 moves the decimal point two places to the right: 0.8×100=80.",
+    "verify": "Fraction(8,10)*100",
+    "id": "cnm_p120_q3",
+    "topicId": "cnm_p120"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Move the decimal point in 6.4 two places to the right, then one place to the left. What number do you get?",
+    "answer": "64",
+    "explanation": "Moving it two places right gives 640; moving it one place left gives 64. Overall, the number is multiplied by 10.",
+    "verify": "Fraction(64,10)*100/10",
+    "id": "cnm_p120_q4",
+    "topicId": "cnm_p120"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Round 3.8 to the nearest whole number. What is the approximate value?",
+    "answer": "4",
+    "explanation": "The tenths digit is 8, so round the ones digit up by 1. The approximate value is 4.",
+    "verify": "4",
+    "id": "cnm_p121_q1",
+    "topicId": "cnm_p121"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Round 6.3 to the nearest whole number. What is the approximate value?",
+    "answer": "6",
+    "explanation": "The tenths digit is 3, which is less than 5, so the ones digit stays the same. The approximate value is 6.",
+    "verify": "6",
+    "id": "cnm_p121_q2",
+    "topicId": "cnm_p121"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Round 2.46 to one decimal place. What is the approximate value? (Answer as a decimal.)",
+    "answer": "2.5",
+    "explanation": "The hundredths digit is 6, so round the tenths digit up by 1: 2.46≈2.5.",
+    "verify": "Fraction(25,10)",
+    "id": "cnm_p121_q3",
+    "topicId": "cnm_p121"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Round 7.96 to one decimal place. What is the approximate value? (Answer as a decimal.)",
+    "answer": "8.0",
+    "explanation": "The hundredths digit is 6. Adding 1 to the tenths digit 9 makes 10, so regroup 1 to the ones place to get 8.0.",
+    "verify": "Fraction(8)",
+    "id": "cnm_p121_q4",
+    "topicId": "cnm_p121"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many acute angles does a right triangle have?",
+    "answer": "2",
+    "explanation": "A right triangle has 1 right angle and 2 acute angles.",
+    "verify": "2",
+    "id": "cnm_p122_q1",
+    "topicId": "cnm_p122"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "A triangle has angles of 100 degrees, 40 degrees, and 40 degrees. What type of triangle is it?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Acute triangle"
+      },
+      {
+        "key": "B",
+        "text": "Obtuse triangle"
+      },
+      {
+        "key": "C",
+        "text": "Right triangle"
+      }
+    ],
+    "answer": "B",
+    "explanation": "A triangle with one obtuse angle is an obtuse triangle.",
+    "verify": "'Obtuse triangle'",
+    "id": "cnm_p122_q2",
+    "topicId": "cnm_p122"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "A triangle has three sides that are each 5 centimeters long. What type of triangle is it?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Right triangle"
+      },
+      {
+        "key": "B",
+        "text": "Obtuse triangle"
+      },
+      {
+        "key": "C",
+        "text": "Triangle with three different side lengths"
+      },
+      {
+        "key": "D",
+        "text": "Equilateral triangle"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A triangle with three equal sides is an equilateral triangle.",
+    "verify": "'Equilateral triangle'",
+    "id": "cnm_p122_q3",
+    "topicId": "cnm_p122"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "An isosceles triangle has equal sides of 5 centimeters and a base of 3 centimeters. What is its perimeter?",
+    "answer": "13",
+    "explanation": "The equal sides of an isosceles triangle have the same length: 5+5+3=13 centimeters.",
+    "verify": "5+5+3",
+    "id": "cnm_p122_q4",
+    "topicId": "cnm_p122"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "For a triangle, how should the sum of any two sides compare with the third side?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Greater than the third side"
+      },
+      {
+        "key": "B",
+        "text": "Equal to the third side"
+      },
+      {
+        "key": "C",
+        "text": "Less than the third side"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The sum of any two sides must be greater than the third side to form a triangle.",
+    "verify": "'Greater than the third side'",
+    "id": "cnm_p123_q1",
+    "topicId": "cnm_p123"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Two sides are 3 centimeters and 4 centimeters long. What must the third side be less than to form a triangle?",
+    "answer": "7",
+    "explanation": "The third side must be less than 3+4=7 centimeters, and greater than 4−3=1 centimeter.",
+    "verify": "3+4",
+    "id": "cnm_p123_q2",
+    "topicId": "cnm_p123"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which of these four sets of line segments can form a triangle?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "2 cm, 3 cm, 6 cm"
+      },
+      {
+        "key": "B",
+        "text": "3 cm, 4 cm, 5 cm"
+      },
+      {
+        "key": "C",
+        "text": "1 cm, 2 cm, 3 cm"
+      },
+      {
+        "key": "D",
+        "text": "4 cm, 4 cm, 9 cm"
+      }
+    ],
+    "answer": "B",
+    "explanation": "3+4＞5, 3+5＞4, and 4+5＞3, so these segments can form a triangle. In each other set, the sum of two sides is no greater than the third side.",
+    "verify": "'3 cm, 4 cm, 5 cm'",
+    "id": "cnm_p123_q3",
+    "topicId": "cnm_p123"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Two sides are 6 centimeters and 8 centimeters long. What is the greatest whole-number length the third side can have?",
+    "answer": "13",
+    "explanation": "The third side must be less than 6+8=14 and greater than 8−6=2, so the greatest whole-number length is 13.",
+    "verify": "6+8-1",
+    "id": "cnm_p123_q4",
+    "topicId": "cnm_p123"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is the sum of the interior angles of a triangle?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "180 degrees"
+      },
+      {
+        "key": "B",
+        "text": "90 degrees"
+      },
+      {
+        "key": "C",
+        "text": "360 degrees"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The three interior angles of a triangle add up to 180 degrees.",
+    "verify": "'180 degrees'",
+    "id": "cnm_p124_q1",
+    "topicId": "cnm_p124"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Two interior angles of a triangle are 60 degrees and 40 degrees. What is the third interior angle?",
+    "answer": "80",
+    "explanation": "180−60−40=80 degrees.",
+    "verify": "180-60-40",
+    "id": "cnm_p124_q2",
+    "topicId": "cnm_p124"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "One acute angle in a right triangle is 35 degrees. How many degrees is the other acute angle?",
+    "answer": "55",
+    "explanation": "The two acute angles in a right triangle are complementary: 90−35=55 degrees.",
+    "verify": "90-35",
+    "id": "cnm_p124_q3",
+    "topicId": "cnm_p124"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many degrees is an acute angle in an isosceles right triangle?",
+    "answer": "45",
+    "explanation": "The right angle is 90 degrees, and the two acute angles are equal. Each is (180−90)÷2=45 degrees.",
+    "verify": "(180-90)//2",
+    "id": "cnm_p124_q4",
+    "topicId": "cnm_p124"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is 1.25+0.4? (Answer as a decimal.)",
+    "answer": "1.65",
+    "explanation": "Align the decimal points: 1.25+0.40=1.65.",
+    "verify": "Fraction(125,100)+Fraction(4,10)",
+    "id": "cnm_p125_q1",
+    "topicId": "cnm_p125"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is 3.6−1.8? (Answer as a decimal.)",
+    "answer": "1.8",
+    "explanation": "Align the decimal points: 3.6−1.8=1.8.",
+    "verify": "Fraction(36,10)-Fraction(18,10)",
+    "id": "cnm_p125_q2",
+    "topicId": "cnm_p125"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A notebook costs 3.5 yuan and an eraser costs 0.8 yuan. What is the total cost? (Answer as a decimal.)",
+    "answer": "4.3",
+    "explanation": "3.5+0.8=4.3 yuan.",
+    "verify": "Fraction(35,10)+Fraction(8,10)",
+    "id": "cnm_p125_q3",
+    "topicId": "cnm_p125"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "You pay 5 yuan for a 1.25-yuan pen and a 0.8-yuan eraser. How much change should you get? (Answer as a decimal.)",
+    "answer": "2.95",
+    "explanation": "First find the cost: 1.25+0.8=2.05 yuan. Then calculate 5−2.05=2.95 yuan in change.",
+    "verify": "5-(Fraction(125,100)+Fraction(8,10))",
+    "id": "cnm_p125_q4",
+    "topicId": "cnm_p125"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Mom has 10 yuan and buys a notebook for 3.6 yuan. How much money is left? (Answer as a decimal.)",
+    "answer": "6.4",
+    "explanation": "10−3.6=6.4 yuan.",
+    "verify": "10-Fraction(36,10)",
+    "id": "cnm_p126_q1",
+    "topicId": "cnm_p126"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A rope is 2.5 meters long, and another 1.5 meters is joined to it. How long is it now?",
+    "answer": "4",
+    "explanation": "2.5+1.5=4 meters.",
+    "verify": "Fraction(25,10)+Fraction(15,10)",
+    "id": "cnm_p126_q2",
+    "topicId": "cnm_p126"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Ming is 1.35 meters tall. Hua is 0.08 meters taller. How tall is Hua? (Answer as a decimal.)",
+    "answer": "1.43",
+    "explanation": "1.35+0.08=1.43 meters.",
+    "verify": "Fraction(135,100)+Fraction(8,100)",
+    "id": "cnm_p126_q3",
+    "topicId": "cnm_p126"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A bottle contains 5 liters of oil. First, 1.6 liters are poured out, then another 0.8 liters. How many liters remain? (Answer as a decimal.)",
+    "answer": "2.6",
+    "explanation": "A total of 1.6+0.8=2.4 liters is poured out, leaving 5−2.4=2.6 liters.",
+    "verify": "5-(Fraction(16,10)+Fraction(8,10))",
+    "id": "cnm_p126_q4",
+    "topicId": "cnm_p126"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What feature does a line-symmetric shape have?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A line of symmetry"
+      },
+      {
+        "key": "B",
+        "text": "It must have a right angle"
+      },
+      {
+        "key": "C",
+        "text": "It must be a circle"
+      }
+    ],
+    "answer": "A",
+    "explanation": "When folded along its line of symmetry, the two halves of a line-symmetric shape overlap exactly.",
+    "verify": "'A line of symmetry'",
+    "id": "cnm_p127_q1",
+    "topicId": "cnm_p127"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A rectangle whose length and width are different is line-symmetric. How many lines of symmetry does it have?",
+    "answer": "2",
+    "explanation": "A rectangle has 2 lines of symmetry, through the midpoints of its length and width.",
+    "verify": "2",
+    "id": "cnm_p127_q2",
+    "topicId": "cnm_p127"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which of these shapes has line symmetry?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A parallelogram that is neither a rectangle nor a rhombus"
+      },
+      {
+        "key": "B",
+        "text": "A trapezoid with unequal legs"
+      },
+      {
+        "key": "C",
+        "text": "An isosceles triangle"
+      },
+      {
+        "key": "D",
+        "text": "A triangle with three different side lengths"
+      }
+    ],
+    "answer": "C",
+    "explanation": "An isosceles triangle can be folded along the altitude from the base to make the two halves overlap, so it has line symmetry.",
+    "verify": "'An isosceles triangle'",
+    "id": "cnm_p127_q3",
+    "topicId": "cnm_p127"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many lines of symmetry does a square have?",
+    "answer": "4",
+    "explanation": "A square can be folded horizontally, vertically, and along both diagonals, giving 4 lines of symmetry.",
+    "verify": "4",
+    "id": "cnm_p127_q4",
+    "topicId": "cnm_p127"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What happens to a shape's size and shape after a translation?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Its size and shape stay the same"
+      },
+      {
+        "key": "B",
+        "text": "It becomes larger"
+      },
+      {
+        "key": "C",
+        "text": "Its shape must change"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A translation changes only the position, not the size or shape.",
+    "verify": "'Its size and shape stay the same'",
+    "id": "cnm_p128_q1",
+    "topicId": "cnm_p128"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A rectangle is 4 centimeters long and 3 centimeters wide. It is translated 5 grid spaces to the right. How long is it after the translation?",
+    "answer": "4",
+    "explanation": "A translation does not change size, so the length is still 4 centimeters.",
+    "verify": "4",
+    "id": "cnm_p128_q2",
+    "topicId": "cnm_p128"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A point is on the 2nd grid square and is translated 5 squares to the right. Which square does it reach?",
+    "answer": "7",
+    "explanation": "Moving right increases the column number: 2+5=7.",
+    "verify": "2+5",
+    "id": "cnm_p128_q3",
+    "topicId": "cnm_p128"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A point on grid paper is in column 8, row 3. It is translated 3 squares left, then 2 squares up. Which column is it in now?",
+    "answer": "5",
+    "explanation": "Moving up does not change the column. The column is 8−3=5.",
+    "verify": "8-3",
+    "id": "cnm_p128_q4",
+    "topicId": "cnm_p128"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What does the average represent?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The typical level of a group of numbers"
+      },
+      {
+        "key": "B",
+        "text": "The largest number in the group"
+      },
+      {
+        "key": "C",
+        "text": "The number of values in the group"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The average balances the values and represents the typical level of the group.",
+    "verify": "'The typical level of a group of numbers'",
+    "id": "cnm_p129_q1",
+    "topicId": "cnm_p129"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the average of 4, 6, and 8?",
+    "answer": "6",
+    "explanation": "Add the values, then divide by the number of values: (4+6+8)÷3=6.",
+    "verify": "Fraction(4+6+8,3)",
+    "id": "cnm_p129_q2",
+    "topicId": "cnm_p129"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Three test scores are 80, 90, and 100. What is their average?",
+    "answer": "90",
+    "explanation": "(80+90+100)÷3=90.",
+    "verify": "Fraction(80+90+100,3)",
+    "id": "cnm_p129_q3",
+    "topicId": "cnm_p129"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "The average of four numbers is 8. Three of the numbers are 6, 9, and 7. What is the fourth number?",
+    "answer": "10",
+    "explanation": "The total of the four numbers is 8×4=32, so the fourth number is 32−6−9−7=10.",
+    "verify": "8*4-6-9-7",
+    "id": "cnm_p129_q4",
+    "topicId": "cnm_p129"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Compared with a single bar graph, what is the main advantage of a double bar graph?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It can compare two data sets at once"
+      },
+      {
+        "key": "B",
+        "text": "It can show only one number"
+      },
+      {
+        "key": "C",
+        "text": "It shows each part as a percentage of the total"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A double bar graph displays two data sets on the same graph for easy comparison.",
+    "verify": "'It can compare two data sets at once'",
+    "id": "cnm_p130_q1",
+    "topicId": "cnm_p130"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "On a double bar graph, the boys' bar for jump rope represents 20 students. How many boys are there?",
+    "answer": "20",
+    "explanation": "The bar reaches 20, so there are 20 boys.",
+    "verify": "20",
+    "id": "cnm_p130_q2",
+    "topicId": "cnm_p130"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "On a double bar graph, 20 boys and 14 girls choose jump rope. How many students choose jump rope altogether?",
+    "answer": "34",
+    "explanation": "Add the two groups for the same activity: 20+14=34 students.",
+    "verify": "20+14",
+    "id": "cnm_p130_q3",
+    "topicId": "cnm_p130"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "In Class 1, 16 students choose jump rope and 12 choose shuttlecock kicking. In Class 2, 11 choose jump rope and 15 choose shuttlecock kicking. How many students in both classes choose jump rope?",
+    "answer": "27",
+    "explanation": "Compare the jump-rope data only: 16+11=27 students. Do not include the shuttlecock-kicking totals.",
+    "verify": "16+11",
+    "id": "cnm_p130_q4",
+    "topicId": "cnm_p130"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Which method can solve the chickens-and-rabbits problem?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Assume they are all chickens, then adjust"
+      },
+      {
+        "key": "B",
+        "text": "Multiply the number of chickens by the number of rabbits"
+      },
+      {
+        "key": "C",
+        "text": "Count the chickens but not their legs"
+      }
+    ],
+    "answer": "A",
+    "explanation": "First assume they are all chickens, then use the extra legs to determine how many should be rabbits.",
+    "verify": "'Assume they are all chickens, then adjust'",
+    "id": "cnm_p131_q1",
+    "topicId": "cnm_p131"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "If all 8 animals are assumed to be chickens, how many legs are there altogether?",
+    "answer": "16",
+    "explanation": "Each chicken has 2 legs: 8×2=16 legs.",
+    "verify": "8*2",
+    "id": "cnm_p131_q2",
+    "topicId": "cnm_p131"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A cage contains 8 chickens and rabbits with 26 legs altogether. How many rabbits are there?",
+    "answer": "5",
+    "explanation": "If all were chickens, there would be 16 legs, which is 10 fewer. Each rabbit has 2 more legs than a chicken, so 10÷2=5 rabbits.",
+    "verify": "(26-8*2)//2",
+    "id": "cnm_p131_q3",
+    "topicId": "cnm_p131"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "There are 10 chickens and rabbits with 32 legs altogether. How many chickens are there?",
+    "answer": "4",
+    "explanation": "If all were chickens, there would be 20 legs, 12 fewer than the actual total. There are 12÷2=6 rabbits, so 10−6=4 chickens.",
+    "verify": "10-(32-10*2)//2",
+    "id": "cnm_p131_q4",
+    "topicId": "cnm_p131"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Class 1 has 23 boys and 21 girls. How many students are there altogether?",
+    "answer": "44",
+    "explanation": "Total=part+part: 23+21=44 students.",
+    "verify": "23+21",
+    "id": "cnm_p230_q1",
+    "topicId": "cnm_p230"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A school buys 120 books and lends out 75. How many books are left?",
+    "answer": "45",
+    "explanation": "Remaining part=total−other part: 120−75=45 books.",
+    "verify": "120-75",
+    "id": "cnm_p230_q2",
+    "topicId": "cnm_p230"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "The trip from home to a bookstore is 450 meters, and from the bookstore to school is 380 meters. How far is it from home to school via the bookstore?",
+    "answer": "830",
+    "explanation": "The two distances are parts of the whole trip, so add them: 450+380=830 meters.",
+    "verify": "450+380",
+    "id": "cnm_p230_q3",
+    "topicId": "cnm_p230"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A fruit shop receives 85 kilograms of apples and 60 kilograms of pears in the morning. In the afternoon, it sells 40 kilograms of apples and 25 kilograms of pears. How many kilograms of fruit remain?",
+    "answer": "80",
+    "explanation": "The shop receives 85+60=145 kilograms and sells 40+25=65 kilograms, leaving 145−65=80 kilograms.",
+    "verify": "85+60-40-25",
+    "id": "cnm_p230_q4",
+    "topicId": "cnm_p230"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Each pen costs 6 yuan. How much do 12 pens cost?",
+    "answer": "72",
+    "explanation": "Total cost=unit price×quantity: 6×12=72 yuan.",
+    "verify": "6*12",
+    "id": "cnm_p231_q1",
+    "topicId": "cnm_p231"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A car travels at 60 kilometers per hour. How far does it travel in 4 hours?",
+    "answer": "240",
+    "explanation": "Distance=speed×time: 60×4=240 kilometers.",
+    "verify": "60*4",
+    "id": "cnm_p231_q2",
+    "topicId": "cnm_p231"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Five identical backpacks cost 175 yuan altogether. How much does each backpack cost?",
+    "answer": "35",
+    "explanation": "Unit price=total cost÷quantity: 175÷5=35 yuan.",
+    "verify": "175//5",
+    "id": "cnm_p231_q3",
+    "topicId": "cnm_p231"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Ming rides a bicycle 36 kilometers in 3 hours. At the same speed, how many kilometers will he have ridden in total after another 2 hours?",
+    "answer": "60",
+    "explanation": "He travels 36÷3=12 kilometers per hour; in 5 hours, he travels 12×5=60 kilometers.",
+    "verify": "36//3*(3+2)",
+    "id": "cnm_p231_q4",
+    "topicId": "cnm_p231"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many degrees are in a straight angle?",
+    "answer": "180",
+    "explanation": "The sides of a straight angle lie on one straight line, so it measures 180 degrees.",
+    "verify": "180",
+    "id": "cnm_p232_q1",
+    "topicId": "cnm_p232"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "An angle measures 125°. What kind of angle is it?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Obtuse angle"
+      },
+      {
+        "key": "B",
+        "text": "Acute angle"
+      },
+      {
+        "key": "C",
+        "text": "Straight angle"
+      },
+      {
+        "key": "D",
+        "text": "Right angle"
+      }
+    ],
+    "answer": "A",
+    "explanation": "An angle greater than 90 degrees and less than 180 degrees is obtuse.",
+    "verify": "'Obtuse angle'",
+    "id": "cnm_p232_q2",
+    "topicId": "cnm_p232"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "How many right angles make one full turn?",
+    "answer": "4",
+    "explanation": "A full turn is 360 degrees and a right angle is 90 degrees; 360÷90=4.",
+    "verify": "360//90",
+    "id": "cnm_p232_q3",
+    "topicId": "cnm_p232"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "An obtuse angle is 35 degrees greater than a right angle. How many degrees is the obtuse angle?",
+    "answer": "125",
+    "explanation": "A right angle is 90 degrees; add 35 degrees: 90+35=125 degrees.",
+    "verify": "90+35",
+    "id": "cnm_p232_q4",
+    "topicId": "cnm_p232"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Estimate 49×21 by rounding the numbers to 50 and 20. What is the approximate product?",
+    "answer": "1000",
+    "explanation": "50×20=1000.",
+    "verify": "50*20",
+    "id": "cnm_p233_q1",
+    "topicId": "cnm_p233"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Estimate 302×19 by rounding the numbers to 300 and 20. What is the approximate product?",
+    "answer": "6000",
+    "explanation": "300×20=6000.",
+    "verify": "300*20",
+    "id": "cnm_p233_q2",
+    "topicId": "cnm_p233"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "A backpack costs 38 yuan. You want to buy 21. Is 700 yuan enough?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Not enough"
+      },
+      {
+        "key": "B",
+        "text": "Enough"
+      },
+      {
+        "key": "C",
+        "text": "Exactly enough"
+      }
+    ],
+    "answer": "A",
+    "explanation": "38×21 is close to 40×20=800, which is greater than 700, so it is not enough.",
+    "verify": "'Not enough'",
+    "id": "cnm_p233_q3",
+    "topicId": "cnm_p233"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A book costs 38 yuan and you buy 21. Estimate using 40 for 38 and 20 for 21. How many yuan greater is the estimate than the actual cost?",
+    "answer": "2",
+    "explanation": "The estimate is 40×20=800 and the actual cost is 38×21=798, so the estimate is 800−798=2 yuan greater.",
+    "verify": "40*20-38*21",
+    "id": "cnm_p233_q4",
+    "topicId": "cnm_p233"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When drawing parallel lines with a ruler and set square, how should you move the set square?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Rotate it freely"
+      },
+      {
+        "key": "B",
+        "text": "Move it away from the ruler"
+      },
+      {
+        "key": "C",
+        "text": "Slide it along the ruler"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Keep one right-angle edge of the set square against the ruler and slide it to draw a parallel line.",
+    "verify": "'Slide it along the ruler'",
+    "id": "cnm_p234_q1",
+    "topicId": "cnm_p234"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many lines parallel to a given line can be drawn through a point outside it?",
+    "answer": "1",
+    "explanation": "Exactly 1 line through a point outside a given line is parallel to it.",
+    "verify": "1",
+    "id": "cnm_p234_q2",
+    "topicId": "cnm_p234"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Several perpendicular segments are drawn between two parallel lines. How do their lengths compare?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "They get longer"
+      },
+      {
+        "key": "B",
+        "text": "They are not necessarily equal"
+      },
+      {
+        "key": "C",
+        "text": "They are all equal"
+      }
+    ],
+    "answer": "C",
+    "explanation": "The distance between parallel lines is constant, so all these perpendicular segments have the same length.",
+    "verify": "'They are all equal'",
+    "id": "cnm_p234_q3",
+    "topicId": "cnm_p234"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "The distance between two parallel lines is 6 centimeters. A perpendicular is drawn from a point on one line to the other. How long is it?",
+    "answer": "6",
+    "explanation": "The perpendicular measures the distance between the parallel lines, so it is 6 centimeters long.",
+    "verify": "6",
+    "id": "cnm_p234_q4",
+    "topicId": "cnm_p234"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Walk 30 meters east from the starting point, then continue 45 meters east. How far are you from the start?",
+    "answer": "75",
+    "explanation": "The directions are the same, so add the distances: 30+45=75 meters.",
+    "verify": "30+45",
+    "id": "cnm_p235_q1",
+    "topicId": "cnm_p235"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Stand facing north and turn right. Which direction are you facing now?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "South"
+      },
+      {
+        "key": "B",
+        "text": "East"
+      },
+      {
+        "key": "C",
+        "text": "West"
+      }
+    ],
+    "answer": "B",
+    "explanation": "When facing north, east is on your right; after turning right, you face east.",
+    "verify": "'East'",
+    "id": "cnm_p235_q2",
+    "topicId": "cnm_p235"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "On a treasure map, 1 grid square represents 10 meters. The treasure is 6 squares east of the start. How far away is it?",
+    "answer": "60",
+    "explanation": "10×6=60 meters.",
+    "verify": "10*6",
+    "id": "cnm_p235_q3",
+    "topicId": "cnm_p235"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Walk 80 meters north from the start, then 30 meters south, then 40 meters east. How far north of the start are you?",
+    "answer": "50",
+    "explanation": "For the north-south distance, calculate 80−30=50 meters. Walking east does not change it.",
+    "verify": "80-30",
+    "id": "cnm_p235_q4",
+    "topicId": "cnm_p235"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many ten-millions are in one hundred million?",
+    "answer": "10",
+    "explanation": "One hundred million=10 ten-millions.",
+    "verify": "100000000//10000000",
+    "id": "cnm_p236_q1",
+    "topicId": "cnm_p236"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Which numeral represents one hundred million?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "100000000"
+      },
+      {
+        "key": "B",
+        "text": "10000000"
+      },
+      {
+        "key": "C",
+        "text": "1000000000"
+      }
+    ],
+    "answer": "A",
+    "explanation": "One hundred million is 1 followed by 8 zeros, written as 100000000.",
+    "verify": "'100000000'",
+    "id": "cnm_p236_q2",
+    "topicId": "cnm_p236"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "How many ten-thousands are in one hundred million?",
+    "answer": "10000",
+    "explanation": "One hundred million=10000 ten-thousands.",
+    "verify": "100000000//10000",
+    "id": "cnm_p236_q3",
+    "topicId": "cnm_p236"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "It takes about 1 hour to count 10000 grains of rice. At that rate, about how many hours would it take to count 100000000 grains?",
+    "answer": "10000",
+    "explanation": "One hundred million contains 10000 groups of 10000, so it would take about 10000 hours.",
+    "verify": "100000000//10000",
+    "id": "cnm_p236_q4",
+    "topicId": "cnm_p236"
+  }
+]

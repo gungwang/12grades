@@ -1,0 +1,2778 @@
+[
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What kind of units are hectares and square kilometers?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Units of area"
+      },
+      {
+        "key": "B",
+        "text": "Units of mass"
+      },
+      {
+        "key": "C",
+        "text": "Units of time"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Hectares, square kilometers, and square meters are all units of area.",
+    "verify": "'Units of area'",
+    "id": "cnm_p098_q1",
+    "topicId": "cnm_p098"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many square meters are in 1 hectare?",
+    "answer": "10000",
+    "explanation": "1 hectare=10000 square meters.",
+    "verify": "10000",
+    "id": "cnm_p098_q2",
+    "topicId": "cnm_p098"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "1 square kilometer equals 100 hectares. How many hectares are in 3 square kilometers?",
+    "answer": "300",
+    "explanation": "3×100=300 hectares.",
+    "verify": "3*100",
+    "id": "cnm_p098_q3",
+    "topicId": "cnm_p098"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "One plot of land is 2 hectares and another is 5000 square meters. What is their combined area in square meters?",
+    "answer": "25000",
+    "explanation": "2 hectares=20000 square meters, and 20000+5000=25000 square meters.",
+    "verify": "2*10000+5000",
+    "id": "cnm_p098_q4",
+    "topicId": "cnm_p098"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When multiplying a decimal by a whole number, how do you determine the number of decimal places in the product?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It is the same as the number of decimal places in the decimal factor"
+      },
+      {
+        "key": "B",
+        "text": "It is always one more than in the factor"
+      },
+      {
+        "key": "C",
+        "text": "The decimal point can go anywhere"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Multiply as with whole numbers, then place the decimal point using the number of decimal places in the decimal factor.",
+    "verify": "'It is the same as the number of decimal places in the decimal factor'",
+    "id": "cnm_p132_q1",
+    "topicId": "cnm_p132"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A pen costs 0.3 yuan. How much do 4 pens cost? (Answer with a decimal.)",
+    "answer": "1.2",
+    "explanation": "0.3×4=1.2 yuan.",
+    "verify": "Fraction(3,10)*4",
+    "id": "cnm_p132_q2",
+    "topicId": "cnm_p132"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A pen costs 1.2 yuan. How much do 4 pens cost? (Answer with a decimal.)",
+    "answer": "4.8",
+    "explanation": "1.2×4=4.8 yuan.",
+    "verify": "Fraction(12,10)*4",
+    "id": "cnm_p132_q3",
+    "topicId": "cnm_p132"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A storybook costs 8.5 yuan and a writing notebook costs 1.5 yuan. How much do 3 storybooks and 2 notebooks cost altogether? (Answer with a decimal.)",
+    "answer": "28.5",
+    "explanation": "8.5×3=25.5, 1.5×2=3, and 25.5+3=28.5 yuan.",
+    "verify": "Fraction(85,10)*3+Fraction(15,10)*2",
+    "id": "cnm_p132_q4",
+    "topicId": "cnm_p132"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When multiplying two decimals, what is the number of decimal places in the product?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The sum of the decimal places in the two factors"
+      },
+      {
+        "key": "B",
+        "text": "Only the larger factor's number of decimal places"
+      },
+      {
+        "key": "C",
+        "text": "The product is always a whole number"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Add the numbers of decimal places in the factors to get the number in the product; trailing zeros may be removed.",
+    "verify": "'The sum of the decimal places in the two factors'",
+    "id": "cnm_p133_q1",
+    "topicId": "cnm_p133"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the area, in square meters, of a rectangle 0.3 m long and 0.4 m wide? (Answer with a decimal.)",
+    "answer": "0.12",
+    "explanation": "0.3×0.4=0.12 square meters.",
+    "verify": "Fraction(3,10)*Fraction(4,10)",
+    "id": "cnm_p133_q2",
+    "topicId": "cnm_p133"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What is the area, in square meters, of a rectangle 1.5 m long and 0.4 m wide? (Answer with a decimal.)",
+    "answer": "0.6",
+    "explanation": "1.5×0.4=0.60=0.6 square meters.",
+    "verify": "Fraction(15,10)*Fraction(4,10)",
+    "id": "cnm_p133_q3",
+    "topicId": "cnm_p133"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A rectangular garden is 2.5 m long and 1.2 m wide. It yields 0.8 kg of vegetables per square meter. How many kilograms of vegetables does it yield? (Answer with a decimal.)",
+    "answer": "2.4",
+    "explanation": "First find the area: 2.5×1.2=3 square meters. Then 3×0.8=2.4 kg.",
+    "verify": "Fraction(25,10)*Fraction(12,10)*Fraction(8,10)",
+    "id": "cnm_p133_q4",
+    "topicId": "cnm_p133"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A vehicle travels at 2.4 km per hour for 3 hours. How many kilometers does it travel? (Answer with a decimal.)",
+    "answer": "7.2",
+    "explanation": "2.4×3=7.2 km.",
+    "verify": "Fraction(24,10)*3",
+    "id": "cnm_p134_q1",
+    "topicId": "cnm_p134"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A pencil costs 0.8 yuan. How much do 6 pencils cost? (Answer with a decimal.)",
+    "answer": "4.8",
+    "explanation": "0.8×6=4.8 yuan.",
+    "verify": "Fraction(8,10)*6",
+    "id": "cnm_p134_q2",
+    "topicId": "cnm_p134"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A vehicle travels at 3.5 km per hour for 3 hours. How many kilometers does it travel? (Answer with a decimal.)",
+    "answer": "10.5",
+    "explanation": "3.5×3=10.5 km.",
+    "verify": "Fraction(35,10)*3",
+    "id": "cnm_p134_q3",
+    "topicId": "cnm_p134"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Apples cost 6.5 yuan per kilogram and pears cost 4.8 yuan per kilogram. How much do 2 kg of apples and 3 kg of pears cost altogether? (Answer with a decimal.)",
+    "answer": "27.4",
+    "explanation": "6.5×2=13, 4.8×3=14.4, and 13+14.4=27.4 yuan.",
+    "verify": "Fraction(65,10)*2+Fraction(48,10)*3",
+    "id": "cnm_p134_q4",
+    "topicId": "cnm_p134"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is 1.6 multiplied by 2.4, rounded to one decimal place? (Answer with a decimal.)",
+    "answer": "3.8",
+    "explanation": "1.6×2.4=3.84. The hundredths digit is 4, so rounded to one decimal place the result is 3.8.",
+    "verify": "Fraction(int(Fraction(16,10)*Fraction(24,10)*10+Fraction(1,2)),10)",
+    "id": "cnm_p135_q1",
+    "topicId": "cnm_p135"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is 1.9 multiplied by 0.4, rounded to one decimal place? (Answer with a decimal.)",
+    "answer": "0.8",
+    "explanation": "1.9×0.4=0.76. The hundredths digit is 6, so round the tenths digit up to get 0.8.",
+    "verify": "Fraction(int(Fraction(19,10)*Fraction(4,10)*10+Fraction(1,2)),10)",
+    "id": "cnm_p135_q2",
+    "topicId": "cnm_p135"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What is 1.25 multiplied by 1.3, rounded to two decimal places? (Answer with a decimal.)",
+    "answer": "1.63",
+    "explanation": "1.25×1.3=1.625. The thousandths digit is 5, so rounded to two decimal places the result is 1.63.",
+    "verify": "Fraction(int(Fraction(125,100)*Fraction(13,10)*100+Fraction(1,2)),100)",
+    "id": "cnm_p135_q3",
+    "topicId": "cnm_p135"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Ribbon costs 2.37 yuan per meter. About how much do 1.6 m cost, rounded to two decimal places? (Answer with a decimal.)",
+    "answer": "3.79",
+    "explanation": "2.37×1.6=3.792. The thousandths digit is 2, so the hundredths digit stays the same and the rounded cost is 3.79 yuan.",
+    "verify": "Fraction(int(Fraction(237,100)*Fraction(16,10)*100+Fraction(1,2)),100)",
+    "id": "cnm_p135_q4",
+    "topicId": "cnm_p135"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When dividing a decimal by a whole number, where should the decimal point in the quotient go?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Directly above the decimal point in the dividend"
+      },
+      {
+        "key": "B",
+        "text": "Always at the far left"
+      },
+      {
+        "key": "C",
+        "text": "It can be left out"
+      }
+    ],
+    "answer": "A",
+    "explanation": "When dividing, place the decimal point in the quotient directly above the decimal point in the dividend.",
+    "verify": "'Directly above the decimal point in the dividend'",
+    "id": "cnm_p137_q1",
+    "topicId": "cnm_p137"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A 0.8 m rope is cut into 2 equal pieces. How long is each piece? (Answer with a decimal.)",
+    "answer": "0.4",
+    "explanation": "0.8÷2=0.4 m.",
+    "verify": "Fraction(8,10)/2",
+    "id": "cnm_p137_q2",
+    "topicId": "cnm_p137"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Three identical ropes have a total length of 4.5 m. How long is each rope? (Answer with a decimal.)",
+    "answer": "1.5",
+    "explanation": "4.5÷3=1.5 m.",
+    "verify": "Fraction(45,10)/3",
+    "id": "cnm_p137_q3",
+    "topicId": "cnm_p137"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Four identical pens cost 9.6 yuan, and three identical notebooks cost 6.3 yuan. How much more does one pen cost than one notebook? (Answer with a decimal.)",
+    "answer": "0.3",
+    "explanation": "Each pen costs 9.6÷4=2.4 yuan; each notebook costs 6.3÷3=2.1 yuan. The difference is 2.4−2.1=0.3 yuan.",
+    "verify": "Fraction(96,10)/4-Fraction(63,10)/3",
+    "id": "cnm_p137_q4",
+    "topicId": "cnm_p137"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When the divisor is a decimal, what should you do before dividing?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Make the divisor a whole number"
+      },
+      {
+        "key": "B",
+        "text": "Make only the dividend a whole number and ignore the divisor"
+      },
+      {
+        "key": "C",
+        "text": "Simply remove every decimal point"
+      }
+    ],
+    "answer": "A",
+    "explanation": "First make the divisor a whole number, multiplying the dividend by the same factor, then divide.",
+    "verify": "'Make the divisor a whole number'",
+    "id": "cnm_p138_q1",
+    "topicId": "cnm_p138"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Each rope piece is 0.2 m long. How many pieces can be cut from 0.8 m of rope?",
+    "answer": "4",
+    "explanation": "0.8÷0.2=4 pieces.",
+    "verify": "Fraction(8,10)/Fraction(2,10)",
+    "id": "cnm_p138_q2",
+    "topicId": "cnm_p138"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "An eraser costs 0.4 yuan. How many erasers can be bought for 2.4 yuan?",
+    "answer": "6",
+    "explanation": "2.4÷0.4=6 erasers.",
+    "verify": "Fraction(24,10)/Fraction(4,10)",
+    "id": "cnm_p138_q3",
+    "topicId": "cnm_p138"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A 3.6 m rope is used to make jump ropes, each 0.4 m long. Five have already been made. How many more can be made from the remaining rope?",
+    "answer": "4",
+    "explanation": "The rope makes 3.6÷0.4=9 jump ropes in total, so 9−5=4 remain to be made.",
+    "verify": "Fraction(36,10)/Fraction(4,10)-5",
+    "id": "cnm_p138_q4",
+    "topicId": "cnm_p138"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A 7.2 L bottle of juice is shared equally among 8 people. How many liters does each person get? (Answer with a decimal.)",
+    "answer": "0.9",
+    "explanation": "7.2÷8=0.9 L.",
+    "verify": "Fraction(72,10)/8",
+    "id": "cnm_p139_q1",
+    "topicId": "cnm_p139"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "You have 4.5 yuan. Notebooks cost 0.5 yuan each. How many can you buy?",
+    "answer": "9",
+    "explanation": "4.5÷0.5=9 notebooks.",
+    "verify": "Fraction(45,10)/Fraction(5,10)",
+    "id": "cnm_p139_q2",
+    "topicId": "cnm_p139"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A person walks 9.6 km in 3 hours. What is the average speed in kilometers per hour? (Answer with a decimal.)",
+    "answer": "3.2",
+    "explanation": "9.6÷3=3.2 km per hour.",
+    "verify": "Fraction(96,10)/3",
+    "id": "cnm_p139_q3",
+    "topicId": "cnm_p139"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "An 8.4 m ribbon is cut, and 1.2 m is removed. The rest is divided equally to make 4 flowers. How many meters of ribbon are used for each flower? (Answer with a decimal.)",
+    "answer": "1.8",
+    "explanation": "The remaining ribbon is 8.4−1.2=7.2 m; 7.2÷4=1.8 m per flower.",
+    "verify": "(Fraction(84,10)-Fraction(12,10))/4",
+    "id": "cnm_p139_q4",
+    "topicId": "cnm_p139"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "How likely is an event that is certain to happen?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It will definitely happen"
+      },
+      {
+        "key": "B",
+        "text": "It may or may not happen"
+      },
+      {
+        "key": "C",
+        "text": "It will not happen"
+      }
+    ],
+    "answer": "A",
+    "explanation": "\"Certain\" means the event will definitely happen.",
+    "verify": "'It will definitely happen'",
+    "id": "cnm_p140_q1",
+    "topicId": "cnm_p140"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What happens with an impossible event?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It will not happen"
+      },
+      {
+        "key": "B",
+        "text": "It will definitely happen"
+      },
+      {
+        "key": "C",
+        "text": "It has a 50% chance"
+      }
+    ],
+    "answer": "A",
+    "explanation": "\"Impossible\" means the event will not happen.",
+    "verify": "'It will not happen'",
+    "id": "cnm_p140_q2",
+    "topicId": "cnm_p140"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "A box contains 4 red balls and 1 blue ball. One ball is drawn at random. Which statement is correct?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It is impossible to draw a blue ball"
+      },
+      {
+        "key": "B",
+        "text": "A red ball is certain to be drawn"
+      },
+      {
+        "key": "C",
+        "text": "A blue ball may be drawn"
+      },
+      {
+        "key": "D",
+        "text": "It is impossible to draw a red ball"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Both red and blue balls are in the box, so a blue ball may be drawn; drawing a red ball is not certain.",
+    "verify": "'A blue ball may be drawn'",
+    "id": "cnm_p140_q3",
+    "topicId": "cnm_p140"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A bag contains 8 balls, each red or blue. If drawing a blue ball is impossible, how many are red?",
+    "answer": "8",
+    "explanation": "If drawing a blue ball is impossible, there are no blue balls, so all 8 are red.",
+    "verify": "8",
+    "id": "cnm_p140_q4",
+    "topicId": "cnm_p140"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "If two outcomes have the same number of items, how do their chances compare?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The two outcomes are equally likely"
+      },
+      {
+        "key": "B",
+        "text": "The first outcome must happen first"
+      },
+      {
+        "key": "C",
+        "text": "The second outcome is impossible"
+      }
+    ],
+    "answer": "A",
+    "explanation": "When the counts are equal, each outcome is equally likely.",
+    "verify": "'The two outcomes are equally likely'",
+    "id": "cnm_p141_q1",
+    "topicId": "cnm_p141"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A bag contains 5 red balls and 2 blue balls. How many blue balls must be added to make drawing a red ball and drawing a blue ball equally likely?",
+    "answer": "3",
+    "explanation": "The number of blue balls must match the number of red balls: 5−2=3 more balls.",
+    "verify": "5-2",
+    "id": "cnm_p141_q2",
+    "topicId": "cnm_p141"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "A box contains 6 white balls and 2 black balls. One ball is drawn at random. Which color is more likely?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Black"
+      },
+      {
+        "key": "B",
+        "text": "They are equally likely"
+      },
+      {
+        "key": "C",
+        "text": "White"
+      },
+      {
+        "key": "D",
+        "text": "It is impossible to draw white"
+      }
+    ],
+    "answer": "C",
+    "explanation": "There are more white balls than black balls, so drawing white is more likely.",
+    "verify": "'White'",
+    "id": "cnm_p141_q3",
+    "topicId": "cnm_p141"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A bag contains 3 red balls and 5 yellow balls. What is the smallest number of red balls to add so that drawing red is more likely than drawing yellow?",
+    "answer": "3",
+    "explanation": "There must be more than 5 red balls, so there must be at least 6. Add 6−3=3 red balls.",
+    "verify": "5-3+1",
+    "id": "cnm_p141_q4",
+    "topicId": "cnm_p141"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When a letter is used to represent a number, what does it stand for?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A number that can vary"
+      },
+      {
+        "key": "B",
+        "text": "Only the number 1"
+      },
+      {
+        "key": "C",
+        "text": "A shape's name that cannot be used in calculations"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A letter can stand for a variable number and can be used in calculations.",
+    "verify": "'A number that can vary'",
+    "id": "cnm_p142_q1",
+    "topicId": "cnm_p142"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "If a=6, what is 5×a?",
+    "answer": "30",
+    "explanation": "Substitute 6 for a: 5×6=30.",
+    "verify": "5*6",
+    "id": "cnm_p142_q2",
+    "topicId": "cnm_p142"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "A pencil costs a yuan. How much do 5 pencils cost?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "a+5 yuan"
+      },
+      {
+        "key": "B",
+        "text": "5×a yuan"
+      },
+      {
+        "key": "C",
+        "text": "a÷5 yuan"
+      },
+      {
+        "key": "D",
+        "text": "a−5 yuan"
+      }
+    ],
+    "answer": "B",
+    "explanation": "The total cost is unit price times quantity: 5×a yuan.",
+    "verify": "'5×a yuan'",
+    "id": "cnm_p142_q3",
+    "topicId": "cnm_p142"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A pencil costs a yuan, and an eraser costs 2 yuan more. How much do 3 pencils and 1 eraser cost when a=4?",
+    "answer": "18",
+    "explanation": "The eraser costs a+2=6 yuan. 3×4+6=18 yuan.",
+    "verify": "3*4+(4+2)",
+    "id": "cnm_p142_q4",
+    "topicId": "cnm_p142"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Consider these four expressions: ①x+3=8 ②5+2=7 ③x−4＞1 ④9−x=2. How many are equations?",
+    "answer": "2",
+    "explanation": "An equation is an equality containing an unknown. ① and ④ are equations; ② has no unknown, and ③ is an inequality.",
+    "verify": "2",
+    "id": "cnm_p143_q1",
+    "topicId": "cnm_p143"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Which two conditions must an expression meet to be an equation?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It contains an unknown and is an equality"
+      },
+      {
+        "key": "B",
+        "text": "It only needs to be an equality"
+      },
+      {
+        "key": "C",
+        "text": "It only needs to contain a letter"
+      }
+    ],
+    "answer": "A",
+    "explanation": "An equation is an equality that contains an unknown.",
+    "verify": "'It contains an unknown and is an equality'",
+    "id": "cnm_p143_q2",
+    "topicId": "cnm_p143"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which expression is an equation?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "12+8=20"
+      },
+      {
+        "key": "B",
+        "text": "x+9＞12"
+      },
+      {
+        "key": "C",
+        "text": "x+9=30"
+      },
+      {
+        "key": "D",
+        "text": "30−9＜25"
+      }
+    ],
+    "answer": "C",
+    "explanation": "x+9=30 contains an unknown and is an equality.",
+    "verify": "\"x+9=30\"",
+    "id": "cnm_p143_q3",
+    "topicId": "cnm_p143"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Consider these five expressions: ①3x=12 ②7+5=12 ③x÷2=4 ④2x+1＞5 ⑤18−x=9. How many are equations?",
+    "answer": "3",
+    "explanation": "①, ③, and ⑤ are equalities containing an unknown. ② has no unknown, and ④ is an inequality.",
+    "verify": "3",
+    "id": "cnm_p143_q4",
+    "topicId": "cnm_p143"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "If the same number is added to or subtracted from both sides of an equation, what happens to the equality?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The equality stays true"
+      },
+      {
+        "key": "B",
+        "text": "Only the left side changes"
+      },
+      {
+        "key": "C",
+        "text": "The equation is no longer true"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Doing the same addition or subtraction to both sides keeps them equal.",
+    "verify": "'The equality stays true'",
+    "id": "cnm_p144_q1",
+    "topicId": "cnm_p144"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Given 18=12+6, what is the left side after subtracting 6 from both sides?",
+    "answer": "12",
+    "explanation": "The left side becomes 18−6=12; subtract 6 from the right side as well.",
+    "verify": "18-6",
+    "id": "cnm_p144_q2",
+    "topicId": "cnm_p144"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Given a=b, which equation remains true if 5 is added to both sides?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "a+5=b"
+      },
+      {
+        "key": "B",
+        "text": "a+5=b+5"
+      },
+      {
+        "key": "C",
+        "text": "a=b+5"
+      },
+      {
+        "key": "D",
+        "text": "a−5=b+5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Add 5 to both sides, so a+5=b+5.",
+    "verify": "\"a+5=b+5\"",
+    "id": "cnm_p144_q3",
+    "topicId": "cnm_p144"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A balance scale is level, and the left side weighs 40 g. Remove 15 g from each side, then add 7 g to each side. How much does the left side weigh now?",
+    "answer": "32",
+    "explanation": "The left side changes to 40−15+7=32 g. The same changes are made to the right side, so the scale stays balanced.",
+    "verify": "40-15+7",
+    "id": "cnm_p144_q4",
+    "topicId": "cnm_p144"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Solve x+17=40. What is x?",
+    "answer": "23",
+    "explanation": "Subtract 17 from both sides: x=40−17=23.",
+    "verify": "40-17",
+    "id": "cnm_p145_q1",
+    "topicId": "cnm_p145"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Solve 3x=24. What is x?",
+    "answer": "8",
+    "explanation": "Divide both sides by 3: x=24÷3=8.",
+    "verify": "24/3",
+    "id": "cnm_p145_q2",
+    "topicId": "cnm_p145"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Solve 2x+5=17. What is x?",
+    "answer": "6",
+    "explanation": "First subtract 5 from both sides to get 2x=12, then divide by 2 to get x=6.",
+    "verify": "(17-5)/2",
+    "id": "cnm_p145_q3",
+    "topicId": "cnm_p145"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Solve 3x−4=17. What is x?",
+    "answer": "7",
+    "explanation": "First add 4 to both sides to get 3x=21, then divide by 3 to get x=7.",
+    "verify": "(17+4)/3",
+    "id": "cnm_p145_q4",
+    "topicId": "cnm_p145"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Xiaoming had x stamps and bought 18 more. He now has 50 stamps. Which equation is correct?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "x−18=50"
+      },
+      {
+        "key": "B",
+        "text": "x+18=50"
+      },
+      {
+        "key": "C",
+        "text": "18x=50"
+      },
+      {
+        "key": "D",
+        "text": "x÷18=50"
+      }
+    ],
+    "answer": "B",
+    "explanation": "The original number plus 18 equals 50: x+18=50.",
+    "verify": "\"x+18=50\"",
+    "id": "cnm_p146_q1",
+    "topicId": "cnm_p146"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A rope has 15 m used and 9 m left. How long was it originally, in meters?",
+    "answer": "24",
+    "explanation": "Add the used and remaining lengths: 15+9=24 m.",
+    "verify": "15+9",
+    "id": "cnm_p146_q2",
+    "topicId": "cnm_p146"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A vehicle travels at 12 km per hour for x hours and covers 36 km. What is x?",
+    "answer": "3",
+    "explanation": "12x=36, so x=36÷12=3.",
+    "verify": "36/12",
+    "id": "cnm_p146_q3",
+    "topicId": "cnm_p146"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A mother buys 3 kg of apples and 2 kg of pears for 32 yuan. Pears cost 4 yuan per kilogram. How much do apples cost per kilogram?",
+    "answer": "8",
+    "explanation": "The pears cost 2×4=8 yuan. Let x be the price per kilogram of apples: 3x+8=32, so 3x=24 and x=8.",
+    "verify": "(32-2*4)/3",
+    "id": "cnm_p146_q4",
+    "topicId": "cnm_p146"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the area, in square centimeters, of a parallelogram with a 7 cm base and a 4 cm height?",
+    "answer": "28",
+    "explanation": "Area of a parallelogram=base×height=7×4=28.",
+    "verify": "7*4",
+    "id": "cnm_p147_q1",
+    "topicId": "cnm_p147"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the area, in square centimeters, of a parallelogram with a 9 cm base and a 5 cm height?",
+    "answer": "45",
+    "explanation": "9×5=45 square centimeters.",
+    "verify": "9*5",
+    "id": "cnm_p147_q2",
+    "topicId": "cnm_p147"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A parallelogram-shaped lawn has a 12 m base and a 6 m height. What is its area in square meters?",
+    "answer": "72",
+    "explanation": "12×6=72 square meters.",
+    "verify": "12*6",
+    "id": "cnm_p147_q3",
+    "topicId": "cnm_p147"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "One parallelogram has a 10 cm base and 4 cm height; another has an 8 cm base and 6 cm height. How many square centimeters larger is the second area?",
+    "answer": "8",
+    "explanation": "The first area is 10×4=40; the second is 8×6=48; 48−40=8.",
+    "verify": "8*6-10*4",
+    "id": "cnm_p147_q4",
+    "topicId": "cnm_p147"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the area, in square centimeters, of a triangle with an 8 cm base and a 5 cm height?",
+    "answer": "20",
+    "explanation": "Triangle area=base×height÷2=8×5÷2=20.",
+    "verify": "8*5/2",
+    "id": "cnm_p148_q1",
+    "topicId": "cnm_p148"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the area, in square centimeters, of a triangle with a 6 cm base and a 4 cm height?",
+    "answer": "12",
+    "explanation": "6×4÷2=12 square centimeters.",
+    "verify": "6*4/2",
+    "id": "cnm_p148_q2",
+    "topicId": "cnm_p148"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A triangular piece of fabric has a 10 cm base and a 6 cm height. What is its area in square centimeters?",
+    "answer": "30",
+    "explanation": "10×6÷2=30 square centimeters.",
+    "verify": "10*6/2",
+    "id": "cnm_p148_q3",
+    "topicId": "cnm_p148"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A parallelogram has a 12 cm base and an 8 cm height. A diagonal divides it into two congruent triangles. What is the area of one triangle in square centimeters?",
+    "answer": "48",
+    "explanation": "The parallelogram's area is 12×8=96, so each triangle has half that area: 96÷2=48.",
+    "verify": "12*8/2",
+    "id": "cnm_p148_q4",
+    "topicId": "cnm_p148"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the area, in square centimeters, of a trapezoid with bases of 2 cm and 6 cm and a height of 4 cm?",
+    "answer": "16",
+    "explanation": "(2+6)×4÷2=16 square centimeters.",
+    "verify": "(2+6)*4/2",
+    "id": "cnm_p149_q1",
+    "topicId": "cnm_p149"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the area, in square centimeters, of a trapezoid with bases of 3 cm and 7 cm and a height of 4 cm?",
+    "answer": "20",
+    "explanation": "(3+7)×4÷2=20 square centimeters.",
+    "verify": "(3+7)*4/2",
+    "id": "cnm_p149_q2",
+    "topicId": "cnm_p149"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A trapezoid-shaped field has bases of 4 m and 8 m and a height of 5 m. What is its area in square meters?",
+    "answer": "30",
+    "explanation": "(4+8)×5÷2=30 square meters.",
+    "verify": "(4+8)*5/2",
+    "id": "cnm_p149_q3",
+    "topicId": "cnm_p149"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A trapezoid has bases of 5 cm and 9 cm and an area of 28 square centimeters. What is its height in centimeters?",
+    "answer": "4",
+    "explanation": "(Base₁+base₂)×height÷2=28, so 14×height÷2=28 and the height is 4 cm.",
+    "verify": "28*2/(5+9)",
+    "id": "cnm_p149_q4",
+    "topicId": "cnm_p149"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A composite shape is divided into two rectangles with areas of 12 and 8 square centimeters. What is the total area in square centimeters?",
+    "answer": "20",
+    "explanation": "Add the two parts: 12+8=20 square centimeters.",
+    "verify": "12+8",
+    "id": "cnm_p150_q1",
+    "topicId": "cnm_p150"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A 30-square-centimeter rectangle has a 6-square-centimeter square cut out of it. How many square centimeters remain?",
+    "answer": "24",
+    "explanation": "Subtract the removed area from the total: 30−6=24.",
+    "verify": "30-6",
+    "id": "cnm_p150_q2",
+    "topicId": "cnm_p150"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A triangle with an area of 10 square centimeters is joined to a rectangle with an area of 24 square centimeters. What is the combined area?",
+    "answer": "34",
+    "explanation": "24+10=34 square centimeters.",
+    "verify": "24+10",
+    "id": "cnm_p150_q3",
+    "topicId": "cnm_p150"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A rectangle is 10 cm long and 6 cm wide. A square with 2 cm sides is cut from one corner. What area remains, in square centimeters?",
+    "answer": "56",
+    "explanation": "The rectangle's area is 10×6=60; the removed square's area is 2×2=4; 60−4=56 square centimeters.",
+    "verify": "10*6-2*2",
+    "id": "cnm_p150_q4",
+    "topicId": "cnm_p150"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When trees are planted at both ends of a path, how are the number of trees and the number of intervals related?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "There is 1 more tree than interval"
+      },
+      {
+        "key": "B",
+        "text": "The number of trees equals the number of intervals"
+      },
+      {
+        "key": "C",
+        "text": "There is 1 fewer tree than interval"
+      }
+    ],
+    "answer": "A",
+    "explanation": "With trees at both ends: number of trees=number of intervals+1.",
+    "verify": "'There is 1 more tree than interval'",
+    "id": "cnm_p151_q1",
+    "topicId": "cnm_p151"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A path is divided into 5 intervals, with a tree planted at each end. How many trees are needed?",
+    "answer": "6",
+    "explanation": "With trees at both ends, the number of trees is one more than the number of intervals: 5+1=6.",
+    "verify": "5+1",
+    "id": "cnm_p151_q2",
+    "topicId": "cnm_p151"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A 20 m path has a tree planted every 4 m, including both ends. How many trees are planted?",
+    "answer": "6",
+    "explanation": "There are 20÷4=5 intervals; with trees at both ends, 5+1=6 trees.",
+    "verify": "20//4+1",
+    "id": "cnm_p151_q3",
+    "topicId": "cnm_p151"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A 60 m path originally has a tree planted every 5 m, including both ends. The spacing changes to 10 m, still with trees at both ends. How many fewer trees are planted?",
+    "answer": "6",
+    "explanation": "Originally there are 60÷5+1=13 trees; afterward there are 60÷10+1=7. The difference is 13−7=6 trees.",
+    "verify": "(60//5+1)-(60//10+1)",
+    "id": "cnm_p151_q4",
+    "topicId": "cnm_p151"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When viewing the same simple solid from the front, side, and top, how might the views compare?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "They may look different"
+      },
+      {
+        "key": "B",
+        "text": "They must look the same from all three directions"
+      },
+      {
+        "key": "C",
+        "text": "Only the top can be seen"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Views from different directions may look different, so compare them together.",
+    "verify": "'They may look different'",
+    "id": "cnm_p152_q1",
+    "topicId": "cnm_p152"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Four identical unit cubes are arranged in a single row, one layer high. How many squares are visible from above?",
+    "answer": "4",
+    "explanation": "There is one layer in a row, so 4 squares are visible from above.",
+    "verify": "4",
+    "id": "cnm_p152_q2",
+    "topicId": "cnm_p152"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Four identical unit cubes form a solid. The top view shows 4 squares in a row, and the front view also shows 4 squares in a row. How are the cubes arranged?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Stacked four high"
+      },
+      {
+        "key": "B",
+        "text": "Two layers with 2 cubes in each"
+      },
+      {
+        "key": "C",
+        "text": "Two rows with 2 cubes in each"
+      },
+      {
+        "key": "D",
+        "text": "In one row, one layer high"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Both views show a single row, so the cubes are arranged in one row and one layer.",
+    "verify": "'In one row, one layer high'",
+    "id": "cnm_p152_q3",
+    "topicId": "cnm_p152"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "The top view shows 2 rows and 3 columns, with a cube at all 6 positions. Each position in the front row has 2 layers, and each position in the back row has 1 layer. How many unit cubes are there?",
+    "answer": "9",
+    "explanation": "The front row has 3×2=6 cubes and the back row has 3×1=3, for a total of 6+3=9.",
+    "verify": "3*2+3*1",
+    "id": "cnm_p152_q4",
+    "topicId": "cnm_p152"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many factors does 12 have?",
+    "answer": "6",
+    "explanation": "The factors of 12 are 1, 2, 3, 4, 6, and 12, for a total of 6.",
+    "verify": "len([d for d in range(1,13) if 12%d==0])",
+    "id": "cnm_p153_q1",
+    "topicId": "cnm_p153"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Which multiple of 6 is greater than 20 and less than 30?",
+    "answer": "24",
+    "explanation": "6×4=24; 6×5=30 is not less than 30.",
+    "verify": "6*4",
+    "id": "cnm_p153_q2",
+    "topicId": "cnm_p153"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Which factor other than 6, when multiplied by 6, gives 18?",
+    "answer": "3",
+    "explanation": "Factors come in pairs: 6×3=18, so the other factor is 3.",
+    "verify": "18//6",
+    "id": "cnm_p153_q3",
+    "topicId": "cnm_p153"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many numbers less than or equal to 100 are multiples of both 6 and 8?",
+    "answer": "4",
+    "explanation": "The numbers are 24, 48, 72, and 96, for a total of 4.",
+    "verify": "len([k for k in range(1,101) if k%6==0 and k%8==0])",
+    "id": "cnm_p153_q4",
+    "topicId": "cnm_p153"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Which digits can appear in the ones place of a multiple of 2?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "0, 2, 4, 6, or 8"
+      },
+      {
+        "key": "B",
+        "text": "1, 3, 5, 7, or 9"
+      },
+      {
+        "key": "C",
+        "text": "Only 0"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A number with 0, 2, 4, 6, or 8 in the ones place is divisible by 2.",
+    "verify": "'0, 2, 4, 6, or 8'",
+    "id": "cnm_p154_q1",
+    "topicId": "cnm_p154"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "A number ending in 0 or 5 is always a multiple of what?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "It can only be odd"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A number ending in 0 or 5 is divisible by 5.",
+    "verify": "'5'",
+    "id": "cnm_p154_q2",
+    "topicId": "cnm_p154"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Which of 20, 25, 32, and 45 is a multiple of both 2 and 5?",
+    "answer": "20",
+    "explanation": "A number that is a multiple of both 2 and 5 must end in 0. Only 20 does.",
+    "verify": "20",
+    "id": "cnm_p154_q3",
+    "topicId": "cnm_p154"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many numbers from 1 through 40 are multiples of both 2 and 5?",
+    "answer": "4",
+    "explanation": "The numbers ending in 0 are 10, 20, 30, and 40, for a total of 4.",
+    "verify": "len([k for k in range(1,41) if k%2==0 and k%5==0])",
+    "id": "cnm_p154_q4",
+    "topicId": "cnm_p154"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "To test whether 123 is a multiple of 3, first add its digits. What is 1+2+3?",
+    "answer": "6",
+    "explanation": "1+2+3=6. Since 6 is a multiple of 3, 123 is also a multiple of 3.",
+    "verify": "1+2+3",
+    "id": "cnm_p155_q1",
+    "topicId": "cnm_p155"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "How can you tell whether a number is a multiple of 3?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Add its digits and check whether the sum is a multiple of 3"
+      },
+      {
+        "key": "B",
+        "text": "Check only whether the ones digit is 3"
+      },
+      {
+        "key": "C",
+        "text": "Check whether the ones digit is 0 or 5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "If the sum of a number's digits is a multiple of 3, the number is also a multiple of 3.",
+    "verify": "'Add its digits and check whether the sum is a multiple of 3'",
+    "id": "cnm_p155_q2",
+    "topicId": "cnm_p155"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which number is a multiple of 3?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "71"
+      },
+      {
+        "key": "B",
+        "text": "81"
+      },
+      {
+        "key": "C",
+        "text": "83"
+      },
+      {
+        "key": "D",
+        "text": "92"
+      }
+    ],
+    "answer": "B",
+    "explanation": "8+1=9, and 9 is a multiple of 3, so 81 is a multiple of 3.",
+    "verify": "'81'",
+    "id": "cnm_p155_q3",
+    "topicId": "cnm_p155"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many two-digit numbers can be made from 1, 2, and 3 without repeating a digit that are multiples of 3?",
+    "answer": "2",
+    "explanation": "The numbers are 12, 13, 21, 23, 31, and 32. Only 12 and 21 have digit sums that are multiples of 3.",
+    "verify": "len([10*a+b for a in (1,2,3) for b in (1,2,3) if a!=b and (a+b)%3==0])",
+    "id": "cnm_p155_q4",
+    "topicId": "cnm_p155"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Which digits can appear in the ones place of an even number?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "0, 2, 4, 6, or 8"
+      },
+      {
+        "key": "B",
+        "text": "Only 1 or 3"
+      },
+      {
+        "key": "C",
+        "text": "Any digit"
+      }
+    ],
+    "answer": "A",
+    "explanation": "An even number is a multiple of 2 and has 0, 2, 4, 6, or 8 in the ones place.",
+    "verify": "'0, 2, 4, 6, or 8'",
+    "id": "cnm_p156_q1",
+    "topicId": "cnm_p156"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many even numbers are there from 1 through 28?",
+    "answer": "14",
+    "explanation": "The even numbers are 2, 4, …, 28, for a total of 28÷2=14.",
+    "verify": "28//2",
+    "id": "cnm_p156_q2",
+    "topicId": "cnm_p156"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which number is odd?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "14"
+      },
+      {
+        "key": "B",
+        "text": "27"
+      },
+      {
+        "key": "C",
+        "text": "40"
+      },
+      {
+        "key": "D",
+        "text": "66"
+      }
+    ],
+    "answer": "B",
+    "explanation": "27 ends in 7, so it is not divisible by 2 and is odd.",
+    "verify": "'27'",
+    "id": "cnm_p156_q3",
+    "topicId": "cnm_p156"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "What is the sum of the two smallest different two-digit odd numbers?",
+    "answer": "24",
+    "explanation": "The two smallest different two-digit odd numbers are 11 and 13. Odd plus odd is even: 11+13=24.",
+    "verify": "11+13",
+    "id": "cnm_p156_q4",
+    "topicId": "cnm_p156"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What are the factors of a prime number?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Only 1 and the number itself"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "At least 3 factors"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A prime number has exactly two factors: 1 and itself.",
+    "verify": "'Only 1 and the number itself'",
+    "id": "cnm_p157_q1",
+    "topicId": "cnm_p157"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Is 1 prime or composite?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Neither prime nor composite"
+      },
+      {
+        "key": "B",
+        "text": "The smallest prime"
+      },
+      {
+        "key": "C",
+        "text": "Composite"
+      }
+    ],
+    "answer": "A",
+    "explanation": "1 has only one factor, so it is neither prime nor composite.",
+    "verify": "'Neither prime nor composite'",
+    "id": "cnm_p157_q2",
+    "topicId": "cnm_p157"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "How many prime numbers are less than or equal to 20?",
+    "answer": "8",
+    "explanation": "The primes up to 20 are 2, 3, 5, 7, 11, 13, 17, and 19, for a total of 8.",
+    "verify": "sum(1 for n in range(2,21) if sum(1 for d in range(2,n) if n%d==0)==0)",
+    "id": "cnm_p157_q3",
+    "topicId": "cnm_p157"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "What is the product of the smallest prime and the smallest composite number?",
+    "answer": "8",
+    "explanation": "The smallest prime is 2, and the smallest composite number is 4 (1 is neither prime nor composite): 2×4=8.",
+    "verify": "2*4",
+    "id": "cnm_p157_q4",
+    "topicId": "cnm_p157"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the greatest common factor of 12 and 18?",
+    "answer": "6",
+    "explanation": "The factors of 12 are 1, 2, 3, 4, 6, and 12; the greatest factor it shares with 18 is 6.",
+    "verify": "gcd(12,18)",
+    "id": "cnm_p158_q1",
+    "topicId": "cnm_p158"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the greatest common factor of 8 and 12?",
+    "answer": "4",
+    "explanation": "The greatest shared factor is 4.",
+    "verify": "gcd(8,12)",
+    "id": "cnm_p158_q2",
+    "topicId": "cnm_p158"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What is the greatest common factor of 18 and 24?",
+    "answer": "6",
+    "explanation": "18=6×3 and 24=6×4, so the greatest common factor is 6.",
+    "verify": "gcd(18,24)",
+    "id": "cnm_p158_q3",
+    "topicId": "cnm_p158"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "What is the greatest common factor of 12, 18, and 30?",
+    "answer": "6",
+    "explanation": "The greatest common factor of 12 and 18 is 6, and 6 also divides 30, so the greatest common factor of all three numbers is 6.",
+    "verify": "gcd(gcd(12,18),30)",
+    "id": "cnm_p158_q4",
+    "topicId": "cnm_p158"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the least common multiple of 4 and 6?",
+    "answer": "12",
+    "explanation": "Multiples of 4 include 4, 8, 12, 16, …; multiples of 6 include 6, 12, 18, … . The least common multiple is 12.",
+    "verify": "lcm(4,6)",
+    "id": "cnm_p159_q1",
+    "topicId": "cnm_p159"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the least common multiple of 3 and 5?",
+    "answer": "15",
+    "explanation": "The only common factor of 3 and 5 is 1, so their least common multiple is 3×5=15.",
+    "verify": "lcm(3,5)",
+    "id": "cnm_p159_q2",
+    "topicId": "cnm_p159"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What is the least common multiple of 6 and 8?",
+    "answer": "24",
+    "explanation": "Multiples of 6: 6, 12, 18, 24, …; multiples of 8: 8, 16, 24, … . The least is 24.",
+    "verify": "lcm(6,8)",
+    "id": "cnm_p159_q3",
+    "topicId": "cnm_p159"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "What is the least common multiple of 4, 6, and 8?",
+    "answer": "24",
+    "explanation": "The least common multiple of 4 and 6 is 12; the least common multiple of 12 and 8 is 24.",
+    "verify": "lcm(lcm(4,6),8)",
+    "id": "cnm_p159_q4",
+    "topicId": "cnm_p159"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "How many faces does a cuboid have?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "6"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A cuboid has 6 faces, 12 edges, and 8 vertices.",
+    "verify": "'6'",
+    "id": "cnm_p160_q1",
+    "topicId": "cnm_p160"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What can be said about the edges of a cube?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "They are all the same length"
+      },
+      {
+        "key": "B",
+        "text": "Only 4 are the same length"
+      },
+      {
+        "key": "C",
+        "text": "They are all different lengths"
+      }
+    ],
+    "answer": "A",
+    "explanation": "All 12 edges of a cube are equal in length; a cube is a special kind of cuboid.",
+    "verify": "'They are all the same length'",
+    "id": "cnm_p160_q2",
+    "topicId": "cnm_p160"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A cuboid has three pairs of identical opposite faces. How many pairs of faces have the same shape and size?",
+    "answer": "3",
+    "explanation": "Its 6 faces form 3 pairs of opposite faces.",
+    "verify": "6//2",
+    "id": "cnm_p160_q3",
+    "topicId": "cnm_p160"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A cuboid is 5 cm long, 4 cm wide, and 3 cm high. What is the total length of its 12 edges in centimeters?",
+    "answer": "48",
+    "explanation": "There are 4 edges of each dimension: 4×(5+4+3)=48 cm.",
+    "verify": "4*(5+4+3)",
+    "id": "cnm_p160_q4",
+    "topicId": "cnm_p160"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the surface area, in square centimeters, of a cuboid 5 cm long, 4 cm wide, and 3 cm high?",
+    "answer": "94",
+    "explanation": "(5×4+5×3+4×3)×2=94 square centimeters.",
+    "verify": "(5*4+5*3+4*3)*2",
+    "id": "cnm_p161_q1",
+    "topicId": "cnm_p161"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the surface area, in square centimeters, of a cube with 3 cm edges?",
+    "answer": "54",
+    "explanation": "One face has area 3×3=9, and there are 6 faces: 9×6=54 square centimeters.",
+    "verify": "3*3*6",
+    "id": "cnm_p161_q2",
+    "topicId": "cnm_p161"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A cube has 2 cm edges. What is its surface area in square centimeters?",
+    "answer": "24",
+    "explanation": "One face has area 2×2=4, and there are 6 faces: 4×6=24 square centimeters.",
+    "verify": "2*2*6",
+    "id": "cnm_p161_q3",
+    "topicId": "cnm_p161"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "An open-top cuboid box is 6 cm long, 4 cm wide, and 3 cm high. What is the minimum area of paper needed in square centimeters?",
+    "answer": "84",
+    "explanation": "The complete surface area is 108 square centimeters. Remove the top, which is 6×4=24, leaving 108−24=84.",
+    "verify": "(6*4+6*3+4*3)*2-6*4",
+    "id": "cnm_p161_q4",
+    "topicId": "cnm_p161"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What should be used to express volume?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Units of volume"
+      },
+      {
+        "key": "B",
+        "text": "Units of length"
+      },
+      {
+        "key": "C",
+        "text": "A number without a unit"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Volume is expressed in cubic centimeters, cubic decimeters, or cubic meters.",
+    "verify": "'Units of volume'",
+    "id": "cnm_p162_q1",
+    "topicId": "cnm_p162"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "1 cubic decimeter=1000 cubic centimeters. How many cubic centimeters are in 2 cubic decimeters?",
+    "answer": "2000",
+    "explanation": "2×1000=2000 cubic centimeters.",
+    "verify": "2*1000",
+    "id": "cnm_p162_q2",
+    "topicId": "cnm_p162"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "1 cubic meter=1000 cubic decimeters. How many cubic decimeters are in 3 cubic meters?",
+    "answer": "3000",
+    "explanation": "3×1000=3000 cubic decimeters.",
+    "verify": "3*1000",
+    "id": "cnm_p162_q3",
+    "topicId": "cnm_p162"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "1 cubic meter=1000 cubic decimeters, and 1 cubic decimeter=1000 cubic centimeters. How many cubic centimeters are in 1 cubic meter?",
+    "answer": "1000000",
+    "explanation": "1000×1000=1000000 cubic centimeters.",
+    "verify": "1000*1000",
+    "id": "cnm_p162_q4",
+    "topicId": "cnm_p162"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the volume, in cubic centimeters, of a cuboid 5 cm long, 4 cm wide, and 3 cm high?",
+    "answer": "60",
+    "explanation": "Length×width×height=5×4×3=60.",
+    "verify": "5*4*3",
+    "id": "cnm_p163_q1",
+    "topicId": "cnm_p163"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the volume, in cubic centimeters, of a cube with 3 cm edges?",
+    "answer": "27",
+    "explanation": "Edge×edge×edge=3×3×3=27.",
+    "verify": "3*3*3",
+    "id": "cnm_p163_q2",
+    "topicId": "cnm_p163"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A cuboid box is 8 cm long, 5 cm wide, and 2 cm high. What is its volume in cubic centimeters?",
+    "answer": "80",
+    "explanation": "8×5×2=80 cubic centimeters.",
+    "verify": "8*5*2",
+    "id": "cnm_p163_q3",
+    "topicId": "cnm_p163"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many cubic centimeters less is the volume of a cube with 4 cm edges than that of a cuboid 8 cm long, 5 cm wide, and 2 cm high?",
+    "answer": "16",
+    "explanation": "The cube's volume is 4×4×4=64; the cuboid's is 8×5×2=80; 80−64=16.",
+    "verify": "8*5*2-4*4*4",
+    "id": "cnm_p163_q4",
+    "topicId": "cnm_p163"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What does capacity mean?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The volume of liquid or other material a container can hold"
+      },
+      {
+        "key": "B",
+        "text": "The container's external surface area"
+      },
+      {
+        "key": "C",
+        "text": "The thickness of the container's walls"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Capacity is the volume a container can hold.",
+    "verify": "'The volume of liquid or other material a container can hold'",
+    "id": "cnm_p164_q1",
+    "topicId": "cnm_p164"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "1 liter=1000 milliliters. How many milliliters are in 2 liters?",
+    "answer": "2000",
+    "explanation": "2×1000=2000 milliliters.",
+    "verify": "2*1000",
+    "id": "cnm_p164_q2",
+    "topicId": "cnm_p164"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "A bottle contains 500 milliliters of a drink. How many liters are in 2 bottles?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1 liter"
+      },
+      {
+        "key": "B",
+        "text": "2 liters"
+      },
+      {
+        "key": "C",
+        "text": "10 liters"
+      },
+      {
+        "key": "D",
+        "text": "100 liters"
+      }
+    ],
+    "answer": "A",
+    "explanation": "500×2=1000 milliliters=1 liter.",
+    "verify": "'1 liter'",
+    "id": "cnm_p164_q3",
+    "topicId": "cnm_p164"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A rectangular water tank measures 5 dm by 4 dm by 3 dm on the inside. How many liters of water can it hold? (1 cubic decimeter=1 liter.)",
+    "answer": "60",
+    "explanation": "Its capacity is 5×4×3=60 cubic decimeters, or 60 liters.",
+    "verify": "5*4*3",
+    "id": "cnm_p164_q4",
+    "topicId": "cnm_p164"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A sheet of paper is divided into 8 equal parts, and 5 are colored. Into how many parts was it divided?",
+    "answer": "8",
+    "explanation": "The denominator 8 means the whole is divided into 8 equal parts; the numerator 5 means 5 parts are colored.",
+    "verify": "8",
+    "id": "cnm_p165_q1",
+    "topicId": "cnm_p165"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A pie is divided into 4 equal slices, and 1 slice is eaten. What fraction of the pie was eaten?",
+    "answer": "1/4",
+    "explanation": "One part out of 4 equal parts is 1/4.",
+    "verify": "Fraction(1,4)",
+    "id": "cnm_p165_q2",
+    "topicId": "cnm_p165"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A box of 12 colored pencils is divided equally into 3 groups, and 2 groups are taken. What fraction of the pencils is taken?",
+    "answer": "2/3",
+    "explanation": "Two of the 3 equal groups are taken, so the fraction is 2/3. The total of 12 pencils does not affect the fraction.",
+    "verify": "Fraction(2,3)",
+    "id": "cnm_p165_q3",
+    "topicId": "cnm_p165"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A rope is divided into 8 equal lengths, and 3 lengths are used. What fraction of its total length remains?",
+    "answer": "5/8",
+    "explanation": "There are 8−3=5 lengths left, which is 5/8 of the total.",
+    "verify": "Fraction(8-3,8)",
+    "id": "cnm_p165_q4",
+    "topicId": "cnm_p165"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What kind of fraction has a numerator smaller than its denominator?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A proper fraction"
+      },
+      {
+        "key": "B",
+        "text": "An improper fraction"
+      },
+      {
+        "key": "C",
+        "text": "Neither a proper nor an improper fraction"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A fraction with a numerator smaller than its denominator is less than 1 and is a proper fraction.",
+    "verify": "'A proper fraction'",
+    "id": "cnm_p166_q1",
+    "topicId": "cnm_p166"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What kind of fraction is 7/4?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "An improper fraction"
+      },
+      {
+        "key": "B",
+        "text": "A proper fraction"
+      },
+      {
+        "key": "C",
+        "text": "It is not a fraction"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The numerator 7 is greater than the denominator 4, so 7/4 is greater than 1 and is an improper fraction.",
+    "verify": "'An improper fraction'",
+    "id": "cnm_p166_q2",
+    "topicId": "cnm_p166"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which is a proper fraction?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "5/5"
+      },
+      {
+        "key": "B",
+        "text": "7/4"
+      },
+      {
+        "key": "C",
+        "text": "3/8"
+      },
+      {
+        "key": "D",
+        "text": "9/8"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Only 3/8 has a numerator smaller than its denominator. 5/5, 7/4, and 9/8 are improper fractions.",
+    "verify": "'3/8'",
+    "id": "cnm_p166_q3",
+    "topicId": "cnm_p166"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "How many improper fractions are there among 2/3, 5/5, 7/4, 8/3, and 1/6?",
+    "answer": "3",
+    "explanation": "An improper fraction has a numerator greater than or equal to its denominator: 5/5, 7/4, and 8/3. There are 3.",
+    "verify": "sum(1 for a,b in ((2,3),(5,5),(7,4),(8,3),(1,6)) if a>=b)",
+    "id": "cnm_p166_q4",
+    "topicId": "cnm_p166"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "The numerator and denominator of 1/2 are both multiplied by 3. What is the denominator of the new fraction?",
+    "answer": "6",
+    "explanation": "The denominator is 2×3=6; the fraction's value stays the same, and the new fraction is 3/6.",
+    "verify": "2*3",
+    "id": "cnm_p167_q1",
+    "topicId": "cnm_p167"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "If the numerator and denominator are both multiplied or divided by the same nonzero number, what happens to the fraction's value?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It stays the same"
+      },
+      {
+        "key": "B",
+        "text": "It always increases"
+      },
+      {
+        "key": "C",
+        "text": "It always becomes 1"
+      }
+    ],
+    "answer": "A",
+    "explanation": "This is the fundamental property of fractions: the value stays the same.",
+    "verify": "'It stays the same'",
+    "id": "cnm_p167_q2",
+    "topicId": "cnm_p167"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Divide the numerator and denominator of 4/8 by 4. What fraction do you get?",
+    "answer": "1/2",
+    "explanation": "4÷4=1 and 8÷4=2, so the fraction is 1/2 and its value is unchanged.",
+    "verify": "Fraction(4,8)",
+    "id": "cnm_p167_q3",
+    "topicId": "cnm_p167"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "The numerator and denominator of a fraction are both multiplied by 4, resulting in 12/20. What was the original fraction?",
+    "answer": "3/5",
+    "explanation": "Divide 12 and 20 by 4: 12÷4=3 and 20÷4=5, so the original fraction was 3/5.",
+    "verify": "Fraction(12,4)/Fraction(20,4)",
+    "id": "cnm_p167_q4",
+    "topicId": "cnm_p167"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Write 6/8 in simplest form. What is the simplified fraction?",
+    "answer": "3/4",
+    "explanation": "Divide the numerator and denominator by 2: 6/8=3/4.",
+    "verify": "Fraction(6,8)",
+    "id": "cnm_p168_q1",
+    "topicId": "cnm_p168"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Write 4/10 in simplest form. What is the simplified fraction?",
+    "answer": "2/5",
+    "explanation": "Divide the numerator and denominator by 2: 4/10=2/5.",
+    "verify": "Fraction(4,10)",
+    "id": "cnm_p168_q2",
+    "topicId": "cnm_p168"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Write 8/12 in simplest form. What is the simplified fraction?",
+    "answer": "2/3",
+    "explanation": "The greatest common factor of 8 and 12 is 4: 8/12=2/3.",
+    "verify": "Fraction(8,12)",
+    "id": "cnm_p168_q3",
+    "topicId": "cnm_p168"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Write 18/24 in simplest form. What is the simplified fraction?",
+    "answer": "3/4",
+    "explanation": "The greatest common factor of 18 and 24 is 6: 18÷6=3 and 24÷6=4, giving 3/4.",
+    "verify": "Fraction(18,24)",
+    "id": "cnm_p168_q4",
+    "topicId": "cnm_p168"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Which is greater, 3/5 or 1/5?",
+    "answer": "3/5",
+    "explanation": "The denominators are equal, so the fraction with the larger numerator is greater: 3/5.",
+    "verify": "max(Fraction(3,5),Fraction(1,5))",
+    "id": "cnm_p169_q1",
+    "topicId": "cnm_p169"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Which is greater, 2/3 or 3/4?",
+    "answer": "3/4",
+    "explanation": "With a common denominator, 8/12＜9/12, so 3/4 is greater.",
+    "verify": "max(Fraction(2,3),Fraction(3,4))",
+    "id": "cnm_p169_q2",
+    "topicId": "cnm_p169"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Two ropes are the same length. One has 3/8 used and the other has 5/8 used. What fraction of the full length was used from the rope with more used?",
+    "answer": "5/8",
+    "explanation": "The denominators are equal, and 5/8＞3/8, so the greater amount is 5/8.",
+    "verify": "max(Fraction(3,8),Fraction(5,8))",
+    "id": "cnm_p169_q3",
+    "topicId": "cnm_p169"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Which is the greatest fraction among 1/2, 2/3, and 3/5?",
+    "answer": "2/3",
+    "explanation": "With denominator 30, the fractions are 15/30, 20/30, and 18/30. The greatest is 20/30, or 2/3.",
+    "verify": "max(Fraction(1,2),Fraction(2,3),Fraction(3,5))",
+    "id": "cnm_p169_q4",
+    "topicId": "cnm_p169"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Write 3/10 as a decimal. (Answer with a decimal.)",
+    "answer": "0.3",
+    "explanation": "3/10=0.3.",
+    "verify": "Fraction(3,10)",
+    "id": "cnm_p170_q1",
+    "topicId": "cnm_p170"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Write 25/100 as a decimal. (Answer with a decimal.)",
+    "answer": "0.25",
+    "explanation": "25/100=0.25.",
+    "verify": "Fraction(25,100)",
+    "id": "cnm_p170_q2",
+    "topicId": "cnm_p170"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Write 0.7 as a fraction in simplest form.",
+    "answer": "7/10",
+    "explanation": "0.7 is 7 tenths, or 7/10.",
+    "verify": "Fraction(7,10)",
+    "id": "cnm_p170_q3",
+    "topicId": "cnm_p170"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Write 0.125 as a fraction in simplest form.",
+    "answer": "1/8",
+    "explanation": "0.125=125/1000. Divide the numerator and denominator by 125 to get 1/8.",
+    "verify": "Fraction(125,1000)",
+    "id": "cnm_p170_q4",
+    "topicId": "cnm_p170"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What happens to a shape's size and form when it is rotated?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Both its size and shape stay the same"
+      },
+      {
+        "key": "B",
+        "text": "It always gets larger"
+      },
+      {
+        "key": "C",
+        "text": "Its shape always changes"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A rotation changes only orientation; size and shape stay the same.",
+    "verify": "'Both its size and shape stay the same'",
+    "id": "cnm_p171_q1",
+    "topicId": "cnm_p171"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A pinwheel rotates 90 degrees clockwise around its center, then another 90 degrees clockwise. Through how many degrees does it rotate in total?",
+    "answer": "180",
+    "explanation": "The rotations are in the same direction, so add the angles: 90+90=180.",
+    "verify": "90+90",
+    "id": "cnm_p171_q2",
+    "topicId": "cnm_p171"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A clock's hour hand moves from 12 to 4. Through how many degrees does it rotate? Each interval between neighboring numbers is 30 degrees.",
+    "answer": "120",
+    "explanation": "It moves through 4 intervals: 4×30=120 degrees.",
+    "verify": "4*30",
+    "id": "cnm_p171_q3",
+    "topicId": "cnm_p171"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A shape rotates 90 degrees clockwise, then 35 degrees counterclockwise. What is the equivalent clockwise rotation?",
+    "answer": "55",
+    "explanation": "The 35-degree counterclockwise rotation cancels part of the clockwise turn: 90−35=55 degrees.",
+    "verify": "90-35",
+    "id": "cnm_p171_q4",
+    "topicId": "cnm_p171"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the least common denominator for 1/2 and 1/3?",
+    "answer": "6",
+    "explanation": "The least common multiple of 2 and 3 is 6.",
+    "verify": "lcm(2,3)",
+    "id": "cnm_p172_q1",
+    "topicId": "cnm_p172"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the least common denominator for 1/4 and 3/8?",
+    "answer": "8",
+    "explanation": "The least common multiple of 4 and 8 is 8.",
+    "verify": "lcm(4,8)",
+    "id": "cnm_p172_q2",
+    "topicId": "cnm_p172"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What is the least common denominator for 1/6 and 1/4?",
+    "answer": "12",
+    "explanation": "The least common multiple of 6 and 4 is 12.",
+    "verify": "lcm(6,4)",
+    "id": "cnm_p172_q3",
+    "topicId": "cnm_p172"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Rewrite 2/3 and 3/4 with denominator 12. What is the numerator of 2/3 after conversion?",
+    "answer": "8",
+    "explanation": "To change the denominator 3 to 12, multiply by 4. Multiply the numerator by 4 as well: 2×4=8, so 2/3=8/12.",
+    "verify": "2*12//3",
+    "id": "cnm_p172_q4",
+    "topicId": "cnm_p172"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 1/2+1/4=?",
+    "answer": "3/4",
+    "explanation": "Use a common denominator: 2/4+1/4=3/4.",
+    "verify": "Fraction(1,2)+Fraction(1,4)",
+    "id": "cnm_p173_q1",
+    "topicId": "cnm_p173"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 1/2−1/3=?",
+    "answer": "1/6",
+    "explanation": "Use a common denominator: 3/6−2/6=1/6.",
+    "verify": "Fraction(1,2)-Fraction(1,3)",
+    "id": "cnm_p173_q2",
+    "topicId": "cnm_p173"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Wheat covers 1/2 of a field and corn covers 1/3. What fraction of the field do the two crops cover altogether?",
+    "answer": "5/6",
+    "explanation": "With a common denominator, 3/6+2/6=5/6.",
+    "verify": "Fraction(1,2)+Fraction(1,3)",
+    "id": "cnm_p173_q3",
+    "topicId": "cnm_p173"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A cup of juice is half-drunk, then juice equal to 1/3 of the cup's original capacity is poured in. What fraction of the original capacity is in the cup now?",
+    "answer": "5/6",
+    "explanation": "After drinking, 1/2 remains; add 1/3: 1/2+1/3=5/6.",
+    "verify": "1-Fraction(1,2)+Fraction(1,3)",
+    "id": "cnm_p173_q4",
+    "topicId": "cnm_p173"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 1/2+1/4−1/4=?",
+    "answer": "1/2",
+    "explanation": "The added 1/4 and subtracted 1/4 cancel, leaving 1/2.",
+    "verify": "Fraction(1,2)+Fraction(1,4)-Fraction(1,4)",
+    "id": "cnm_p174_q1",
+    "topicId": "cnm_p174"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 3/4−1/4+1/2=?",
+    "answer": "1",
+    "explanation": "3/4−1/4=1/2, and 1/2+1/2=1.",
+    "verify": "Fraction(3,4)-Fraction(1,4)+Fraction(1,2)",
+    "id": "cnm_p174_q2",
+    "topicId": "cnm_p174"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A glass of water is first reduced by 1/5, then by another 2/5. What fraction of the original amount remains?",
+    "answer": "2/5",
+    "explanation": "The amount used is 1/5+2/5=3/5, so 1−3/5=2/5 remains.",
+    "verify": "1-Fraction(1,5)-Fraction(2,5)",
+    "id": "cnm_p174_q3",
+    "topicId": "cnm_p174"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Wheat covers 1/2 of a field and corn covers 1/3. The rest is planted with vegetables. What fraction of the field is planted with vegetables?",
+    "answer": "1/6",
+    "explanation": "1−1/2−1/3=1/6.",
+    "verify": "1-Fraction(1,2)-Fraction(1,3)",
+    "id": "cnm_p174_q4",
+    "topicId": "cnm_p174"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What are line graphs useful for showing?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Changes in quantities"
+      },
+      {
+        "key": "B",
+        "text": "How each part compares with the total"
+      },
+      {
+        "key": "C",
+        "text": "Only the largest value"
+      }
+    ],
+    "answer": "A",
+    "explanation": "An upward line shows an increase, and a downward line shows a decrease.",
+    "verify": "'Changes in quantities'",
+    "id": "cnm_p175_q1",
+    "topicId": "cnm_p175"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A temperature line graph shows 12 °C at 8:00 and 18 °C at 12:00. By how many degrees Celsius did the temperature rise?",
+    "answer": "6",
+    "explanation": "18−12=6 degrees Celsius.",
+    "verify": "18-12",
+    "id": "cnm_p175_q2",
+    "topicId": "cnm_p175"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "A shop sells 8, 6, and 4 ice creams from Monday through Wednesday. What trend does the line graph show?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A gradual increase"
+      },
+      {
+        "key": "B",
+        "text": "A gradual decrease"
+      },
+      {
+        "key": "C",
+        "text": "An increase followed by a decrease"
+      },
+      {
+        "key": "D",
+        "text": "No change"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Sales fall from 8 to 6 and then to 4, so the line gradually decreases.",
+    "verify": "'A gradual decrease'",
+    "id": "cnm_p175_q3",
+    "topicId": "cnm_p175"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A line graph shows temperatures of 16 °C on Monday, 13 °C on Tuesday, and 18 °C on Wednesday. What is the difference between the highest and lowest temperatures?",
+    "answer": "5",
+    "explanation": "The highest is 18 °C and the lowest is 13 °C, so the difference is 18−13=5 degrees.",
+    "verify": "18-13",
+    "id": "cnm_p175_q4",
+    "topicId": "cnm_p175"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When using a balance scale to find one item that is heavier or lighter than the rest, how should the items be divided for each weighing?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Into three groups"
+      },
+      {
+        "key": "B",
+        "text": "Weigh just one item at a time"
+      },
+      {
+        "key": "C",
+        "text": "Weigh all items together once"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Divide the items into three groups; one weighing can determine which group contains the defective item.",
+    "verify": "'Into three groups'",
+    "id": "cnm_p176_q1",
+    "topicId": "cnm_p176"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "One of 9 parts is heavier than the others. If the parts are divided into 3 equal groups for the first weighing, how many are in each group?",
+    "answer": "3",
+    "explanation": "9÷3=3 parts per group.",
+    "verify": "9//3",
+    "id": "cnm_p176_q2",
+    "topicId": "cnm_p176"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "One of 9 parts is heavier than the others. At each step, divide the parts that may be defective into 3 groups and weigh them. What is the minimum number of weighings needed to guarantee finding the defective part?",
+    "answer": "2",
+    "explanation": "The first weighing narrows it to 3 parts. A second weighing divides those into 3 groups and identifies the defective one. The minimum is 2 weighings.",
+    "verify": "2",
+    "id": "cnm_p176_q3",
+    "topicId": "cnm_p176"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "One of 27 parts is heavier than the others. If the possible defective parts are divided into 3 groups at each weighing, what is the minimum number of weighings needed to guarantee finding it?",
+    "answer": "3",
+    "explanation": "One weighing narrows 27 parts to 9, a second narrows 9 to 3, and a third identifies the defective part. The minimum is 3 weighings.",
+    "verify": "3",
+    "id": "cnm_p176_q4",
+    "topicId": "cnm_p176"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Can you always determine what a composite solid looks like from only its front view?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Not necessarily"
+      },
+      {
+        "key": "B",
+        "text": "Yes, always"
+      },
+      {
+        "key": "C",
+        "text": "Only if it is a cube"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The same view from one direction can correspond to different arrangements.",
+    "verify": "'Not necessarily'",
+    "id": "cnm_p237_q1",
+    "topicId": "cnm_p237"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "The front view shows 3 squares in a row, and the top view also shows 3 squares in a row. What is the smallest number of unit cubes that could make the solid?",
+    "answer": "3",
+    "explanation": "Place one cube in each of the three positions to satisfy both views.",
+    "verify": "3",
+    "id": "cnm_p237_q2",
+    "topicId": "cnm_p237"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "The top view shows 2 rows of 2 squares, with 2 cubes stacked at every position. How many unit cubes are there?",
+    "answer": "8",
+    "explanation": "There are 4 positions with 2 layers each: 4×2=8.",
+    "verify": "4*2",
+    "id": "cnm_p237_q3",
+    "topicId": "cnm_p237"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Build a composite solid from unit cubes. The top view shows all 6 positions in a 2-by-3 grid occupied. The front-view heights of the three columns are 2, 1, and 2. From the left, the front row is at most 2 cubes high and the back row at most 1 cube high. What is the smallest possible number of cubes?",
+    "answer": "8",
+    "explanation": "The back row can be only 1 cube high, so both 2-cube stacks must be in the front row. The six heights are 2, 1, 2 and 1, 1, 1, for a total of 8.",
+    "verify": "2+1+2+1+1+1",
+    "id": "cnm_p237_q4",
+    "topicId": "cnm_p237"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "After a shape is translated, rotated, or reflected across an axis, what happens to its size and shape?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Both its size and shape stay the same"
+      },
+      {
+        "key": "B",
+        "text": "It always gets larger"
+      },
+      {
+        "key": "C",
+        "text": "Its shape always changes"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Translation, rotation, and reflection change only position or orientation, not size or shape.",
+    "verify": "'Both its size and shape stay the same'",
+    "id": "cnm_p238_q1",
+    "topicId": "cnm_p238"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A point is in column 4 on a grid. Which column is it in after moving 2 squares to the right?",
+    "answer": "6",
+    "explanation": "Moving right increases the column number: 4+2=6.",
+    "verify": "4+2",
+    "id": "cnm_p238_q2",
+    "topicId": "cnm_p238"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A point is in column 3, row 2 on a grid. It moves 4 squares to the right and then 3 squares up. Which column is it in now?",
+    "answer": "7",
+    "explanation": "Moving up does not change the column. The column is 3+4=7.",
+    "verify": "3+4",
+    "id": "cnm_p238_q3",
+    "topicId": "cnm_p238"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A clock hand turns clockwise from 12 to 6, then continues clockwise to 9. Through how many degrees has it turned from 12 to 9?",
+    "answer": "270",
+    "explanation": "From 12 to 6 is 180 degrees, then from 6 to 9 is 90 degrees: 180+90=270 degrees.",
+    "verify": "180+90",
+    "id": "cnm_p238_q4",
+    "topicId": "cnm_p238"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Each interior angle of an equilateral triangle is 60 degrees. How many triangles fit exactly around one point?",
+    "answer": "6",
+    "explanation": "A full turn is 360 degrees: 360÷60=6.",
+    "verify": "360//60",
+    "id": "cnm_p239_q1",
+    "topicId": "cnm_p239"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Each interior angle of a square is 90 degrees. How many squares fit around one point to make a tessellation?",
+    "answer": "4",
+    "explanation": "360÷90=4.",
+    "verify": "360//90",
+    "id": "cnm_p239_q2",
+    "topicId": "cnm_p239"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Each interior angle of a regular hexagon is 120 degrees. How many hexagons fit around one point to make a tessellation?",
+    "answer": "3",
+    "explanation": "360÷120=3.",
+    "verify": "360//120",
+    "id": "cnm_p239_q3",
+    "topicId": "cnm_p239"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "Each interior angle of a regular pentagon is 108 degrees. Can regular pentagons tessellate the plane by themselves?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "No; 108° does not divide 360° evenly"
+      },
+      {
+        "key": "B",
+        "text": "Yes, because it has 5 sides"
+      },
+      {
+        "key": "C",
+        "text": "Only in a single row"
+      },
+      {
+        "key": "D",
+        "text": "Yes, because 108° is greater than 90°"
+      }
+    ],
+    "answer": "A",
+    "explanation": "108×3=324, which is less than 360; 108×4=432, which is greater than 360. They cannot fit exactly around a point, so they cannot tessellate by themselves.",
+    "verify": "'No; 108° does not divide 360° evenly'",
+    "id": "cnm_p239_q4",
+    "topicId": "cnm_p239"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Which segment is the height of a parallelogram?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A perpendicular segment from a point on one side to the opposite side"
+      },
+      {
+        "key": "B",
+        "text": "Any slanted side"
+      },
+      {
+        "key": "C",
+        "text": "A segment connecting opposite vertices"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The height is the perpendicular distance between a base and its opposite side.",
+    "verify": "'A perpendicular segment from a point on one side to the opposite side'",
+    "id": "cnm_p240_q1",
+    "topicId": "cnm_p240"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What can be said about the lengths of heights drawn to the same base?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "They are all equal"
+      },
+      {
+        "key": "B",
+        "text": "Some are longer than others"
+      },
+      {
+        "key": "C",
+        "text": "Each must equal the base"
+      }
+    ],
+    "answer": "A",
+    "explanation": "All heights drawn to the same base have equal lengths.",
+    "verify": "'They are all equal'",
+    "id": "cnm_p240_q2",
+    "topicId": "cnm_p240"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A rectangle is 8 cm long and 5 cm wide. If its length is the base, what is the corresponding height in centimeters?",
+    "answer": "5",
+    "explanation": "A rectangle is a special parallelogram. With the length as the base, the corresponding height is its 5 cm width.",
+    "verify": "5",
+    "id": "cnm_p240_q3",
+    "topicId": "cnm_p240"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A rectangle is 8 cm long and 5 cm wide. Translate its top side parallel to the base to form a parallelogram, keeping the base 8 cm long. What is the corresponding height in centimeters?",
+    "answer": "5",
+    "explanation": "Translating the top side parallel to the base does not change its perpendicular distance from the base, so the height stays 5 cm.",
+    "verify": "5",
+    "id": "cnm_p240_q4",
+    "topicId": "cnm_p240"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 3/8+1/8=?",
+    "answer": "1/2",
+    "explanation": "Keep the denominator and add the numerators: 4/8=1/2.",
+    "verify": "Fraction(3,8)+Fraction(1,8)",
+    "id": "cnm_p243_q1",
+    "topicId": "cnm_p243"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 7/9−4/9=?",
+    "answer": "1/3",
+    "explanation": "Keep the denominator and subtract the numerators: 3/9=1/3.",
+    "verify": "Fraction(7,9)-Fraction(4,9)",
+    "id": "cnm_p243_q2",
+    "topicId": "cnm_p243"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "First, 5/12 of a rope's total length is used; then another 7/12 is used. What fraction of the total length is used altogether?",
+    "answer": "1",
+    "explanation": "5/12+7/12=12/12=1, which is the entire length.",
+    "verify": "Fraction(5,12)+Fraction(7,12)",
+    "id": "cnm_p243_q3",
+    "topicId": "cnm_p243"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A cake has 2/9 eaten in the morning and 4/9 in the afternoon. What fraction of the cake remains?",
+    "answer": "1/3",
+    "explanation": "The amount eaten is 2/9+4/9=6/9, so 1−6/9=3/9=1/3 remains.",
+    "verify": "1-Fraction(2,9)-Fraction(4,9)",
+    "id": "cnm_p243_q4",
+    "topicId": "cnm_p243"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Eight unit cubes with 1 cm edges are assembled into a larger cube. What is the larger cube's edge length in centimeters?",
+    "answer": "2",
+    "explanation": "2×2×2=8, so the larger cube has 2 cm edges.",
+    "verify": "2",
+    "id": "cnm_p244_q1",
+    "topicId": "cnm_p244"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "How many unit cubes with 1 cm edges are needed to build a cuboid 4 cm long, 3 cm wide, and 2 cm high?",
+    "answer": "24",
+    "explanation": "4×3×2=24 cubes.",
+    "verify": "4*3*2",
+    "id": "cnm_p244_q2",
+    "topicId": "cnm_p244"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Two cubes with 1 cm edges are joined side by side to make a cuboid. The joined faces are hidden. What is the surface area of the cuboid in square centimeters?",
+    "answer": "10",
+    "explanation": "The two cubes have 12 faces altogether; the 2 joined faces are hidden: 12−2=10.",
+    "verify": "6*2-2",
+    "id": "cnm_p244_q3",
+    "topicId": "cnm_p244"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Three cubes with 1 cm edges are placed in a row to form a cuboid. What is its surface area in square centimeters?",
+    "answer": "14",
+    "explanation": "The cuboid is 3 cm long, 1 cm wide, and 1 cm high. Its surface area is 2×(3×1+3×1+1×1)=14.",
+    "verify": "2*(3*1+3*1+1*1)",
+    "id": "cnm_p244_q4",
+    "topicId": "cnm_p244"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A teacher calls 1 student to share a notice. The call takes 1 minute. How many people know the notice now, including the teacher?",
+    "answer": "2",
+    "explanation": "The teacher and the 1 student both know, for a total of 2 people.",
+    "verify": "1+1",
+    "id": "cnm_p245_q1",
+    "topicId": "cnm_p245"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "In the second minute, everyone who knows the notice calls 1 person who does not yet know it. How many people know the notice at the end of the second minute?",
+    "answer": "4",
+    "explanation": "There were 2 people; each tells 1 more, so the number doubles: 2×2=4.",
+    "verify": "2*2",
+    "id": "cnm_p245_q2",
+    "topicId": "cnm_p245"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A teacher needs to notify 7 students, not including the teacher. Each person can make only 1 call per minute, and informed people may continue calling. What is the minimum number of minutes needed?",
+    "answer": "3",
+    "explanation": "The number of informed people can at most double each minute: 2, 4, 8. The 8 people include the teacher and cover all 7 students, so 3 minutes are needed.",
+    "verify": "3",
+    "id": "cnm_p245_q3",
+    "topicId": "cnm_p245"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A teacher needs to notify 20 students, not including the teacher, under the same rules. What is the minimum number of minutes needed?",
+    "answer": "5",
+    "explanation": "At least 21 people, including the teacher, must be informed. 2, 4, 8, and 16 are not enough; after 5 minutes, up to 32 people know.",
+    "verify": "min(k for k in range(1,8) if 2**k>=21)",
+    "id": "cnm_p245_q4",
+    "topicId": "cnm_p245"
+  }
+]

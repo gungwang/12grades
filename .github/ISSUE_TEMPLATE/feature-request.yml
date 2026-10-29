@@ -1,0 +1,38 @@
+name: Feature request
+description: Ideas for improving the diagnostic tool, graph explorer, data, or documentation
+title: "[Feature request] "
+labels: ["feature request"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: What problem would you like to solve?
+      description: Briefly describe the situation and pain point.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe what you would like to change (interface, workflow, data fields, etc.).
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Related area
+      options:
+        - Diagnostic tool
+        - Knowledge graph explorer
+        - Question bank / data
+        - Documentation / README
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: extras
+    attributes:
+      label: Additional details
+      description: Reference links, competitor screenshots, or other context (optional).
+    validations:
+      required: false

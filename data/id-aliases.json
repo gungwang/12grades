@@ -1,0 +1,147 @@
+{
+  "description": "The programme b: 18 cnm_ext_* has been deleted from topics.json and is no longer used as nodes. Diagnosis or browsing, when encountered with old id (e.g.?target=cnm_ext_002, jumps to the corresponding official primary school knowledge point. Targets are representative points of knowledge, not a complete list, of the elements outlined in the external node.",
+  "aliases": {
+    "cnm_ext_001": {
+      "name": "Four integers of calculations and algorithms",
+      "targets": [
+        "cnm_p033",
+        "cnm_p074",
+        "cnm_p058",
+        "cnm_p116"
+      ]
+    },
+    "cnm_ext_002": {
+      "name": "Meaning of Fractions and Fraction Operations",
+      "targets": [
+        "cnm_p165",
+        "cnm_p173",
+        "cnm_p178",
+        "cnm_p183"
+      ]
+    },
+    "cnm_ext_003": {
+      "name": "The meaning of decimals and four calculations",
+      "targets": [
+        "cnm_p118",
+        "cnm_p125",
+        "cnm_p133",
+        "cnm_p138"
+      ]
+    },
+    "cnm_ext_004": {
+      "name": "Percentage and its application",
+      "targets": [
+        "cnm_p194",
+        "cnm_p203",
+        "cnm_p205"
+      ]
+    },
+    "cnm_ext_005": {
+      "name": "Ratio (in positive, inverse)",
+      "targets": [
+        "cnm_p185",
+        "cnm_p210",
+        "cnm_p213",
+        "cnm_p214"
+      ]
+    },
+    "cnm_ext_006": {
+      "name": "Negative.",
+      "targets": [
+        "cnm_p201"
+      ]
+    },
+    "cnm_ext_007": {
+      "name": "Letters for numbers and simple equations",
+      "targets": [
+        "cnm_p142",
+        "cnm_p145"
+      ]
+    },
+    "cnm_ext_008": {
+      "name": "Factor, multiple, prime and combined",
+      "targets": [
+        "cnm_p153",
+        "cnm_p157",
+        "cnm_p159"
+      ]
+    },
+    "cnm_ext_009": {
+      "name": "Common quantitative relationship to unit conversion",
+      "targets": [
+        "cnm_p111",
+        "cnm_p069",
+        "cnm_p056",
+        "cnm_p062"
+      ]
+    },
+    "cnm_ext_010": {
+      "name": "Plane graphics awareness and perimeter area",
+      "targets": [
+        "cnm_p089",
+        "cnm_p147",
+        "cnm_p148",
+        "cnm_p192"
+      ]
+    },
+    "cnm_ext_011": {
+      "name": "Categorization of triangles and inner angles",
+      "targets": [
+        "cnm_p122",
+        "cnm_p124"
+      ]
+    },
+    "cnm_ext_012": {
+      "name": "3D graphics awareness and surface size",
+      "targets": [
+        "cnm_p160",
+        "cnm_p207",
+        "cnm_p209"
+      ]
+    },
+    "cnm_ext_013": {
+      "name": "Angle Awareness and Measurement",
+      "targets": [
+        "cnm_p100",
+        "cnm_p101"
+      ]
+    },
+    "cnm_ext_014": {
+      "name": "Parallel and Vertical",
+      "targets": [
+        "cnm_p103",
+        "cnm_p104"
+      ]
+    },
+    "cnm_ext_015": {
+      "name": "Queue, rotation and axle symmetry of graphics",
+      "targets": [
+        "cnm_p128",
+        "cnm_p171",
+        "cnm_p127"
+      ]
+    },
+    "cnm_ext_016": {
+      "name": "Set position with a logarithmic and directional distance",
+      "targets": [
+        "cnm_p136",
+        "cnm_p180"
+      ]
+    },
+    "cnm_ext_017": {
+      "name": "Statistical tables, statistical charts and averages",
+      "targets": [
+        "cnm_p085",
+        "cnm_p175",
+        "cnm_p199",
+        "cnm_p129"
+      ]
+    },
+    "cnm_ext_018": {
+      "name": "Possibility",
+      "targets": [
+        "cnm_p140"
+      ]
+    }
+  }
+}

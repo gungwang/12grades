@@ -1,0 +1,36 @@
+name: Question correction
+description: Use this template to report an issue with a prompt, answer, option, or difficulty.
+title: "[Question] "
+labels: ["question correction"]
+body:
+  - type: input
+    id: question_id
+    attributes:
+      label: Question ID
+      description: For example, q_cnm_221_3, or the topic ID for a diagnostic question (for example, cnm_221).
+      placeholder: q_cnm_xxx_n
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Describe the problem
+      description: What is incorrect (prompt wording, answer, options, difficulty, etc.)?
+      placeholder: "For example: The answer key says 2, but the correct answer is -2; or option C duplicates option A."
+    validations:
+      required: true
+  - type: textarea
+    id: suggested_fix
+    attributes:
+      label: Suggested correction
+      description: What do you think the correct wording should be? (Optional)
+      placeholder: "Suggest changing the answer to …, or revising the prompt to …"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Screenshots, related topics, the page where the issue appears, etc. (Optional)
+    validations:
+      required: false

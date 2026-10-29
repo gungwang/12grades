@@ -1,0 +1,2473 @@
+[
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "When writing an ordered pair, which coordinate comes first?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Column first, then row"
+      },
+      {
+        "key": "B",
+        "text": "Row first, then column"
+      },
+      {
+        "key": "C",
+        "text": "Only one number"
+      }
+    ],
+    "answer": "A",
+    "explanation": "(3, 2) represents column 3, row 2.",
+    "verify": "'Column first, then row'",
+    "id": "cnm_p136_q1",
+    "topicId": "cnm_p136"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Point A is at (6, 2). In which column is point A?",
+    "answer": "6",
+    "explanation": "In an ordered pair, the column comes first, so (6, 2) is column 6, row 2.",
+    "verify": "6",
+    "id": "cnm_p136_q2",
+    "topicId": "cnm_p136"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "On a grid, (4, 2) represents the point in column 4, row 2. Which ordered pair represents the point in column 2, row 5?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "(5, 2)"
+      },
+      {
+        "key": "B",
+        "text": "(2, 7)"
+      },
+      {
+        "key": "C",
+        "text": "(2, 5)"
+      },
+      {
+        "key": "D",
+        "text": "(5, 7)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "The column comes first, so column 2, row 5 is written as (2, 5).",
+    "verify": "'(2, 5)'",
+    "id": "cnm_p136_q3",
+    "topicId": "cnm_p136"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Point A is at (2, 3). Move 4 columns right and then 1 row up to reach point B. What is the column number of point B?",
+    "answer": "6",
+    "explanation": "Moving right increases the column number: 2+4=6. Point B is at (6, 4).",
+    "verify": "2+4",
+    "id": "cnm_p136_q4",
+    "topicId": "cnm_p136"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 2/7×3=?",
+    "answer": "6/7",
+    "explanation": "2/7×3=6/7.",
+    "verify": "2/7*3",
+    "id": "cnm_p177_q1",
+    "topicId": "cnm_p177"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 3/4×2=?",
+    "answer": "3/2",
+    "explanation": "3/4×2=6/4=3/2.",
+    "verify": "3/4*2",
+    "id": "cnm_p177_q2",
+    "topicId": "cnm_p177"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Each bottle holds 3/5 L of juice. How many liters are in 4 bottles?",
+    "answer": "12/5",
+    "explanation": "To find 4 groups of 3/5 L, multiply: 3/5×4=12/5.",
+    "verify": "3/5*4",
+    "id": "cnm_p177_q3",
+    "topicId": "cnm_p177"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A bag of rice weighs 4/5 kg. How much do 5 bags weigh altogether? Simplify when possible.",
+    "answer": "4",
+    "explanation": "4/5×5=4.",
+    "verify": "4/5*5",
+    "id": "cnm_p177_q4",
+    "topicId": "cnm_p177"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 1/2×1/3=?",
+    "answer": "1/6",
+    "explanation": "1/2×1/3=1/6.",
+    "verify": "1/2*1/3",
+    "id": "cnm_p178_q1",
+    "topicId": "cnm_p178"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 2/3×3/4=?",
+    "answer": "1/2",
+    "explanation": "2/3×3/4=1/2.",
+    "verify": "2/3*3/4",
+    "id": "cnm_p178_q2",
+    "topicId": "cnm_p178"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Half of a road has been repaired, and 2/3 of that work was done in the morning. What fraction of the whole road was repaired in the morning?",
+    "answer": "1/3",
+    "explanation": "To find 2/3 of 1/2, multiply: 1/2×2/3=1/3.",
+    "verify": "1/2*2/3",
+    "id": "cnm_p178_q3",
+    "topicId": "cnm_p178"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A barrel is 3/4 full of oil. If 2/5 of the oil is poured out, what fraction of the barrel's full capacity was poured out?",
+    "answer": "3/10",
+    "explanation": "Find 2/5 of 3/4: 3/4×2/5=3/10.",
+    "verify": "3/4*2/5",
+    "id": "cnm_p178_q4",
+    "topicId": "cnm_p178"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 20×1/4=?",
+    "answer": "5",
+    "explanation": "20×1/4=5.",
+    "verify": "20*1/4",
+    "id": "cnm_p179_q1",
+    "topicId": "cnm_p179"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A barrel contains 30 L of oil. If 2/5 is used, how many liters are used?",
+    "answer": "12",
+    "explanation": "Find 2/5 of 30: 30×2/5=12.",
+    "verify": "30*2/5",
+    "id": "cnm_p179_q2",
+    "topicId": "cnm_p179"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A book has 240 pages, and 3/8 have been read. How many pages have been read?",
+    "answer": "90",
+    "explanation": "240×3/8=90.",
+    "verify": "240*3/8",
+    "id": "cnm_p179_q3",
+    "topicId": "cnm_p179"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "An orchard has 120 trees. Of these, 3/5 are apple trees, and 1/4 of the apple trees are Red Fuji. How many Red Fuji trees are there?",
+    "answer": "18",
+    "explanation": "120×3/5×1/4=18.",
+    "verify": "120*3/5*1/4",
+    "id": "cnm_p179_q4",
+    "topicId": "cnm_p179"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "For “30 degrees east of north, ” which direction do you start from, and which way do you turn?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Start due north and turn 30 degrees east"
+      },
+      {
+        "key": "B",
+        "text": "Start due east and turn 30 degrees north"
+      },
+      {
+        "key": "C",
+        "text": "Start due south and turn 30 degrees east"
+      }
+    ],
+    "answer": "A",
+    "explanation": "For 30 degrees east of north, face north first, then turn 30 degrees east.",
+    "id": "cnm_p180_q1",
+    "topicId": "cnm_p180"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "The post office is 150 m from the school, 30 degrees east of north. How many degrees east of north is this direction?",
+    "answer": "30",
+    "explanation": "The direction is 30 degrees east of north, so the angle is 30 degrees.",
+    "verify": "30",
+    "id": "cnm_p180_q2",
+    "topicId": "cnm_p180"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "The school is 150 m due east of Xiaoming's home, and the park is 250 m due east of the school. In what direction and how far is the park from Xiaoming's home?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "400 m due east"
+      },
+      {
+        "key": "B",
+        "text": "400 m due west"
+      },
+      {
+        "key": "C",
+        "text": "100 m due east"
+      },
+      {
+        "key": "D",
+        "text": "400 m due north"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Both legs go due east, so add the distances: 150+250=400 m.",
+    "id": "cnm_p180_q3",
+    "topicId": "cnm_p180"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "The youth center is 300 m from the school, 40 degrees east of north. In what direction is the school from the youth center?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "40 degrees west of south"
+      },
+      {
+        "key": "B",
+        "text": "40 degrees west of north"
+      },
+      {
+        "key": "C",
+        "text": "40 degrees east of south"
+      },
+      {
+        "key": "D",
+        "text": "Due south"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The reverse direction of 40 degrees east of north is 40 degrees west of south; the angle remains 40 degrees.",
+    "id": "cnm_p180_q4",
+    "topicId": "cnm_p180"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Walk east from home to school, then north to the library. In which direction does the second leg go?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "North"
+      },
+      {
+        "key": "B",
+        "text": "East"
+      },
+      {
+        "key": "C",
+        "text": "South"
+      },
+      {
+        "key": "D",
+        "text": "West"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The second leg is the walk north, so its direction is north.",
+    "id": "cnm_p181_q1",
+    "topicId": "cnm_p181"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Xiaohua walks 90 m east from home to school, then 60 m north to the library. How far does she walk in total?",
+    "answer": "150",
+    "explanation": "Add the lengths of the two legs: 90+60=150 m.",
+    "verify": "90+60",
+    "id": "cnm_p181_q2",
+    "topicId": "cnm_p181"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Xiaoming walks 120 m east, then 80 m south, then 120 m west. How far south of the starting point is he now?",
+    "answer": "80",
+    "explanation": "The 120 m east and 120 m west cancel out, leaving 80 m south.",
+    "verify": "80",
+    "id": "cnm_p181_q3",
+    "topicId": "cnm_p181"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "Xiaohua walks 90 m east from home to school, then 60 m north to the library. If she returns home along the same route, how should she travel first?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Walk 90 m east"
+      },
+      {
+        "key": "B",
+        "text": "Walk 60 m south"
+      },
+      {
+        "key": "C",
+        "text": "Walk 60 m north"
+      },
+      {
+        "key": "D",
+        "text": "Walk 90 m west"
+      }
+    ],
+    "answer": "B",
+    "explanation": "To retrace the route, first reverse the last leg: the 60 m north becomes 60 m south.",
+    "id": "cnm_p181_q4",
+    "topicId": "cnm_p181"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 4/5÷2=?",
+    "answer": "2/5",
+    "explanation": "4/5÷2=4/5×1/2=2/5.",
+    "verify": "4/5/2",
+    "id": "cnm_p182_q1",
+    "topicId": "cnm_p182"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 6/7÷3=?",
+    "answer": "2/7",
+    "explanation": "6/7÷3=6/7×1/3=2/7.",
+    "verify": "6/7/3",
+    "id": "cnm_p182_q2",
+    "topicId": "cnm_p182"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A 3/4 m rope is cut into 3 equal pieces. How long is each piece?",
+    "answer": "1/4",
+    "explanation": "3/4÷3=1/4.",
+    "verify": "3/4/3",
+    "id": "cnm_p182_q3",
+    "topicId": "cnm_p182"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "5/6 of a cake is shared equally among 4 people. What fraction of the whole cake does each person get?",
+    "answer": "5/24",
+    "explanation": "5/6÷4=5/6×1/4=5/24.",
+    "verify": "5/6/4",
+    "id": "cnm_p182_q4",
+    "topicId": "cnm_p182"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: (3/4)÷(1/2)=?",
+    "answer": "3/2",
+    "explanation": "3/4×2/1=3/2.",
+    "verify": "(3/4)/(1/2)",
+    "id": "cnm_p183_q1",
+    "topicId": "cnm_p183"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: (2/3)÷(4/5)=?",
+    "answer": "5/6",
+    "explanation": "2/3×5/4=5/6.",
+    "verify": "(2/3)/(4/5)",
+    "id": "cnm_p183_q2",
+    "topicId": "cnm_p183"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Divide 6/7 of a sheet of paper into pieces that are each 2/7 of a sheet. How many pieces are there?",
+    "answer": "3",
+    "explanation": "6/7÷2/7=6/7×7/2=3.",
+    "verify": "(6/7)/(2/7)",
+    "id": "cnm_p183_q3",
+    "topicId": "cnm_p183"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A rope is 3/4 m long. If it is cut into pieces that are each 1/8 m long, how many pieces can be made?",
+    "answer": "6",
+    "explanation": "3/4÷1/8=3/4×8=6.",
+    "verify": "(3/4)/(1/8)",
+    "id": "cnm_p183_q4",
+    "topicId": "cnm_p183"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "3/4 of a number is 12. What is the number?",
+    "answer": "16",
+    "explanation": "To find the whole when a fraction of it is known, divide: 12÷3/4=16.",
+    "verify": "12/(3/4)",
+    "id": "cnm_p184_q1",
+    "topicId": "cnm_p184"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 6÷(2/5)=?",
+    "answer": "15",
+    "explanation": "6×5/2=15.",
+    "verify": "6/(2/5)",
+    "id": "cnm_p184_q2",
+    "topicId": "cnm_p184"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A road has been repaired to 2/5 of its total length, which is 8 km. What is the road's total length in kilometers?",
+    "answer": "20",
+    "explanation": "8÷2/5=20.",
+    "verify": "8/(2/5)",
+    "id": "cnm_p184_q3",
+    "topicId": "cnm_p184"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "After 3/5 of the oil in a barrel is used, 8 L remain. How many liters were in the barrel originally?",
+    "answer": "20",
+    "explanation": "The remaining fraction is 1−3/5=2/5, which is 8 L. The original amount was 8÷2/5=20 L.",
+    "verify": "8/(2/5)",
+    "id": "cnm_p184_q4",
+    "topicId": "cnm_p184"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What do you get when you divide the first term of a ratio by the second?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The value of the ratio"
+      },
+      {
+        "key": "B",
+        "text": "The first term"
+      },
+      {
+        "key": "C",
+        "text": "The second term"
+      }
+    ],
+    "answer": "A",
+    "explanation": "First term÷second term=value of the ratio.",
+    "id": "cnm_p185_q1",
+    "topicId": "cnm_p185"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the value of the ratio 6:8?",
+    "answer": "3/4",
+    "explanation": "6÷8=3/4.",
+    "verify": "6/8",
+    "id": "cnm_p185_q2",
+    "topicId": "cnm_p185"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What is the value of the ratio 12:4?",
+    "answer": "3",
+    "explanation": "12÷4=3.",
+    "verify": "12/4",
+    "id": "cnm_p185_q3",
+    "topicId": "cnm_p185"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A class has 20 boys and 15 girls. When the ratio of boys to the whole class is reduced to lowest terms, what is its first term?",
+    "answer": "4",
+    "explanation": "There are 35 students, so 20:35=4:7. The first term is 4.",
+    "verify": "20/5",
+    "id": "cnm_p185_q4",
+    "topicId": "cnm_p185"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "After reducing the ratio 12:8 to lowest terms, what is its first term?",
+    "answer": "3",
+    "explanation": "12:8=3:2, so the first term is 3.",
+    "verify": "12/4",
+    "id": "cnm_p186_q1",
+    "topicId": "cnm_p186"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "After reducing the ratio 15:10 to lowest terms, what is its first term?",
+    "answer": "3",
+    "explanation": "15:10=3:2, so the first term is 3.",
+    "verify": "15/5",
+    "id": "cnm_p186_q2",
+    "topicId": "cnm_p186"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "After reducing the ratio 24:18 to lowest terms, what is its second term?",
+    "answer": "3",
+    "explanation": "24:18=4:3, so the second term is 3.",
+    "verify": "18/6",
+    "id": "cnm_p186_q3",
+    "topicId": "cnm_p186"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "After reducing the ratio 0.5:2 to lowest terms, what is its first term?",
+    "answer": "1",
+    "explanation": "Multiply both terms by 2 to get 1:4. The first term is 1.",
+    "verify": "1",
+    "id": "cnm_p186_q4",
+    "topicId": "cnm_p186"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Divide 30 into two parts in the ratio 2:3. What is the part corresponding to 2?",
+    "answer": "12",
+    "explanation": "There are 5 parts in total, so each is 6. Two parts equal 12.",
+    "verify": "30/(2+3)*2",
+    "id": "cnm_p187_q1",
+    "topicId": "cnm_p187"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Divide 40 into two parts in the ratio 1:3. What is the part corresponding to 1?",
+    "answer": "10",
+    "explanation": "There are 4 parts in total, so each is 10.",
+    "verify": "40/(1+3)*1",
+    "id": "cnm_p187_q2",
+    "topicId": "cnm_p187"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Divide 56 notebooks between two classes in the ratio 3:4. How many notebooks does the class receiving more get?",
+    "answer": "32",
+    "explanation": "There are 7 parts in total, so each is 8. Four parts equal 32.",
+    "verify": "56/(3+4)*4",
+    "id": "cnm_p187_q3",
+    "topicId": "cnm_p187"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Divide 90 yuan into three parts in the ratio 2:3:4. What is the largest part in yuan?",
+    "answer": "40",
+    "explanation": "There are 9 parts in total, so each is 10. Four parts equal 40.",
+    "verify": "90/(2+3+4)*4",
+    "id": "cnm_p187_q4",
+    "topicId": "cnm_p187"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is true about the distance from any point on a circle to its center?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Every distance equals the radius"
+      },
+      {
+        "key": "B",
+        "text": "The distances vary"
+      },
+      {
+        "key": "C",
+        "text": "Each distance is twice the diameter"
+      }
+    ],
+    "answer": "A",
+    "explanation": "All radii in the same circle have equal lengths.",
+    "id": "cnm_p188_q1",
+    "topicId": "cnm_p188"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "In a circle, the radius is 4 cm. What is the diameter in centimeters?",
+    "answer": "8",
+    "explanation": "Diameter=radius×2=8.",
+    "verify": "4*2",
+    "id": "cnm_p188_q2",
+    "topicId": "cnm_p188"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A circle has a diameter of 10 cm. What is its radius in centimeters?",
+    "answer": "5",
+    "explanation": "Radius=diameter÷2=5.",
+    "verify": "10/2",
+    "id": "cnm_p188_q3",
+    "topicId": "cnm_p188"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "When a compass is used to draw a circle, the distance between its points is 5 cm. What is the circle's diameter in centimeters?",
+    "answer": "10",
+    "explanation": "The distance between the compass points is the radius, so diameter=5×2=10.",
+    "verify": "5*2",
+    "id": "cnm_p188_q4",
+    "topicId": "cnm_p188"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is the approximate value of pi?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "3.14"
+      },
+      {
+        "key": "B",
+        "text": "3.41"
+      },
+      {
+        "key": "C",
+        "text": "31.4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Circumference÷diameter≈3.14. Use 314/100 for pi in these calculations.",
+    "id": "cnm_p189_q1",
+    "topicId": "cnm_p189"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Pi is the ratio of a circle's circumference to which measurement?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Diameter"
+      },
+      {
+        "key": "B",
+        "text": "Radius"
+      },
+      {
+        "key": "C",
+        "text": "Area"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Pi=circumference÷diameter.",
+    "id": "cnm_p189_q2",
+    "topicId": "cnm_p189"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What is the approximate circumference of a circle with a 2 cm diameter? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "6.28",
+    "explanation": "Circumference=diameter×pi=2×3.14=6.28.",
+    "verify": "2*314/100",
+    "id": "cnm_p189_q3",
+    "topicId": "cnm_p189"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A circle has a diameter of 10 cm and an approximate circumference of 31.4 cm. About how many times the diameter is the circumference? (Give your answer as a decimal.)",
+    "answer": "3.14",
+    "explanation": "31.4÷10=3.14; this ratio is pi.",
+    "verify": "314/100",
+    "id": "cnm_p189_q4",
+    "topicId": "cnm_p189"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the circumference, in centimeters, of a circle with a 2 cm radius? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "12.56",
+    "explanation": "Circumference=2×3.14×2=12.56.",
+    "verify": "2*314/100*2",
+    "id": "cnm_p190_q1",
+    "topicId": "cnm_p190"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the circumference, in centimeters, of a circle with a 5 cm radius? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "31.4",
+    "explanation": "Circumference=2×3.14×5=31.4.",
+    "verify": "2*314/100*5",
+    "id": "cnm_p190_q2",
+    "topicId": "cnm_p190"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A circle has a diameter of 4 cm. What is its circumference in centimeters? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "12.56",
+    "explanation": "Circumference=3.14×diameter=3.14×4=12.56.",
+    "verify": "314/100*4",
+    "id": "cnm_p190_q3",
+    "topicId": "cnm_p190"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A circular flower bed has a radius of 10 m. About how many meters of fencing are needed to go around it once? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "62.8",
+    "explanation": "The length of the fence equals the circumference: 2×3.14×10=62.8.",
+    "verify": "2*314/100*10",
+    "id": "cnm_p190_q4",
+    "topicId": "cnm_p190"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A bicycle wheel has a diameter of 50 cm. About how far does it travel in one rotation? Use 314/100 for pi.",
+    "answer": "157",
+    "explanation": "The distance traveled is the circumference: 3.14×50=157.",
+    "verify": "314/100*50",
+    "id": "cnm_p191_q1",
+    "topicId": "cnm_p191"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A circular track has a radius of 20 m. About how many meters is one lap? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "125.6",
+    "explanation": "2×3.14×20=125.6.",
+    "verify": "2*314/100*20",
+    "id": "cnm_p191_q2",
+    "topicId": "cnm_p191"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A circular flower bed has a diameter of 20 m. About how many meters of fencing are needed to go around its edge once? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "62.8",
+    "explanation": "3.14×20=62.8.",
+    "verify": "314/100*20",
+    "id": "cnm_p191_q3",
+    "topicId": "cnm_p191"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "The minute hand of a clock is 5 cm long. About how far does its tip travel in one full turn? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "31.4",
+    "explanation": "The tip travels along a circle with a 5 cm radius: 2×3.14×5=31.4.",
+    "verify": "2*314/100*5",
+    "id": "cnm_p191_q4",
+    "topicId": "cnm_p191"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the area, in square centimeters, of a circle with a 2 cm radius? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "12.56",
+    "explanation": "Area=3.14×2×2=12.56.",
+    "verify": "314/100*2*2",
+    "id": "cnm_p192_q1",
+    "topicId": "cnm_p192"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the area, in square centimeters, of a circle with a 10 cm radius? Use 314/100 for pi.",
+    "answer": "314",
+    "explanation": "Area=3.14×10×10=314.",
+    "verify": "314/100*10*10",
+    "id": "cnm_p192_q2",
+    "topicId": "cnm_p192"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "What is the area, in square centimeters, of a circle with a 5 cm radius? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "78.5",
+    "explanation": "3.14×5×5=78.5.",
+    "verify": "314/100*5*5",
+    "id": "cnm_p192_q3",
+    "topicId": "cnm_p192"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A circle has a diameter of 8 cm. What is its area in square centimeters? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "50.24",
+    "explanation": "Radius=4 cm; area=3.14×4×4=50.24.",
+    "verify": "314/100*4*4",
+    "id": "cnm_p192_q4",
+    "topicId": "cnm_p192"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Which parts form a sector?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "One radius and one diameter"
+      },
+      {
+        "key": "B",
+        "text": "Two radii and an arc"
+      },
+      {
+        "key": "C",
+        "text": "Two diameters and an arc"
+      },
+      {
+        "key": "D",
+        "text": "Two arcs"
+      }
+    ],
+    "answer": "B",
+    "explanation": "A sector is bounded by the two radii that form a central angle and the arc subtended by that angle.",
+    "id": "cnm_p193_q1",
+    "topicId": "cnm_p193"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A sector has a central angle of 90 degrees. What fraction of the whole circle does it represent?",
+    "answer": "1/4",
+    "explanation": "90÷360=1/4.",
+    "verify": "90/360",
+    "id": "cnm_p193_q2",
+    "topicId": "cnm_p193"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A sector has a central angle of 180 degrees. What fraction of the whole circle does it represent?",
+    "answer": "1/2",
+    "explanation": "180÷360=1/2.",
+    "verify": "180/360",
+    "id": "cnm_p193_q3",
+    "topicId": "cnm_p193"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A sector has a central angle of 120 degrees. What fraction of the whole circle's area does it represent?",
+    "answer": "1/3",
+    "explanation": "120÷360=1/3.",
+    "verify": "120/360",
+    "id": "cnm_p193_q4",
+    "topicId": "cnm_p193"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What does a percentage represent?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The percentage that one quantity is of another"
+      },
+      {
+        "key": "B",
+        "text": "It must be an amount of money"
+      },
+      {
+        "key": "C",
+        "text": "It can only represent an increase"
+      }
+    ],
+    "answer": "A",
+    "explanation": "50% means fifty percent.",
+    "id": "cnm_p194_q1",
+    "topicId": "cnm_p194"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is 50% of 100?",
+    "answer": "50",
+    "explanation": "100×50÷100=50.",
+    "verify": "100*50/100",
+    "id": "cnm_p194_q2",
+    "topicId": "cnm_p194"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Class 6-1 has 40 students, 30 of whom are Young Pioneers. What percentage of the class are Young Pioneers? (Give only the number before the percent sign.)",
+    "answer": "75",
+    "explanation": "30÷40=0.75=75%.",
+    "verify": "30/40*100",
+    "id": "cnm_p194_q3",
+    "topicId": "cnm_p194"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A rope has 40% used. What percentage remains? (Give only the number before the percent sign.)",
+    "answer": "60",
+    "explanation": "The whole is 100%, so 100−40=60 remains.",
+    "verify": "100-40",
+    "id": "cnm_p194_q4",
+    "topicId": "cnm_p194"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Convert 35% to a decimal. What is the result? (Give your answer as a decimal.)",
+    "answer": "0.35",
+    "explanation": "35%=35÷100=0.35.",
+    "verify": "35/100",
+    "id": "cnm_p195_q1",
+    "topicId": "cnm_p195"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Convert 0.4 to a percentage. What number goes before the percent sign?",
+    "answer": "40",
+    "explanation": "0.4=40%.",
+    "verify": "0.4*100",
+    "id": "cnm_p195_q2",
+    "topicId": "cnm_p195"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Convert 3/4 to a percentage. What number goes before the percent sign?",
+    "answer": "75",
+    "explanation": "3÷4=0.75=75%.",
+    "verify": "3/4*100",
+    "id": "cnm_p195_q3",
+    "topicId": "cnm_p195"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "Order 3/5, 0.55, and 58% from least to greatest. Which order is correct?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "0.55, 58%, 3/5"
+      },
+      {
+        "key": "B",
+        "text": "58%, 0.55, 3/5"
+      },
+      {
+        "key": "C",
+        "text": "3/5, 0.55, 58%"
+      },
+      {
+        "key": "D",
+        "text": "0.55, 3/5, 58%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "3/5=0.6=60%, 0.55=55%, and 58%=0.58. From least to greatest: 0.55, 58%, 3/5.",
+    "id": "cnm_p195_q4",
+    "topicId": "cnm_p195"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is 25% of 80?",
+    "answer": "20",
+    "explanation": "80×25÷100=20.",
+    "verify": "80*25/100",
+    "id": "cnm_p196_q1",
+    "topicId": "cnm_p196"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is 10% of 200?",
+    "answer": "20",
+    "explanation": "200×10÷100=20.",
+    "verify": "200*10/100",
+    "id": "cnm_p196_q2",
+    "topicId": "cnm_p196"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A class has 40 students, and 45% are girls. How many girls are there?",
+    "answer": "18",
+    "explanation": "40×45÷100=18.",
+    "verify": "40*45/100",
+    "id": "cnm_p196_q3",
+    "topicId": "cnm_p196"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A book has 240 pages, and 35% have been read. How many pages remain?",
+    "answer": "156",
+    "explanation": "240×35%=84 pages have been read, so 240−84=156 pages remain.",
+    "verify": "240*(1-35/100)",
+    "id": "cnm_p196_q4",
+    "topicId": "cnm_p196"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Out of 40 people, 10 meet the standard. What is the success rate as a percentage? (Give only the number before the percent sign.)",
+    "answer": "25",
+    "explanation": "10÷40×100=25.",
+    "verify": "10/40*100",
+    "id": "cnm_p197_q1",
+    "topicId": "cnm_p197"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A batch contains 50 parts, of which 45 pass inspection. What is the pass rate as a percentage? (Give only the number before the percent sign.)",
+    "answer": "90",
+    "explanation": "45÷50×100=90.",
+    "verify": "45/50*100",
+    "id": "cnm_p197_q2",
+    "topicId": "cnm_p197"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A shooter takes 25 shots and hits the target 20 times. What is the hit rate as a percentage? (Give only the number before the percent sign.)",
+    "answer": "80",
+    "explanation": "20÷25×100=80.",
+    "verify": "20/25*100",
+    "id": "cnm_p197_q3",
+    "topicId": "cnm_p197"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Last year's output was 80 metric tons, and this year's is 100 metric tons. By what percentage did output increase? (Give only the number before the percent sign.)",
+    "answer": "25",
+    "explanation": "The increase is 20 metric tons: 20÷80×100=25.",
+    "verify": "(100-80)/80*100",
+    "id": "cnm_p197_q4",
+    "topicId": "cnm_p197"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "40% of a number is 20. What is the number?",
+    "answer": "50",
+    "explanation": "20÷40%=20÷0.4=50.",
+    "verify": "20/(40/100)",
+    "id": "cnm_p198_q1",
+    "topicId": "cnm_p198"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "30 is 50% of a number. What is the number?",
+    "answer": "60",
+    "explanation": "30÷50%=60.",
+    "verify": "30/(50/100)",
+    "id": "cnm_p198_q2",
+    "topicId": "cnm_p198"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A reader has finished 25% of a book, which is 40 pages. How many pages are in the whole book?",
+    "answer": "160",
+    "explanation": "40÷25%=160.",
+    "verify": "40/(25/100)",
+    "id": "cnm_p198_q3",
+    "topicId": "cnm_p198"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "An item sells for 48 yuan at 80% of its original price. What was its original price?",
+    "answer": "60",
+    "explanation": "The sale price is 80% of the original price, so 48÷80%=60.",
+    "verify": "48/(80/100)",
+    "id": "cnm_p198_q4",
+    "topicId": "cnm_p198"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is a pie chart best suited to showing?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "How much each part contributes to the whole"
+      },
+      {
+        "key": "B",
+        "text": "How quantities change over time"
+      },
+      {
+        "key": "C",
+        "text": "Only which number is largest"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The size of each sector represents its percentage of the whole.",
+    "id": "cnm_p199_q1",
+    "topicId": "cnm_p199"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A class has 40 students, and 25% like soccer. How many students like soccer?",
+    "answer": "10",
+    "explanation": "40×25%=10.",
+    "verify": "40*25/100",
+    "id": "cnm_p199_q2",
+    "topicId": "cnm_p199"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A class has 50 students, and 40% like soccer. How many students like soccer?",
+    "answer": "20",
+    "explanation": "50×40%=20.",
+    "verify": "50*40/100",
+    "id": "cnm_p199_q3",
+    "topicId": "cnm_p199"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "On a pie chart, the central angle for students who like basketball is 90 degrees. What percentage of the class likes basketball? (Give only the number before the percent sign.)",
+    "answer": "25",
+    "explanation": "90÷360=1/4=25%.",
+    "verify": "90/360*100",
+    "id": "cnm_p199_q4",
+    "topicId": "cnm_p199"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Square dot patterns use dots to form square arrays: figure 1 has 1 dot, figure 2 has 4 dots, and figure 3 has 9 dots. How many dots are in figure 5?",
+    "answer": "25",
+    "explanation": "Figure n has n² dots, so 5×5=25.",
+    "verify": "5*5",
+    "id": "cnm_p200_q1",
+    "topicId": "cnm_p200"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "The numbers of dots in successive square arrays are 1, 4, 9, and 16. How many more dots are in figure 4 than in figure 3?",
+    "answer": "7",
+    "explanation": "16−9=7.",
+    "verify": "16-9",
+    "id": "cnm_p200_q2",
+    "topicId": "cnm_p200"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "How many dots are in figure 6 of the square dot pattern?",
+    "answer": "36",
+    "explanation": "6×6=36.",
+    "verify": "6*6",
+    "id": "cnm_p200_q3",
+    "topicId": "cnm_p200"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "1+3+5+7+9 equals the number of dots in which square array? Give the number of dots.",
+    "answer": "25",
+    "explanation": "The sum of the first 5 odd numbers is 5²=25, the number of dots in figure 5.",
+    "verify": "5*5",
+    "id": "cnm_p200_q4",
+    "topicId": "cnm_p200"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What do negative numbers represent?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A quantity opposite in meaning to a positive quantity"
+      },
+      {
+        "key": "B",
+        "text": "A number greater than 100"
+      },
+      {
+        "key": "C",
+        "text": "Only temperature, and nothing else"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Income can be represented by positive numbers, and expenses by negative numbers.",
+    "id": "cnm_p201_q1",
+    "topicId": "cnm_p201"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What kind of number represents a temperature below zero?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A negative number"
+      },
+      {
+        "key": "B",
+        "text": "Only 0"
+      },
+      {
+        "key": "C",
+        "text": "A number greater than 10"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A temperature 3 degrees below zero is written as -3.",
+    "id": "cnm_p201_q2",
+    "topicId": "cnm_p201"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "The temperature drops from 3 degrees above zero to 2 degrees below zero. By how many degrees did it drop?",
+    "answer": "5",
+    "explanation": "From +3 to -2, the drop is 3+2=5 degrees.",
+    "verify": "3+2",
+    "id": "cnm_p201_q3",
+    "topicId": "cnm_p201"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "One day, the high temperature is 5°C and the low is -3°C. What is the temperature range in degrees Celsius?",
+    "answer": "8",
+    "explanation": "The temperature range is the high minus the low: 5−(−3)=8.",
+    "verify": "5-(-3)",
+    "id": "cnm_p201_q4",
+    "topicId": "cnm_p201"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Xiaoming records income of 8 yuan as +8 yuan and an expense of 5 yuan as -5 yuan. If he earns 8 yuan and then spends 5 yuan, how much does he have left?",
+    "answer": "3",
+    "explanation": "+8+(−5)=3.",
+    "verify": "8-5",
+    "id": "cnm_p202_q1",
+    "topicId": "cnm_p202"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A diver uses the water surface as 0 m and records a descent of 6 m as -6 m. After diving down 6 m and then another 3 m, how far below the surface is the diver?",
+    "answer": "9",
+    "explanation": "The two descents total 6+3=9 m.",
+    "verify": "6+3",
+    "id": "cnm_p202_q2",
+    "topicId": "cnm_p202"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "An elevator rises 12 floors from its starting point and then descends 5 floors. How many floors above the starting point is it now?",
+    "answer": "7",
+    "explanation": "12−5=7.",
+    "verify": "12-5",
+    "id": "cnm_p202_q3",
+    "topicId": "cnm_p202"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Elevation: Sea level is 0 m, and a mountaintop 1200 m above sea level is recorded as +1200 m. How should a basin 80 m below sea level be recorded? (Include the sign.)",
+    "answer": "-80",
+    "explanation": "A location below sea level is represented by a negative number: -80 m.",
+    "verify": "-80",
+    "id": "cnm_p202_q4",
+    "topicId": "cnm_p202"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What does a sale price of 80% of the original price mean?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "80% of the original price"
+      },
+      {
+        "key": "B",
+        "text": "Add 80 yuan to the original price"
+      },
+      {
+        "key": "C",
+        "text": "8% of the original price"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A sale price of 80% means the item is sold for 80% of its original price.",
+    "id": "cnm_p203_q1",
+    "topicId": "cnm_p203"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "An item originally costs 50 yuan. What is its price after a 20% discount?",
+    "answer": "40",
+    "explanation": "50×80%=40.",
+    "verify": "50*80/100",
+    "id": "cnm_p203_q2",
+    "topicId": "cnm_p203"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "An item originally costs 80 yuan. What is its price after a 10% discount?",
+    "answer": "72",
+    "explanation": "80×90%=72.",
+    "verify": "80*90/100",
+    "id": "cnm_p203_q3",
+    "topicId": "cnm_p203"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A backpack originally costs 200 yuan. It is discounted to 80% of its original price, then reduced by another 20 yuan. What is the final price?",
+    "answer": "140",
+    "explanation": "200×80%=160, then subtract 20 to get 140.",
+    "verify": "200*80/100-20",
+    "id": "cnm_p203_q4",
+    "topicId": "cnm_p203"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "If 200 yuan is deposited for one year at an annual interest rate of 3%, how much interest is earned?",
+    "answer": "6",
+    "explanation": "Interest=principal×rate=200×3%=6.",
+    "verify": "200*3/100",
+    "id": "cnm_p204_q1",
+    "topicId": "cnm_p204"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "If 500 yuan is deposited for one year at an annual interest rate of 2%, how much interest is earned?",
+    "answer": "10",
+    "explanation": "500×2%=10.",
+    "verify": "500*2/100",
+    "id": "cnm_p204_q2",
+    "topicId": "cnm_p204"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "If 1000 yuan is deposited for one year at an annual interest rate of 4%, what is the total amount of principal and interest at the end of the year?",
+    "answer": "1040",
+    "explanation": "The interest is 40 yuan, so the total is 1040 yuan.",
+    "verify": "1000+1000*4/100",
+    "id": "cnm_p204_q3",
+    "topicId": "cnm_p204"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A deposit of 2000 yuan earns simple interest at an annual rate of 2.5% for 2 years. How much interest is earned in total?",
+    "answer": "100",
+    "explanation": "2000×2.5%×2=100.",
+    "verify": "2000*25/1000*2",
+    "id": "cnm_p204_q4",
+    "topicId": "cnm_p204"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is 20% of 50?",
+    "answer": "10",
+    "explanation": "50×20%=10.",
+    "verify": "50*20/100",
+    "id": "cnm_p205_q1",
+    "topicId": "cnm_p205"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "An item originally costs 80 yuan. What is its price after a 20% increase?",
+    "answer": "96",
+    "explanation": "80×(1+20%)=96.",
+    "verify": "80*(1+20/100)",
+    "id": "cnm_p205_q2",
+    "topicId": "cnm_p205"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "There were 40 people last year, and the number increased by 25% this year. How many people are there this year?",
+    "answer": "50",
+    "explanation": "40×(1+25%)=50.",
+    "verify": "40*(1+25/100)",
+    "id": "cnm_p205_q3",
+    "topicId": "cnm_p205"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "An item's price increases by 20% and then decreases by 20%. What percentage of the original price is the final price? (Give only the number before the percent sign.)",
+    "answer": "96",
+    "explanation": "1.2×0.8=0.96=96%.",
+    "verify": "120*80/100",
+    "id": "cnm_p205_q4",
+    "topicId": "cnm_p205"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What shape are the two bases of a cylinder?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Two identical circles"
+      },
+      {
+        "key": "B",
+        "text": "Two triangles"
+      },
+      {
+        "key": "C",
+        "text": "Two circles of different sizes"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The two bases have equal radii.",
+    "id": "cnm_p206_q1",
+    "topicId": "cnm_p206"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "One base of a cylinder has a radius of 3 cm. What is the diameter of its other base in centimeters?",
+    "answer": "6",
+    "explanation": "The two bases are identical, so diameter=3×2=6.",
+    "verify": "3*2",
+    "id": "cnm_p206_q2",
+    "topicId": "cnm_p206"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which object has the shape of a cylinder?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A basketball"
+      },
+      {
+        "key": "B",
+        "text": "A soda can"
+      },
+      {
+        "key": "C",
+        "text": "A cube puzzle"
+      },
+      {
+        "key": "D",
+        "text": "A funnel"
+      }
+    ],
+    "answer": "B",
+    "explanation": "A soda can has two identical circular bases and one curved side, so it is a cylinder.",
+    "id": "cnm_p206_q3",
+    "topicId": "cnm_p206"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A rectangle 12.56 cm long and 5 cm wide is wrapped to form the lateral surface of a cylinder, with the width as the height. About how many centimeters is the diameter of the base? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "4",
+    "explanation": "The rectangle's length equals the base circumference, 12.56 cm, so diameter=12.56÷3.14=4.",
+    "verify": "1256/100 / (314/100)",
+    "id": "cnm_p206_q4",
+    "topicId": "cnm_p206"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the volume, in cubic centimeters, of a cylinder with a base radius of 2 cm and a height of 5 cm? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "62.8",
+    "explanation": "Volume=3.14×2×2×5=62.8.",
+    "verify": "314/100*2*2*5",
+    "id": "cnm_p207_q1",
+    "topicId": "cnm_p207"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the volume, in cubic centimeters, of a cylinder with a base radius of 1 cm and a height of 10 cm? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "31.4",
+    "explanation": "3.14×1×1×10=31.4.",
+    "verify": "314/100*1*1*10",
+    "id": "cnm_p207_q2",
+    "topicId": "cnm_p207"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A cylinder has a base area of 12 cm² and a height of 4 cm. What is its volume in cubic centimeters?",
+    "answer": "48",
+    "explanation": "Volume=base area×height=12×4=48.",
+    "verify": "12*4",
+    "id": "cnm_p207_q3",
+    "topicId": "cnm_p207"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "What is the volume, in cubic centimeters, of a cylinder with a base diameter of 6 cm and a height of 2 cm? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "56.52",
+    "explanation": "Radius=3 cm; volume=3.14×3×3×2=56.52.",
+    "verify": "314/100*3*3*2",
+    "id": "cnm_p207_q4",
+    "topicId": "cnm_p207"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "Which surfaces are included in the surface area of a cylinder?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Two bases and one lateral surface"
+      },
+      {
+        "key": "B",
+        "text": "Only the two bases"
+      },
+      {
+        "key": "C",
+        "text": "Only the lateral surface"
+      },
+      {
+        "key": "D",
+        "text": "Four lateral surfaces"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Surface area=area of both bases+lateral surface area.",
+    "id": "cnm_p208_q1",
+    "topicId": "cnm_p208"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A cylinder has a base radius of 2 cm. What is the area of one base in square centimeters? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "12.56",
+    "explanation": "3.14×2×2=12.56.",
+    "verify": "314/100*2*2",
+    "id": "cnm_p208_q2",
+    "topicId": "cnm_p208"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "The lateral surface of a cylinder unfolds into a rectangle 6.28 cm long and 5 cm wide. What is the lateral surface area in square centimeters? (Give your answer as a decimal.)",
+    "answer": "31.4",
+    "explanation": "Lateral surface area=base circumference×height=6.28×5=31.4.",
+    "verify": "628/100*5",
+    "id": "cnm_p208_q3",
+    "topicId": "cnm_p208"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "What is the surface area, in square centimeters, of a cylinder with a base radius of 2 cm and a height of 5 cm? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "87.92",
+    "explanation": "2×3.14×2×(2+5)=12.56×7=87.92.",
+    "verify": "2*314/100*2*(2+5)",
+    "id": "cnm_p208_q4",
+    "topicId": "cnm_p208"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What fraction of the volume of a cylinder is the volume of a cone with the same base and height?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "One-third"
+      },
+      {
+        "key": "B",
+        "text": "One-half"
+      },
+      {
+        "key": "C",
+        "text": "Twice as much"
+      }
+    ],
+    "answer": "A",
+    "explanation": "With the same base and height, a cone's volume is one-third of the cylinder's.",
+    "id": "cnm_p209_q1",
+    "topicId": "cnm_p209"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A cylinder has a volume of 30 cm³. What is the volume, in cubic centimeters, of a cone with the same base and height?",
+    "answer": "10",
+    "explanation": "30÷3=10.",
+    "verify": "30/3",
+    "id": "cnm_p209_q2",
+    "topicId": "cnm_p209"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A cone has a base area of 12 cm² and a height of 6 cm. What is its volume in cubic centimeters?",
+    "answer": "24",
+    "explanation": "Volume=1/3×base area×height=1/3×12×6=24.",
+    "verify": "12*6/3",
+    "id": "cnm_p209_q3",
+    "topicId": "cnm_p209"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "What is the volume, in cubic centimeters, of a cone with a base radius of 3 cm and a height of 6 cm? Use 314/100 for pi. (Give your answer as a decimal.)",
+    "answer": "56.52",
+    "explanation": "1/3×3.14×3×3×6=56.52.",
+    "verify": "314/100*3*3*6/3",
+    "id": "cnm_p209_q4",
+    "topicId": "cnm_p209"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "How does the product of the two outer terms of a proportion compare with the product of the two inner terms?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It equals the product of the inner terms"
+      },
+      {
+        "key": "B",
+        "text": "It is always greater than the product of the inner terms"
+      },
+      {
+        "key": "C",
+        "text": "There is no fixed relationship"
+      }
+    ],
+    "answer": "A",
+    "explanation": "This is the fundamental property of proportions.",
+    "id": "cnm_p210_q1",
+    "topicId": "cnm_p210"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "In the proportion 2:3=4:6, what is the product of the two outer terms?",
+    "answer": "12",
+    "explanation": "The outer terms are 2 and 6, and 2×6=12.",
+    "verify": "2*6",
+    "id": "cnm_p210_q2",
+    "topicId": "cnm_p210"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which pair of ratios can form a proportion?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "3:5 and 6:9"
+      },
+      {
+        "key": "B",
+        "text": "6:3 and 8:4"
+      },
+      {
+        "key": "C",
+        "text": "2:5 and 4:9"
+      },
+      {
+        "key": "D",
+        "text": "1:4 and 2:9"
+      }
+    ],
+    "answer": "B",
+    "explanation": "6:3=2 and 8:4=2. Their values are equal, so they can form a proportion.",
+    "id": "cnm_p210_q3",
+    "topicId": "cnm_p210"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "The ratios 6:9 and 8:12 have equal values. By the fundamental property of proportions, what does 6×12 equal?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "9×8"
+      },
+      {
+        "key": "B",
+        "text": "6×8"
+      },
+      {
+        "key": "C",
+        "text": "9×12"
+      },
+      {
+        "key": "D",
+        "text": "6+12"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Since 6:9=8:12, the product of the outer terms equals the product of the inner terms: 6×12=9×8.",
+    "id": "cnm_p210_q4",
+    "topicId": "cnm_p210"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "2:3=8:x. What is x?",
+    "answer": "12",
+    "explanation": "The product of the outer terms equals the product of the inner terms: 2x=24, so x=12.",
+    "verify": "8*3/2",
+    "id": "cnm_p211_q1",
+    "topicId": "cnm_p211"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "4:5=x:20. What is x?",
+    "answer": "16",
+    "explanation": "4×20=5x, so x=16.",
+    "verify": "4*20/5",
+    "id": "cnm_p211_q2",
+    "topicId": "cnm_p211"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "6:x=2:5. What is x?",
+    "answer": "15",
+    "explanation": "6×5=2x, so x=15.",
+    "verify": "6*5/2",
+    "id": "cnm_p211_q3",
+    "topicId": "cnm_p211"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "If x:12=5:8, what is x? (Give your answer as a decimal.)",
+    "answer": "7.5",
+    "explanation": "8x=12×5=60, so x=7.5.",
+    "verify": "12*5/8",
+    "id": "cnm_p211_q4",
+    "topicId": "cnm_p211"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is a scale ratio?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The ratio of map distance to actual distance"
+      },
+      {
+        "key": "B",
+        "text": "The sum of map distance and actual distance"
+      },
+      {
+        "key": "C",
+        "text": "A way to show direction only"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Map distance:actual distance=scale ratio.",
+    "id": "cnm_p212_q1",
+    "topicId": "cnm_p212"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A map distance is 4 cm, and the scale is 1:100. What is the actual distance in centimeters?",
+    "answer": "400",
+    "explanation": "Actual distance=map distance×100=400.",
+    "verify": "4*100",
+    "id": "cnm_p212_q2",
+    "topicId": "cnm_p212"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "The actual distance is 800 cm, and the map distance is 4 cm. What is the scale ratio 1:n?",
+    "answer": "200",
+    "explanation": "800÷4=200, so the scale is 1:200.",
+    "verify": "800/4",
+    "id": "cnm_p212_q3",
+    "topicId": "cnm_p212"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A map has a scale of 1:50000. What actual distance in kilometers is represented by 3 cm on the map? (Give your answer as a decimal.)",
+    "answer": "1.5",
+    "explanation": "Actual distance=3×50000=150000 cm=1.5 km.",
+    "verify": "3*50000/100000",
+    "id": "cnm_p212_q4",
+    "topicId": "cnm_p212"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is the defining property of two directly proportional quantities?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Their ratio is constant"
+      },
+      {
+        "key": "B",
+        "text": "Their product is constant"
+      },
+      {
+        "key": "C",
+        "text": "Their sum is constant"
+      }
+    ],
+    "answer": "A",
+    "explanation": "At a constant speed, distance and time are directly proportional.",
+    "id": "cnm_p213_q1",
+    "topicId": "cnm_p213"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "At a constant speed, a traveler covers 180 km in 3 hours. How far will the traveler go in 6 hours?",
+    "answer": "360",
+    "explanation": "Distance and time are directly proportional. When the time doubles, the distance doubles: 360 km.",
+    "verify": "180/3*6",
+    "id": "cnm_p213_q2",
+    "topicId": "cnm_p213"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A water pump works at a constant rate and pumps 12 metric tons in 1 hour. How much will it pump in 5 hours?",
+    "answer": "60",
+    "explanation": "The amount pumped is directly proportional to time: 12×5=60.",
+    "verify": "12*5",
+    "id": "cnm_p213_q3",
+    "topicId": "cnm_p213"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "Are x and y in the table directly proportional? x: 2, 4, 6; y: 6, 12, 18.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Yes, because y÷x equals 3 each time"
+      },
+      {
+        "key": "B",
+        "text": "No, because y changes"
+      },
+      {
+        "key": "C",
+        "text": "They are inversely proportional because the product is constant"
+      },
+      {
+        "key": "D",
+        "text": "There is not enough information"
+      }
+    ],
+    "answer": "A",
+    "explanation": "6÷2=12÷4=18÷6=3. The ratio is constant, so the quantities are directly proportional.",
+    "id": "cnm_p213_q4",
+    "topicId": "cnm_p213"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What is the defining property of two inversely proportional quantities?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Their product is constant"
+      },
+      {
+        "key": "B",
+        "text": "Their ratio is constant"
+      },
+      {
+        "key": "C",
+        "text": "Their difference is constant"
+      }
+    ],
+    "answer": "A",
+    "explanation": "When the total cost is fixed, unit price and quantity are inversely proportional.",
+    "id": "cnm_p214_q1",
+    "topicId": "cnm_p214"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "With a fixed total cost, 6 items cost 4 yuan each. How many items can be bought at 3 yuan each?",
+    "answer": "8",
+    "explanation": "4×6=3×x, so x=8.",
+    "verify": "4*6/3",
+    "id": "cnm_p214_q2",
+    "topicId": "cnm_p214"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "It takes 6 days to repair a road at 8 m per day. How many days will it take at 12 m per day?",
+    "answer": "4",
+    "explanation": "The total amount of work is fixed: 8×6=12×x, so x=4.",
+    "verify": "8*6/12",
+    "id": "cnm_p214_q3",
+    "topicId": "cnm_p214"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Worker A can complete a project alone in 10 days. Worker B works at twice A's rate. How many days will B take alone?",
+    "answer": "5",
+    "explanation": "The total work is fixed. At twice the rate, the time is 1/2 as long: 10÷2=5.",
+    "verify": "10/2",
+    "id": "cnm_p214_q4",
+    "topicId": "cnm_p214"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Three identical notebooks cost 12 yuan. How much do 5 notebooks cost?",
+    "answer": "20",
+    "explanation": "Each notebook costs 4 yuan, so 5 cost 20 yuan. Alternatively, use direct proportion: 12÷3×5=20.",
+    "verify": "12/3*5",
+    "id": "cnm_p215_q1",
+    "topicId": "cnm_p215"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A traveler covers 90 km in 2 hours. At the same speed, how far will the traveler go in 4 hours?",
+    "answer": "180",
+    "explanation": "90÷2×4=180.",
+    "verify": "90/2*4",
+    "id": "cnm_p215_q2",
+    "topicId": "cnm_p215"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Six identical machines complete a job in 4 hours. How many hours will 8 machines take?",
+    "answer": "3",
+    "explanation": "The total work is fixed, so the number of machines and time are inversely proportional: 6×4÷8=3.",
+    "verify": "6*4/8",
+    "id": "cnm_p215_q3",
+    "topicId": "cnm_p215"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A project is planned to take 5 days at 40 m per day. How many days will it take at 50 m per day?",
+    "answer": "4",
+    "explanation": "The total is 5×40=200 m, and 200÷50=4 days.",
+    "verify": "5*40/50",
+    "id": "cnm_p215_q4",
+    "topicId": "cnm_p215"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What does the pigeonhole principle state?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "If there are more objects than boxes, at least one box contains two or more objects"
+      },
+      {
+        "key": "B",
+        "text": "Each box can hold only one object"
+      },
+      {
+        "key": "C",
+        "text": "The number of objects must equal the number of boxes"
+      }
+    ],
+    "answer": "A",
+    "explanation": "This is the simplest case of the pigeonhole principle.",
+    "id": "cnm_p216_q1",
+    "topicId": "cnm_p216"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "If 5 pigeons are placed in 4 pigeonholes, at least how many pigeons must be in one pigeonhole, no matter how they are placed?",
+    "answer": "2",
+    "explanation": "5=4×1+1, so at least one pigeonhole contains 2 pigeons.",
+    "verify": "5//4+1",
+    "id": "cnm_p216_q2",
+    "topicId": "cnm_p216"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "If 9 pencils are placed in 4 pencil holders, at least how many pencils must be in one holder, no matter how they are placed?",
+    "answer": "3",
+    "explanation": "9=4×2+1, so at least one holder contains 3 pencils.",
+    "verify": "9//4+1",
+    "id": "cnm_p216_q3",
+    "topicId": "cnm_p216"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A class has 37 students. At least how many must have birthdays in the same month? (Assume a year has 12 months.)",
+    "answer": "4",
+    "explanation": "37=12×3+1, so at least 4 students have birthdays in the same month.",
+    "verify": "37//12+1",
+    "id": "cnm_p216_q4",
+    "topicId": "cnm_p216"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Xiaoming's long-jump results are 3.2 m, 3.5 m, and 3.4 m. His best result counts. What is his best result in meters? (Give your answer as a decimal.)",
+    "answer": "3.5",
+    "explanation": "The greatest of the three results is 3.5 m.",
+    "verify": "3.5",
+    "id": "cnm_p241_q1",
+    "topicId": "cnm_p241"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A basketball player makes 15 out of 20 shots. What fraction of the shots are made?",
+    "answer": "3/4",
+    "explanation": "15/20=3/4.",
+    "verify": "15/20",
+    "id": "cnm_p241_q2",
+    "topicId": "cnm_p241"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Eight teams play a round-robin tournament, with each pair of teams playing once. How many games are played in total?",
+    "answer": "28",
+    "explanation": "Number of games=8×7÷2=28.",
+    "verify": "8*7/2",
+    "id": "cnm_p241_q3",
+    "topicId": "cnm_p241"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Ten teams play a round-robin tournament, with each pair playing once. If 27 games have been played, how many remain?",
+    "answer": "18",
+    "explanation": "There are 10×9÷2=45 games in total, so 45−27=18 remain.",
+    "verify": "10*9/2-27",
+    "id": "cnm_p241_q4",
+    "topicId": "cnm_p241"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A faucet leaks 2 L of water each day. How many liters does it leak in 30 days?",
+    "answer": "60",
+    "explanation": "2×30=60.",
+    "verify": "2*30",
+    "id": "cnm_p242_q1",
+    "topicId": "cnm_p242"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A bucket holds 18 L of water. If 1/3 is used, how many liters are used?",
+    "answer": "6",
+    "explanation": "18×1/3=6.",
+    "verify": "18*1/3",
+    "id": "cnm_p242_q2",
+    "topicId": "cnm_p242"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A household uses 15 metric tons of water per month. How many tons will it use after reducing consumption by 20%?",
+    "answer": "12",
+    "explanation": "15×(1−20%)=15×0.8=12.",
+    "verify": "15*(1-20/100)",
+    "id": "cnm_p242_q3",
+    "topicId": "cnm_p242"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A school has 800 students, and each saves 0.5 L of water per day. How many liters are saved in 30 days? (Give your answer as a decimal.)",
+    "answer": "12000",
+    "explanation": "800×0.5×30=12000.",
+    "verify": "800*Fraction(1,2)*30",
+    "id": "cnm_p242_q4",
+    "topicId": "cnm_p242"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the reciprocal of 3/4?",
+    "answer": "4/3",
+    "explanation": "Flip the numerator and denominator: the reciprocal of 3/4 is 4/3.",
+    "verify": "4/3",
+    "id": "cnm_p246_q1",
+    "topicId": "cnm_p246"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "What is the reciprocal of 5?",
+    "answer": "1/5",
+    "explanation": "The reciprocal of an integer a is 1/a, so the reciprocal of 5 is 1/5.",
+    "verify": "1/5",
+    "id": "cnm_p246_q2",
+    "topicId": "cnm_p246"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which pair of numbers are reciprocals?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "2/5 and 5/2"
+      },
+      {
+        "key": "B",
+        "text": "2/5 and 2/5"
+      },
+      {
+        "key": "C",
+        "text": "2/5 and 5"
+      },
+      {
+        "key": "D",
+        "text": "2/5 and 2"
+      }
+    ],
+    "answer": "A",
+    "explanation": "2/5×5/2=1, so the numbers are reciprocals.",
+    "id": "cnm_p246_q3",
+    "topicId": "cnm_p246"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "The product of a number and 2/5 is 1. What is the number?",
+    "answer": "5/2",
+    "explanation": "The reciprocal of 2/5 is 5/2.",
+    "verify": "5/2",
+    "id": "cnm_p246_q4",
+    "topicId": "cnm_p246"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 0.5×2/5=?",
+    "answer": "1/5",
+    "explanation": "0.5=1/2, and 1/2×2/5=1/5.",
+    "verify": "Fraction(1,2)*2/5",
+    "id": "cnm_p247_q1",
+    "topicId": "cnm_p247"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "Calculate: 3/4×0.8=?",
+    "answer": "3/5",
+    "explanation": "0.8=4/5, and 3/4×4/5=3/5.",
+    "verify": "3/4*Fraction(4,5)",
+    "id": "cnm_p247_q2",
+    "topicId": "cnm_p247"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "Use the properties of operations to calculate: 2/7×0.5×7=?",
+    "answer": "1",
+    "explanation": "2/7×7×0.5=2×0.5=1.",
+    "verify": "2/7*Fraction(1,2)*7",
+    "id": "cnm_p247_q3",
+    "topicId": "cnm_p247"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "Use the distributive property of multiplication to calculate 1/4×0.4+3/4×0.4. What is the result? (Give your answer as a decimal.)",
+    "answer": "0.4",
+    "explanation": "Factor out 0.4: (1/4+3/4)×0.4=1×0.4=0.4.",
+    "verify": "(1/4+3/4)*Fraction(2,5)",
+    "id": "cnm_p247_q4",
+    "topicId": "cnm_p247"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "What shape is the base of a cone?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A circle"
+      },
+      {
+        "key": "B",
+        "text": "A square"
+      },
+      {
+        "key": "C",
+        "text": "Two circles"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A cone has one circular base and one vertex.",
+    "id": "cnm_p248_q1",
+    "topicId": "cnm_p248"
+  },
+  {
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "How many vertices does a cone have?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "0"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A cone has one vertex.",
+    "id": "cnm_p248_q2",
+    "topicId": "cnm_p248"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "Which distance is the height of a cone?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The distance from the vertex to the center of the base"
+      },
+      {
+        "key": "B",
+        "text": "The diameter of the base"
+      },
+      {
+        "key": "C",
+        "text": "The length of a slant side"
+      },
+      {
+        "key": "D",
+        "text": "The circumference of the base"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The height is the perpendicular distance from the vertex to the center of the base.",
+    "id": "cnm_p248_q3",
+    "topicId": "cnm_p248"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "What shape do you get when you unfold the lateral surface of a cone?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A sector"
+      },
+      {
+        "key": "B",
+        "text": "A rectangle"
+      },
+      {
+        "key": "C",
+        "text": "A triangle"
+      },
+      {
+        "key": "D",
+        "text": "A circle"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A cone's lateral surface unfolds into a sector; a cylinder's lateral surface unfolds into a rectangle.",
+    "id": "cnm_p248_q4",
+    "topicId": "cnm_p248"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A square with a side length of 2 cm is enlarged using a 1:3 scale. What is the new side length in centimeters?",
+    "answer": "6",
+    "explanation": "The side length becomes 3 times the original: 2×3=6.",
+    "verify": "2*3",
+    "id": "cnm_p249_q1",
+    "topicId": "cnm_p249"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A line segment is 12 cm long. How long is it after being reduced at a 2:1 scale?",
+    "answer": "6",
+    "explanation": "It is reduced to 1/2 of its original length: 12÷2=6.",
+    "verify": "12/2",
+    "id": "cnm_p249_q2",
+    "topicId": "cnm_p249"
+  },
+  {
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A rectangle is 5 cm long and 3 cm wide. What is its new length after enlargement using a 1:2 scale?",
+    "answer": "10",
+    "explanation": "The length becomes 5×2=10.",
+    "verify": "5*2",
+    "id": "cnm_p249_q3",
+    "topicId": "cnm_p249"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "When a triangle is enlarged by a scale ratio, which property always stays the same?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The side lengths"
+      },
+      {
+        "key": "B",
+        "text": "The angle measures"
+      },
+      {
+        "key": "C",
+        "text": "The area"
+      },
+      {
+        "key": "D",
+        "text": "The perimeter"
+      }
+    ],
+    "answer": "B",
+    "explanation": "An enlargement or reduction preserves the shape, so corresponding angles are equal; side lengths, perimeter, and area change.",
+    "id": "cnm_p249_q4",
+    "topicId": "cnm_p249"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A bicycle has a 48-tooth front gear and a 16-tooth rear gear. About how many times does the rear wheel turn when the pedals turn once?",
+    "answer": "3",
+    "explanation": "48÷16=3.",
+    "verify": "48/16",
+    "id": "cnm_p250_q1",
+    "topicId": "cnm_p250"
+  },
+  {
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "The rear wheel has a circumference of about 2 m. If one pedal rotation turns the rear wheel 3 times, about how far does the bicycle travel?",
+    "answer": "6",
+    "explanation": "2×3=6.",
+    "verify": "2*3",
+    "id": "cnm_p250_q2",
+    "topicId": "cnm_p250"
+  },
+  {
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "On the same bicycle, what generally happens when the rear gear has more teeth and the front gear is unchanged?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The wheel turns fewer times per pedal rotation, making it easier to pedal"
+      },
+      {
+        "key": "B",
+        "text": "The wheel turns more times per pedal rotation"
+      },
+      {
+        "key": "C",
+        "text": "The gear ratio has no effect on riding"
+      },
+      {
+        "key": "D",
+        "text": "The wheel's circumference increases"
+      }
+    ],
+    "answer": "A",
+    "explanation": "With more teeth on the rear gear, the gear ratio decreases. The wheel turns fewer times per pedal rotation, making pedaling easier but slower.",
+    "id": "cnm_p250_q3",
+    "topicId": "cnm_p250"
+  },
+  {
+    "difficulty": "challenge",
+    "type": "numeric",
+    "prompt": "A bicycle has a 48-tooth front gear, a 16-tooth rear gear, and a rear-wheel circumference of about 2 m. About how far does it travel when the pedals turn 10 times?",
+    "answer": "60",
+    "explanation": "One pedal rotation turns the rear wheel 3 times, so 10 rotations turn it 30 times and the bicycle travels 30×2=60 m.",
+    "verify": "10*(48/16)*2",
+    "id": "cnm_p250_q4",
+    "topicId": "cnm_p250"
+  }
+]

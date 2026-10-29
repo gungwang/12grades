@@ -1,0 +1,1192 @@
+{
+  "edition": "hujiao_math",
+  "label": "Mathematics",
+  "status": "draft",
+  "source": "Contrast: The new version of the catalogue 2022 Annual Curriculum Standard, Shanghai Educational Publishing House) for the first/lower/lower/lower/lower/lower of the first and third grades 5, taken from the national platform for intellectual education in primary and secondary schools (basic.smardeu.cn) e-bookbook pages, 2026-10-23 certified; the old versions of the fourth and fifth editions (two editions of the trial edition) of the book \" Textbooks of compulsory education nine years (a trial book) \", in two places, independently reproduced each other. The new version of the lower edition has not yet been mounted, with the three entries provisionally dropped in the previous edition and marked as pending in note; the old areas cnm_p088, cnm_p089 have been fraudulently marked in the new version and not included in this document.",
+  "entries": [
+    {
+      "topicId": "cnm_p001",
+      "grade": 1,
+      "term": "上",
+      "unit": "Numbers within 3 module 10",
+      "chapter": "1 ~ 5 Awareness"
+    },
+    {
+      "topicId": "cnm_p002",
+      "grade": 1,
+      "term": "上",
+      "unit": "Numbers within 3 module 10",
+      "chapter": "Less than, equal to, greater than"
+    },
+    {
+      "topicId": "cnm_p003",
+      "grade": 1,
+      "term": "上",
+      "unit": "Numbers within 3 module 10",
+      "chapter": "What is it?"
+    },
+    {
+      "topicId": "cnm_p004",
+      "grade": 1,
+      "term": "上",
+      "unit": "Numbers within 3 module 10",
+      "chapter": "Division and integration 1; and Union and coordination 2 until 10"
+    },
+    {
+      "topicId": "cnm_p005",
+      "grade": 1,
+      "term": "上",
+      "unit": "Numbers within 3 module 10",
+      "chapter": "0 Awareness"
+    },
+    {
+      "topicId": "cnm_p006",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions and subtractions within 4 module 10",
+      "chapter": "Add"
+    },
+    {
+      "topicId": "cnm_p007",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions and subtractions within 4 module 10",
+      "chapter": "Subtract"
+    },
+    {
+      "topicId": "cnm_p008",
+      "grade": 1,
+      "term": "上",
+      "unit": "Numbers within 3 module 10",
+      "chapter": "6 ~ 9 awareness; 10 awareness"
+    },
+    {
+      "topicId": "cnm_p009",
+      "grade": 1,
+      "term": "上",
+      "unit": "Numbers within 3 module 10",
+      "chapter": "Less than, equal to, greater than"
+    },
+    {
+      "topicId": "cnm_p010",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions and subtractions within 4 module 10",
+      "chapter": "Add; games 10"
+    },
+    {
+      "topicId": "cnm_p011",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions and subtractions within 4 module 10",
+      "chapter": "Subtract"
+    },
+    {
+      "topicId": "cnm_p012",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions and subtractions within 4 module 10",
+      "chapter": "Even plus minus"
+    },
+    {
+      "topicId": "cnm_p013",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions and subtractions within 4 module 10",
+      "chapter": "Add or minus Mix"
+    },
+    {
+      "topicId": "cnm_p014",
+      "grade": 1,
+      "term": "上",
+      "unit": "Module 2",
+      "chapter": "Know 3D Graphics"
+    },
+    {
+      "topicId": "cnm_p015",
+      "grade": 2,
+      "term": "上",
+      "unit": "Unit 4 My school, my home.",
+      "chapter": "My room.",
+      "note": "** Refill**: only candidate for the table of contents - a description of the location by \"my room\" with no place-specific name and confirmation of content for the remaining session"
+    },
+    {
+      "topicId": "cnm_p016",
+      "grade": 1,
+      "term": "上",
+      "unit": "Numbers within 5 module 20",
+      "chapter": "11 ~ 20 Awareness"
+    },
+    {
+      "topicId": "cnm_p017",
+      "grade": 1,
+      "term": "上",
+      "unit": "Numbers within 5 module 20",
+      "chapter": "Ten is ten.",
+      "note": "Bitmap permeation, no \"10 bits, no \""
+    },
+    {
+      "topicId": "cnm_p018",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions to or subtractions from [module 6 20",
+      "chapter": "No-plus and no-release"
+    },
+    {
+      "topicId": "cnm_p019",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions to or subtractions from [module 6 20",
+      "chapter": "& Add",
+      "note": "You don't have to name it by the ten method."
+    },
+    {
+      "topicId": "cnm_p020",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions to or subtractions from [module 6 20",
+      "chapter": "& Add",
+      "note": "No \"9 Plus\" section"
+    },
+    {
+      "topicId": "cnm_p021",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions to or subtractions from [module 6 20",
+      "chapter": "& Add",
+      "note": "Unspent added subsection"
+    },
+    {
+      "topicId": "cnm_p022",
+      "grade": 1,
+      "term": "上",
+      "unit": "Unit 1 I'm a primary school student.",
+      "chapter": "Say something.",
+      "note": "`Putting in numbers' correspondingly; classification is not exclusive and only allows for penetration through the activity of 1, 2, partially covered"
+    },
+    {
+      "topicId": "cnm_p023",
+      "grade": 1,
+      "term": "上",
+      "unit": "Module 2",
+      "chapter": "Knows the flat graphics"
+    },
+    {
+      "topicId": "cnm_p024",
+      "grade": 1,
+      "term": "上",
+      "unit": "Module 2",
+      "chapter": "Knows the flat graphics",
+      "note": "No Collapse special section attached to the event to recognize the flat graphics"
+    },
+    {
+      "topicId": "cnm_p025",
+      "grade": 1,
+      "term": "下",
+      "unit": "Additions to and subtractions from [module 1 20",
+      "chapter": "Decline",
+      "note": "Retrenchment does not follow the subtracted subsections"
+    },
+    {
+      "topicId": "cnm_p026",
+      "grade": 1,
+      "term": "下",
+      "unit": "Additions to and subtractions from [module 1 20",
+      "chapter": "Decline",
+      "note": "Ibid."
+    },
+    {
+      "topicId": "cnm_p027",
+      "grade": 1,
+      "term": "下",
+      "unit": "Additions to and subtractions from [module 1 20",
+      "chapter": "Decline",
+      "note": "Ibid."
+    },
+    {
+      "topicId": "cnm_p028",
+      "grade": 1,
+      "term": "下",
+      "unit": "Numbers within 2 module 100",
+      "chapter": "Number; number of readings and writings; composition of numbers; location of numbers; knowledge of 100"
+    },
+    {
+      "topicId": "cnm_p029",
+      "grade": 1,
+      "term": "下",
+      "unit": "Numbers within 2 module 100",
+      "chapter": "Compare within 100"
+    },
+    {
+      "topicId": "cnm_p030",
+      "grade": 1,
+      "term": "下",
+      "unit": "Additions to or subtractions from [module 4 100",
+      "chapter": "No place addition",
+      "note": "Add only partially; whole decile new grade 1 not available, partially covered"
+    },
+    {
+      "topicId": "cnm_p031",
+      "grade": 1,
+      "term": "下",
+      "unit": "Additions to or subtractions from [module 4 100",
+      "chapter": "No place addition; place addition"
+    },
+    {
+      "topicId": "cnm_p032",
+      "grade": 2,
+      "term": "上",
+      "unit": "Additions to and subtractions from [module 1 100",
+      "chapter": "Non-regression; regression"
+    },
+    {
+      "topicId": "cnm_p033",
+      "grade": 1,
+      "term": "下",
+      "unit": "Additions to or subtractions from [module 4 100",
+      "chapter": "No place addition; place addition",
+      "note": "Not a single line of \"counts.\""
+    },
+    {
+      "topicId": "cnm_p034",
+      "grade": 2,
+      "term": "上",
+      "unit": "Additions to and subtractions from [module 1 100",
+      "chapter": "Non-regression; regression",
+      "note": "A re-branding, not a separate \"count\" with two sections of content"
+    },
+    {
+      "topicId": "cnm_p035",
+      "grade": 1,
+      "term": "上",
+      "unit": "Additions and subtractions within 4 module 10",
+      "chapter": "Arguments 1; Arguments 2",
+      "note": "Partial-total relationships permeating in a cost-effective manner, with no equivalent"
+    },
+    {
+      "topicId": "cnm_p036",
+      "grade": 2,
+      "term": "上",
+      "unit": "Unit 2 Happy Shopping Street",
+      "chapter": "Know the renminbi."
+    },
+    {
+      "topicId": "cnm_p037",
+      "grade": 2,
+      "term": "上",
+      "unit": "Module 5 Classification",
+      "chapter": "criteria for classification; layer by layer",
+      "note": "** Refill confirmation**: new specialized modules of the classification books (the Department is divided into clear correspondence); new editions of the \"Classing\" (data collation/statistical tables) are not corresponding, so they are broadly defined; new editions of the first grade modules 1, 2 have also experienced a classification penetration (see the first grade comparison table), but the official location is the top two."
+    },
+    {
+      "topicId": "cnm_p038",
+      "grade": 2,
+      "term": "上",
+      "unit": "3 In-formation",
+      "chapter": "Multiplication Introduction"
+    },
+    {
+      "topicId": "cnm_p039",
+      "grade": 2,
+      "term": "上",
+      "unit": "3 In-formation",
+      "chapter": "5 multiplication;2, 4, 8 multiplication;3, 6, 9 Multiplication; \"99\" multiplication statement"
+    },
+    {
+      "topicId": "cnm_p040",
+      "grade": 1,
+      "term": "下",
+      "unit": "Comparison and measurement of the length of unit 5",
+      "chapter": "measuring length;lines",
+      "note": "Centimetres are introduced in the \"Logistics of Length\" without special sections; the perimeter of 6 units (measurements of length) on the new edition 3 is the point of recurrence."
+    },
+    {
+      "topicId": "cnm_p041",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 6",
+      "chapter": "Measurement of length",
+      "note": "Old version 3 has a specific section on \"m and cm\" and new edition of the \"m and cm\" section, which is integrated with measurements of length and downscaling to approximately"
+    },
+    {
+      "topicId": "cnm_p042",
+      "grade": 2,
+      "term": "上",
+      "unit": "3 In-formation",
+      "chapter": "7 multiplication;3, 6, 9 multiplication;2, 4, 8 Multiplication",
+      "note": "The old version crosses the two modules \" Multiplication, Division (i) / (ii) \" and the new version merges into one module"
+    },
+    {
+      "topicId": "cnm_p043",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 1 Division within Table",
+      "chapter": "Division introduced"
+    },
+    {
+      "topicId": "cnm_p044",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 1 Division within Table",
+      "chapter": "We'll use the multiplication machine."
+    },
+    {
+      "topicId": "cnm_p045",
+      "grade": 1,
+      "term": "下",
+      "unit": "Unit 6 Ruler on body",
+      "chapter": "Measure it with a ruler on your body; measure it with a measure of your body ruler."
+    },
+    {
+      "topicId": "cnm_p046",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 1 Division within Table",
+      "chapter": "We'll use the multiplication machine."
+    },
+    {
+      "topicId": "cnm_p048",
+      "grade": 2,
+      "term": "上",
+      "unit": "3 In-formation",
+      "chapter": "Arguments 2; Arguments 3"
+    },
+    {
+      "topicId": "cnm_p049",
+      "grade": 2,
+      "term": "上",
+      "unit": "Unit 4 My school, my home.",
+      "chapter": "South-east, north-west."
+    },
+    {
+      "topicId": "cnm_p050",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 1 Division within Table",
+      "chapter": "Remaining",
+      "note": "The old version is on the second, the new version is moved to the second and aligned with the human-calibre term."
+    },
+    {
+      "topicId": "cnm_p051",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 1 Division within Table",
+      "chapter": "Calculated with residual division; multiplication machine"
+    },
+    {
+      "topicId": "cnm_p052",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 1 Division within Table",
+      "chapter": "Arguments 1; Arguments 2",
+      "note": "No \"Application \" festival, applied in the calculation and exercise (same version)"
+    },
+    {
+      "topicId": "cnm_p053",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 2 within 10, 000",
+      "chapter": "Number of perceptions; number of perceptions"
+    },
+    {
+      "topicId": "cnm_p054",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 2 within 10, 000",
+      "chapter": "Within 10, 000; adjacent, full, full hundreds",
+      "note": "The new edition does not have a name for the \"size comparison\" festival, which should be compared with the number of awareness sessions; the old edition has a clear, specific section and this time it's down to the approximate"
+    },
+    {
+      "topicId": "cnm_p055",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 2 within 10, 000",
+      "chapter": "Awareness within 1, 000; games on digital scales; awareness within 10, 000"
+    },
+    {
+      "topicId": "cnm_p057",
+      "grade": 3,
+      "term": "上",
+      "unit": "Module 1, two-step, four-step operation and application",
+      "chapter": "Two, four steps and counting.",
+      "note": "Old version 2 has \"severed into multiplication and plus\" and new version 2 does not contain this."
+    },
+    {
+      "topicId": "cnm_p058",
+      "grade": 3,
+      "term": "上",
+      "unit": "Module 1, two-step, four-step operation and application",
+      "chapter": "Two, four steps and counting.",
+      "note": "No name for the \"Brackets\" section, and whether brackets are confirmed during the course to be taught in this module; the old version is clear under three \"Brackets first\" and this time down to approximate"
+    },
+    {
+      "topicId": "cnm_p059",
+      "grade": 3,
+      "term": "上",
+      "unit": "Module 1, two-step, four-step operation and application",
+      "chapter": "Application",
+      "note": "Application of a two-step application in the application section, not broken down by additions or subtractions (as judged in the old version)"
+    },
+    {
+      "topicId": "cnm_p060",
+      "grade": 1,
+      "term": "下",
+      "unit": "Unit 7 Math Square",
+      "chapter": "Look for the pattern.",
+      "note": "The new edition of Math Square is a search for patterns; the new version 2 is the Math Square of 6 Unit (the search for patterns) as a re-routing point."
+    },
+    {
+      "topicId": "cnm_p061",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 3, where is the time?",
+      "chapter": "♪ Feel the minutes and the seconds ♪"
+    },
+    {
+      "topicId": "cnm_p062",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 3, where is the time?",
+      "chapter": "Feel the minutes and the seconds; read out the moment on the clock.",
+      "note": "No `advance rate' special section, conversion permeable in sense minutes and seconds; old version clearly reduced to approximate"
+    },
+    {
+      "topicId": "cnm_p063",
+      "grade": 5,
+      "term": "上",
+      "unit": "VI. CORRECTIONS AND ADVANCEMENT",
+      "chapter": "Mathematics Square - Time Counting",
+      "note": "The old editions do not have a single course \"over time\" and five of them \"calculating time\" are the closest; the new 2nd / 2nd / 3rd / Catalogues have been verified without this; the old editions have been set at the 4th / 5th grade, not within the scope of the new editions already collected, and the old version's determination is kept."
+    },
+    {
+      "topicId": "cnm_p064",
+      "grade": 2,
+      "term": "下",
+      "unit": "The additions to and subtractions from the two and three digits of Unit 4",
+      "chapter": "Two, three digits plus minus"
+    },
+    {
+      "topicId": "cnm_p065",
+      "grade": 2,
+      "term": "下",
+      "unit": "The additions to and subtractions from the two and three digits of Unit 4",
+      "chapter": "Two, three digits plus minus"
+    },
+    {
+      "topicId": "cnm_p066",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 2 Multiply by one",
+      "chapter": "Estimate",
+      "note": "The new edition of the section on estimates is in the multiplication module (the multiplication calibration); the new section on \"Estimation of the three digits plus minus\" is under the old version II, and the new version 2 is not under the -- position and calibre change"
+    },
+    {
+      "topicId": "cnm_p068",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 6",
+      "chapter": "Measurement of length",
+      "note": "The old version has a special section on \"Mete Awareness\"; the new version, ibid., has been reduced to approximately"
+    },
+    {
+      "topicId": "cnm_p069",
+      "grade": 3,
+      "term": "上",
+      "unit": "Route design for unit 7",
+      "chapter": "Kilometres"
+    },
+    {
+      "topicId": "cnm_p070",
+      "grade": 4,
+      "term": "上",
+      "unit": "II. Numbers and volumes",
+      "chapter": "From grams to tons."
+    },
+    {
+      "topicId": "cnm_p071",
+      "grade": 2,
+      "term": "下",
+      "unit": "The additions to and subtractions from the two and three digits of Unit 4",
+      "chapter": "Two or three-digit additions",
+      "note": "New editions of two or three digits combined"
+    },
+    {
+      "topicId": "cnm_p072",
+      "grade": 2,
+      "term": "下",
+      "unit": "The additions to and subtractions from the two and three digits of Unit 4",
+      "chapter": "2-3-digit reduction"
+    },
+    {
+      "topicId": "cnm_p073",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 4 divided by single digits",
+      "chapter": "Double",
+      "note": "The old version is on the second, the new version is on the third, aligned with the human caliber."
+    },
+    {
+      "topicId": "cnm_p074",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 2 Multiply by one",
+      "chapter": "one number multiplied by two; one number multiplied by three"
+    },
+    {
+      "topicId": "cnm_p075",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 2 Multiply by one",
+      "chapter": "One number multiplied by ten, one hundred; one number multiplied by three",
+      "note": "Including 0 multiplications in a single-digit multiplication, with no specific sections (as in the old version)"
+    },
+    {
+      "topicId": "cnm_p076",
+      "grade": 5,
+      "term": "上",
+      "unit": "VI. CORRECTIONS AND ADVANCEMENT",
+      "chapter": "Mathematic Square - Encoding"
+    },
+    {
+      "topicId": "cnm_p077",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 3 Triangle and quadrilateral",
+      "chapter": "Initial recognition of triangles and quadrilaterals",
+      "note": "Old version II has a specific section on \"Preliminary recognition of rectangular, square\"; the new version is incorporated into the Quadrilateral Preliminary Awareness, and is downgraded to a broad and lateral term or more"
+    },
+    {
+      "topicId": "cnm_p078",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 6",
+      "chapter": "rectangular, square perimeter"
+    },
+    {
+      "topicId": "cnm_p079",
+      "grade": 3,
+      "term": "下",
+      "unit": "III. Preliminary recognition of scores (i)",
+      "chapter": "One in a few.",
+      "note": "The new version of the three entries 2026-10-23 verification) is not on board, and this article follows the drop point of the old version (two editions of the trial version) and the new version is pending completion"
+    },
+    {
+      "topicId": "cnm_p080",
+      "grade": 4,
+      "term": "上",
+      "unit": "III. Preliminary Awareness of Scores (ii)",
+      "chapter": "Calculation of additions and subtractions of fractions"
+    },
+    {
+      "topicId": "cnm_p082",
+      "grade": 2,
+      "term": "上",
+      "unit": "Unit 4 My school, my home.",
+      "chapter": "South-east, north-west.",
+      "note": "The section on \"South-West and North-West\" contains eight degrees."
+    },
+    {
+      "topicId": "cnm_p083",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 4 divided by single digits",
+      "chapter": "One number divided by two; one number divided by three equals",
+      "note": "The old version is on three; one semester ahead of the human caliber (three degrees)"
+    },
+    {
+      "topicId": "cnm_p084",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 4 divided by single digits",
+      "chapter": "Application of Division"
+    },
+    {
+      "topicId": "cnm_p086",
+      "grade": 3,
+      "term": "下",
+      "unit": "II. Multiplication and division",
+      "chapter": "Multiply by two digits",
+      "note": "The new version of the three entries 2026-10-23 verification) is not on board, and this article follows the drop point of the old version (two editions of the trial version) and the new version is pending completion"
+    },
+    {
+      "topicId": "cnm_p087",
+      "grade": 3,
+      "term": "下",
+      "unit": "II. Multiplication and division",
+      "chapter": "Multiply by two digits",
+      "note": "The new version of the three entries 2026-10-23 verification) is not on board, and this article follows the drop point of the old version (two editions of the trial version) and the new version is pending completion"
+    },
+    {
+      "topicId": "cnm_p090",
+      "grade": 3,
+      "term": "下",
+      "unit": "I. Review and improvement",
+      "chapter": "Area units; area calculation",
+      "note": "The new version of the three entries 2026-10-23 verification) is not on board, and this article follows the drop point of the old version (two editions of the trial version) and the new version is pending completion"
+    },
+    {
+      "topicId": "cnm_p091",
+      "grade": 3,
+      "term": "上",
+      "unit": "The secret of the year, month and day of 5",
+      "chapter": "Production of monthly calendar cards; development of a schedule of interest"
+    },
+    {
+      "topicId": "cnm_p093",
+      "grade": 4,
+      "term": "下",
+      "unit": "Awareness of decimals and additions",
+      "chapter": "Meaning of decimals"
+    },
+    {
+      "topicId": "cnm_p094",
+      "grade": 4,
+      "term": "下",
+      "unit": "Awareness of decimals and additions",
+      "chapter": "Decimal plus minus"
+    },
+    {
+      "topicId": "cnm_p095",
+      "grade": 2,
+      "term": "下",
+      "unit": "Unit 5 Math Square",
+      "chapter": "Match"
+    },
+    {
+      "topicId": "cnm_p096",
+      "grade": 4,
+      "term": "上",
+      "unit": "II. Numbers and volumes",
+      "chapter": "Large-scale knowledge."
+    },
+    {
+      "topicId": "cnm_p097",
+      "grade": 4,
+      "term": "上",
+      "unit": "II. Numbers and volumes",
+      "chapter": "Rounded"
+    },
+    {
+      "topicId": "cnm_p098",
+      "grade": 4,
+      "term": "上",
+      "unit": "II. Numbers and volumes",
+      "chapter": "square kilometres;from centimetre to square kilometres",
+      "note": "\"Hectare\" is not singled out."
+    },
+    {
+      "topicId": "cnm_p099",
+      "grade": 4,
+      "term": "上",
+      "unit": "V. Geometric mini-practices",
+      "chapter": "Segments, rays, straight lines"
+    },
+    {
+      "topicId": "cnm_p100",
+      "grade": 4,
+      "term": "上",
+      "unit": "V. Geometric mini-practices",
+      "chapter": "Measurement of the angle"
+    },
+    {
+      "topicId": "cnm_p101",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 3 Triangle and quadrilateral",
+      "chapter": "Initial knowledge of the corner",
+      "note": "Initial recognition should include visual recognition of straight and sharp, blunt angles, with no specific sections (classification of the two-declining triangle of the old version 1"
+    },
+    {
+      "topicId": "cnm_p102",
+      "grade": 3,
+      "term": "下",
+      "unit": "II. Multiplication and division",
+      "chapter": "Multiply by two digits",
+      "note": "A two-digit, two- or three-digit medium is not fully consistent. The new three-down catalogue is not on board 2026-10-23 verification) and this article is at the drop point of the old version (the second edition of the trial version) and the new version is awaiting completion"
+    },
+    {
+      "topicId": "cnm_p103",
+      "grade": 4,
+      "term": "下",
+      "unit": "IV. Geometric mini-practices",
+      "chapter": "Vertical"
+    },
+    {
+      "topicId": "cnm_p104",
+      "grade": 4,
+      "term": "下",
+      "unit": "IV. Geometric mini-practices",
+      "chapter": "Parallel"
+    },
+    {
+      "topicId": "cnm_p105",
+      "grade": 5,
+      "term": "上",
+      "unit": "V. Geometric mini-practices",
+      "chapter": "parallel quadrilaterals; ladders"
+    },
+    {
+      "topicId": "cnm_p106",
+      "grade": 3,
+      "term": "下",
+      "unit": "II. Multiplication and division",
+      "chapter": "Divide by two digits",
+      "note": "The new version of the three entries 2026-10-23 verification) is not on board, and this article follows the drop point of the old version (two editions of the trial version) and the new version is pending completion"
+    },
+    {
+      "topicId": "cnm_p110",
+      "grade": 4,
+      "term": "上",
+      "unit": "Four calculations of the whole number",
+      "note": "Same as cnm_p220"
+    },
+    {
+      "topicId": "cnm_p111",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 4 divided by single digits",
+      "chapter": "Unit, quantity, total",
+      "note": "Only the unit portion corresponds; the remaining quantitative relationship, such as work efficiency, is not on the new version 23 (last point 4 of the old version)"
+    },
+    {
+      "topicId": "cnm_p112",
+      "grade": 4,
+      "term": "上",
+      "unit": "Four calculations of the whole number",
+      "chapter": "Three-step computational question"
+    },
+    {
+      "topicId": "cnm_p114",
+      "grade": 4,
+      "term": "上",
+      "unit": "Four calculations of the whole number",
+      "chapter": "Law of Operations"
+    },
+    {
+      "topicId": "cnm_p115",
+      "grade": 4,
+      "term": "上",
+      "unit": "Four calculations of the whole number",
+      "chapter": "Law of Operations"
+    },
+    {
+      "topicId": "cnm_p116",
+      "grade": 4,
+      "term": "上",
+      "unit": "Four calculations of the whole number",
+      "chapter": "Law of Operations"
+    },
+    {
+      "topicId": "cnm_p117",
+      "grade": 4,
+      "term": "下",
+      "unit": "I. Review and improvement",
+      "chapter": "Look who's lucky."
+    },
+    {
+      "topicId": "cnm_p118",
+      "grade": 4,
+      "term": "下",
+      "unit": "Awareness of decimals and additions",
+      "chapter": "Meaning of decimals"
+    },
+    {
+      "topicId": "cnm_p119",
+      "grade": 4,
+      "term": "下",
+      "unit": "Awareness of decimals and additions",
+      "chapter": "Size of decimals"
+    },
+    {
+      "topicId": "cnm_p120",
+      "grade": 4,
+      "term": "下",
+      "unit": "Awareness of decimals and additions",
+      "chapter": "Move Decimal Point"
+    },
+    {
+      "topicId": "cnm_p121",
+      "grade": 4,
+      "term": "下",
+      "unit": "V. COLLECTION AND ADVANCEMENT",
+      "chapter": "It's all right."
+    },
+    {
+      "topicId": "cnm_p122",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 3 Triangle and quadrilateral",
+      "chapter": "Initial recognition of triangles and quadrilaterals",
+      "note": "In the old version III, there is a special section on the classification of triangles 2 (under the other two categories 1; the new version is limited to a preliminary understanding, and whether the classification is confirmed in separate classes, down to a general level"
+    },
+    {
+      "topicId": "cnm_p125",
+      "grade": 4,
+      "term": "下",
+      "unit": "Awareness of decimals and additions",
+      "chapter": "Decimal plus minus"
+    },
+    {
+      "topicId": "cnm_p126",
+      "grade": 4,
+      "term": "下",
+      "unit": "V. COLLECTION AND ADVANCEMENT",
+      "chapter": "Application of decimal plus minus"
+    },
+    {
+      "topicId": "cnm_p129",
+      "grade": 5,
+      "term": "上",
+      "unit": "III. Statistics",
+      "chapter": "Mean"
+    },
+    {
+      "topicId": "cnm_p132",
+      "grade": 5,
+      "term": "上",
+      "unit": "II. Decimal multiplication",
+      "chapter": "Decimal multiplied by integer"
+    },
+    {
+      "topicId": "cnm_p133",
+      "grade": 5,
+      "term": "上",
+      "unit": "II. Decimal multiplication",
+      "chapter": "Decimal multiplication"
+    },
+    {
+      "topicId": "cnm_p134",
+      "grade": 5,
+      "term": "上",
+      "unit": "II. Decimal multiplication",
+      "chapter": "Multiplication, multiplier plus, multiplier minus"
+    },
+    {
+      "topicId": "cnm_p135",
+      "grade": 5,
+      "term": "上",
+      "unit": "II. Decimal multiplication",
+      "chapter": "It's a business deal."
+    },
+    {
+      "topicId": "cnm_p136",
+      "grade": 4,
+      "term": "下",
+      "unit": "V. COLLECTION AND ADVANCEMENT",
+      "chapter": "Mathematics Square -- the way you represent your position.",
+      "note": "It's the 7th grade of junior high school."
+    },
+    {
+      "topicId": "cnm_p137",
+      "grade": 5,
+      "term": "上",
+      "unit": "II. Decimal multiplication",
+      "chapter": "Divide is the integer decimal"
+    },
+    {
+      "topicId": "cnm_p138",
+      "grade": 5,
+      "term": "上",
+      "unit": "II. Decimal multiplication",
+      "chapter": "Divide is the division of decimals"
+    },
+    {
+      "topicId": "cnm_p139",
+      "grade": 5,
+      "term": "上",
+      "unit": "VI. CORRECTIONS AND ADVANCEMENT",
+      "chapter": "Problem resolution"
+    },
+    {
+      "topicId": "cnm_p140",
+      "grade": 5,
+      "term": "下",
+      "unit": "V. Solving the problem",
+      "chapter": "Possibility"
+    },
+    {
+      "topicId": "cnm_p141",
+      "grade": 5,
+      "term": "下",
+      "unit": "V. Solving the problem",
+      "chapter": "The size of the possibility"
+    },
+    {
+      "topicId": "cnm_p142",
+      "grade": 5,
+      "term": "上",
+      "unit": "IV. EQUIPMENT (i)",
+      "chapter": "Lettered"
+    },
+    {
+      "topicId": "cnm_p143",
+      "grade": 5,
+      "term": "上",
+      "unit": "IV. EQUIPMENT (i)",
+      "chapter": "Equation"
+    },
+    {
+      "topicId": "cnm_p144",
+      "grade": 5,
+      "term": "上",
+      "unit": "IV. EQUIPMENT (i)",
+      "chapter": "Equation",
+      "note": "The equation is based on additions and subtractions, and is not named by the \"Equivalent Nature\""
+    },
+    {
+      "topicId": "cnm_p145",
+      "grade": 5,
+      "term": "上",
+      "unit": "IV. EQUIPMENT (i)",
+      "chapter": "Equation"
+    },
+    {
+      "topicId": "cnm_p146",
+      "grade": 5,
+      "term": "上",
+      "unit": "IV. EQUIPMENT (i)",
+      "chapter": "Find Equivalent Relationship Bar Equities, solve applications"
+    },
+    {
+      "topicId": "cnm_p147",
+      "grade": 5,
+      "term": "上",
+      "unit": "V. Geometric mini-practices",
+      "chapter": "Area of parallel quadrilateral"
+    },
+    {
+      "topicId": "cnm_p148",
+      "grade": 5,
+      "term": "上",
+      "unit": "V. Geometric mini-practices",
+      "chapter": "Area of the triangle"
+    },
+    {
+      "topicId": "cnm_p149",
+      "grade": 5,
+      "term": "上",
+      "unit": "V. Geometric mini-practices",
+      "chapter": "Area of the ladder"
+    },
+    {
+      "topicId": "cnm_p150",
+      "grade": 5,
+      "term": "上",
+      "unit": "VI. CORRECTIONS AND ADVANCEMENT",
+      "chapter": "Area of Graphics",
+      "note": "Approximately: The symphony is a symmetrical symmetrical symmetrical symmetry, covered by the adjacent content, with slightly different calibres"
+    },
+    {
+      "topicId": "cnm_p151",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 8 Math Square",
+      "chapter": "The fence.",
+      "note": "The teaching edition contains the \"fence problem\" — similar to, and not the same — as the tree planting problem; the old version of Mathematics Square has a \"tree planting problem\" section, and the new version has been reduced to roughly"
+    },
+    {
+      "topicId": "cnm_p160",
+      "grade": 5,
+      "term": "下",
+      "unit": "IV. Geometric mini-practices",
+      "chapter": "Volume"
+    },
+    {
+      "topicId": "cnm_p161",
+      "grade": 5,
+      "term": "下",
+      "unit": "IV. Geometric mini-practices",
+      "chapter": "Square, surface area of rectangular"
+    },
+    {
+      "topicId": "cnm_p162",
+      "grade": 5,
+      "term": "下",
+      "unit": "IV. Geometric mini-practices",
+      "chapter": "cubic centimetre, cubic metre, cubic metre"
+    },
+    {
+      "topicId": "cnm_p163",
+      "grade": 5,
+      "term": "下",
+      "unit": "IV. Geometric mini-practices",
+      "chapter": "Size of rectangular and square"
+    },
+    {
+      "topicId": "cnm_p164",
+      "grade": 5,
+      "term": "下",
+      "unit": "IV. Geometric mini-practices",
+      "chapter": "Volume & Volume"
+    },
+    {
+      "topicId": "cnm_p165",
+      "grade": 4,
+      "term": "上",
+      "unit": "III. Preliminary recognition of scores",
+      "chapter": "Two.",
+      "note": "Formal fractional meaning (score and dichotomy) in sixth grade, second grade, primary school is only preliminary"
+    },
+    {
+      "topicId": "cnm_p169",
+      "grade": 4,
+      "term": "上",
+      "unit": "III. Preliminary Awareness of Scores (ii)",
+      "chapter": "One to one.",
+      "note": "The heterogeneity is divided into six grades (lower secondary)"
+    },
+    {
+      "topicId": "cnm_p175",
+      "grade": 4,
+      "term": "下",
+      "unit": "III. Statistics",
+      "chapter": "Awareness of the contours"
+    },
+    {
+      "topicId": "cnm_p180",
+      "grade": 4,
+      "term": "下",
+      "unit": "V. COLLECTION AND ADVANCEMENT",
+      "chapter": "Mathematics Square -- the way you represent your position.",
+      "note": "The official content of direction and distance is in junior high school."
+    },
+    {
+      "topicId": "cnm_p181",
+      "grade": 2,
+      "term": "上",
+      "unit": "Unit 4 My school, my home.",
+      "chapter": "South-west, north-west; my school.",
+      "note": "A simple routing description is a cell with no specific section; the old version is under 2"
+    },
+    {
+      "topicId": "cnm_p188",
+      "grade": 4,
+      "term": "上",
+      "unit": "V. Geometric mini-practices",
+      "chapter": "♪ I've never seen anything ♪"
+    },
+    {
+      "topicId": "cnm_p201",
+      "grade": 5,
+      "term": "下",
+      "unit": "II. Preliminary recognition of positive and negative figures",
+      "chapter": "Positive and negative"
+    },
+    {
+      "topicId": "cnm_p202",
+      "grade": 5,
+      "term": "下",
+      "unit": "II. Preliminary recognition of positive and negative figures",
+      "chapter": "positive and negative numbers; axes"
+    },
+    {
+      "topicId": "cnm_p217",
+      "grade": 2,
+      "term": "上",
+      "unit": "Additions to and subtractions from [module 1 100",
+      "chapter": "Cost-effective 1; plus and minus",
+      "note": "** Refill**: There is a \"How much difference\" special section under old version II, no name for the new edition, and the difference should be considered in the calculations, and there should be no segment."
+    },
+    {
+      "topicId": "cnm_p218",
+      "grade": 1,
+      "term": "下",
+      "unit": "Additions and subtractions within 4 module 100",
+      "chapter": "One.",
+      "note": "There's less problem than more in the application, there's no single lesson."
+    },
+    {
+      "topicId": "cnm_p219",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 4 divided by single digits",
+      "chapter": "Double",
+      "note": "Multiply the quantitative relationship with \"multiple\" as the core organization; the other two tables below contain the decomposition load and dereversity (the same caliber as the old version, the old version is down by \"multi\")"
+    },
+    {
+      "topicId": "cnm_p220",
+      "grade": 2,
+      "term": "上",
+      "unit": "Additions to and subtractions from [module 1 100",
+      "chapter": "Add and minus",
+      "note": "\"plus and minus\" is an intuitive recognition of the inverse; the formal relationship between the parts is presented in the new version 23 on the face of the table (headline of the old version is 4)"
+    },
+    {
+      "topicId": "cnm_p223",
+      "grade": 3,
+      "term": "上",
+      "unit": "Module 1, two-step, four-step operation and application",
+      "chapter": "Two, four steps and counting."
+    },
+    {
+      "topicId": "cnm_p225",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 3 Triangle and quadrilateral",
+      "chapter": "Initial knowledge of the corner",
+      "note": "Old version on two (angels and straight corners), new version on three, aligned to human-sense."
+    },
+    {
+      "topicId": "cnm_p226",
+      "grade": 3,
+      "term": "下",
+      "unit": "III. Preliminary recognition of scores (i)",
+      "chapter": "How many?",
+      "note": "The new version of the three entries 2026-10-23 verification) is not on board, and this article follows the drop point of the old version (two editions of the trial version) and the new version is pending completion"
+    },
+    {
+      "topicId": "cnm_p227",
+      "grade": 4,
+      "term": "上",
+      "unit": "III. Preliminary Awareness of Scores (ii)",
+      "chapter": "One to one."
+    },
+    {
+      "topicId": "cnm_p229",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 3 Triangle and quadrilateral",
+      "chapter": "Initial recognition of triangles and quadrilaterals",
+      "note": "Polygons appear in triangles, quadrilaterals (old version, second version)"
+    },
+    {
+      "topicId": "cnm_p232",
+      "grade": 4,
+      "term": "上",
+      "unit": "V. Geometric mini-practices",
+      "chapter": "Angle",
+      "note": "The square and the round are covered in the \"angle\" calculation, no single lesson."
+    },
+    {
+      "topicId": "cnm_p233",
+      "grade": 3,
+      "term": "上",
+      "unit": "Unit 2 Multiply by one",
+      "chapter": "Estimate",
+      "note": "Consistency with cnm_p066; two estimation knowledge points of the project are combined in the new version with a section"
+    },
+    {
+      "topicId": "cnm_p234",
+      "grade": 4,
+      "term": "下",
+      "unit": "V. COLLECTION AND ADVANCEMENT",
+      "chapter": "Mathematics Square -- draw lines with multipurpose triangles and parallel lines",
+      "note": "The pedagogue draws parallel lines with triangulations, which are non-footed."
+    },
+    {
+      "topicId": "cnm_p235",
+      "grade": 4,
+      "term": "下",
+      "unit": "V. COLLECTION AND ADVANCEMENT",
+      "chapter": "Mathematics Square -- the way you represent your position.",
+      "note": "Approximately: The symphony is a symmetrical symmetrical symmetrical symmetry, covered by the adjacent content, with slightly different calibres"
+    },
+    {
+      "topicId": "cnm_p240",
+      "grade": 5,
+      "term": "上",
+      "unit": "V. Geometric mini-practices",
+      "chapter": "Parallel quadrilateral"
+    }
+  ]
+}

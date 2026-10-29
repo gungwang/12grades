@@ -1,0 +1,2452 @@
+{
+  "changes": [
+    {
+      "id": "cne_h005_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "On the first day of school, if you want to say hello and say your name, which one is appropriate?",
+      "answer": "Hi, my name is Lin",
+      "old": "Good night, close the door",
+      "new": "Hi, your name is Lin"
+    },
+    {
+      "id": "cne_h005_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "You want to tell your classmates you're in class three, which one is appropriate?",
+      "answer": "I am in Class 3",
+      "old": "I am in a flood",
+      "new": "I am at Class 3"
+    },
+    {
+      "id": "cne_h005_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "You want to tell your classmates you're in class three, which one is appropriate?",
+      "answer": "I am in Class 3",
+      "old": "Class 3 is eating",
+      "new": "I is in Class 3"
+    },
+    {
+      "id": "cne_h005_q3",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "You want to tell your classmates you're in class three, which one is appropriate?",
+      "answer": "I am in Class 3",
+      "old": "You are my locker",
+      "new": "He is in Class 3"
+    },
+    {
+      "id": "cne_h007_q1",
+      "key": "D",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Points: Name, class, music. Any of the three points?",
+      "answer": "I am Lin Xiao in Class 3, and I like music",
+      "old": "Class 3 likes Monday",
+      "new": "I am Lin Xiao in Class 3, and I like football"
+    },
+    {
+      "id": "cne_h007_q2",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Which one would be appropriate if you'd like to introduce yourself as a freshman by email?",
+      "answer": "I am a new student at this school",
+      "old": "You are a new earthquake",
+      "new": "I is a new student at this school"
+    },
+    {
+      "id": "cne_h007_q2",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Which one would be appropriate if you'd like to introduce yourself as a freshman by email?",
+      "answer": "I am a new student at this school",
+      "old": "The locker ate Monday",
+      "new": "I am an new student at this school"
+    },
+    {
+      "id": "cne_h007_q2",
+      "key": "D",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Which one would be appropriate if you'd like to introduce yourself as a freshman by email?",
+      "answer": "I am a new student at this school",
+      "old": "Please flood the name",
+      "new": "He is a new student at this school"
+    },
+    {
+      "id": "cne_h013_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Which one is the right one to say your favorite English class?",
+      "answer": "My favourite course is English",
+      "old": "English is a flood",
+      "new": "Your favourite course is English"
+    },
+    {
+      "id": "cne_h013_q2",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "I'd like to advise you to join the debate.",
+      "answer": "That sounds good. I will join",
+      "old": "I am a drought",
+      "new": "That sounds good. I will joined"
+    },
+    {
+      "id": "cne_h013_q2",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "I'd like to advise you to join the debate.",
+      "answer": "That sounds good. I will join",
+      "old": "Close the hurricane",
+      "new": "That sounds good. I will to join"
+    },
+    {
+      "id": "cne_h013_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "I'm asking if the other side is in the club. Which one is appropriate?",
+      "answer": "Have you joined a club",
+      "old": "You joined a earthquake",
+      "new": "Have you joined an club"
+    },
+    {
+      "id": "cne_h013_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "What's the appropriate sentence for participating in volunteer activities to make yourself more confident?",
+      "answer": "Volunteering makes me more confident",
+      "old": "Confident is a locker",
+      "new": "Volunteering make me more confident"
+    },
+    {
+      "id": "cne_h015_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would be appropriate as the beginning of the application?",
+      "answer": "I would like to join the debate club",
+      "old": "In conclusion the flood won",
+      "new": "I would liked to join the debate club"
+    },
+    {
+      "id": "cne_h015_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would be appropriate as the beginning of the application?",
+      "answer": "I would like to join the debate club",
+      "old": "Therefore buy a locker",
+      "new": "I would to like to join the debate club"
+    },
+    {
+      "id": "cne_h015_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "The teacher asked to introduce himself to his free time. Which one is it?",
+      "answer": "I am free on Friday afternoon",
+      "old": "Free ate the Friday",
+      "new": "I am free in Friday afternoon"
+    },
+    {
+      "id": "cne_h020_q1",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "I want to tell my classmates that the flight to Sian has been booked on Friday.",
+      "answer": "We are flying to Xi'an on Friday",
+      "old": "Xi'an is eating Friday",
+      "new": "We is flying to Xi'an on Friday"
+    },
+    {
+      "id": "cne_h020_q1",
+      "key": "D",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "I want to tell my classmates that the flight to Sian has been booked on Friday.",
+      "answer": "We are flying to Xi'an on Friday",
+      "old": "Please flood the ticket",
+      "new": "We are fly to Xi'an on Friday"
+    },
+    {
+      "id": "cne_h020_q2",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "My friend invited you to see the waterfall.",
+      "answer": "Yes, I would love to",
+      "old": "No, I am a brochure",
+      "new": "Yes, I would loved to"
+    },
+    {
+      "id": "cne_h020_q2",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "My friend invited you to see the waterfall.",
+      "answer": "Yes, I would love to",
+      "old": "The temple ate me",
+      "new": "Yes, I would to love to"
+    },
+    {
+      "id": "cne_h020_q4",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is appropriate?",
+      "answer": "Let's check the itinerary before we leave",
+      "old": "Itinerary ate the bus",
+      "new": "Let's to check the itinerary before we leave"
+    },
+    {
+      "id": "cne_h022_q2",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "The e-mail says the tickets have been booked. Which one is appropriate?",
+      "answer": "I have already booked the train ticket",
+      "old": "The ticket ate Friday",
+      "new": "I have already book the train ticket"
+    },
+    {
+      "id": "cne_h022_q2",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "The e-mail says the tickets have been booked. Which one is appropriate?",
+      "answer": "I have already booked the train ticket",
+      "old": "Book is a temple",
+      "new": "He have already booked the train ticket"
+    },
+    {
+      "id": "cne_h022_q2",
+      "key": "D",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "The e-mail says the tickets have been booked. Which one is appropriate?",
+      "answer": "I have already booked the train ticket",
+      "old": "I book yesterday tomorrow",
+      "new": "I not have already booked the train ticket"
+    },
+    {
+      "id": "cne_h022_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be the beginning of the itinerary?",
+      "answer": "I am writing to tell you about my trip",
+      "old": "In conclusion the flood won",
+      "new": "I am writ to tell you about my trip"
+    },
+    {
+      "id": "cne_h022_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be the beginning of the itinerary?",
+      "answer": "I am writing to tell you about my trip",
+      "old": "Therefore close the castle",
+      "new": "I is writing to tell you about my trip"
+    },
+    {
+      "id": "cne_h022_q3",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be the beginning of the itinerary?",
+      "answer": "I am writing to tell you about my trip",
+      "old": "However buy a brochure",
+      "new": "He is writing to tell you about my trip"
+    },
+    {
+      "id": "cne_h025_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one of the additional sentences is correct?",
+      "answer": "He is a coach, isn't he",
+      "old": "He is a coach, is he",
+      "new": "He are a coach, isn't he"
+    },
+    {
+      "id": "cne_h025_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one of the additional sentences is correct?",
+      "answer": "He is a coach, isn't he",
+      "old": "He is a coach, isn't she",
+      "new": "He is an coach, isn't he"
+    },
+    {
+      "id": "cne_h027_q1",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Friends rarely exercise. You suggest he walks every day. Which is the right one?",
+      "answer": "You could walk for thirty minutes a day",
+      "old": "Walk ate the stadium",
+      "new": "You could walked for thirty minutes a day"
+    },
+    {
+      "id": "cne_h027_q1",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Friends rarely exercise. You suggest he walks every day. Which is the right one?",
+      "answer": "You could walk for thirty minutes a day",
+      "old": "You are a medal",
+      "new": "You could walk for thirty minutes an day"
+    },
+    {
+      "id": "cne_h027_q1",
+      "key": "D",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Friends rarely exercise. You suggest he walks every day. Which is the right one?",
+      "answer": "You could walk for thirty minutes a day",
+      "old": "Please injury the diet",
+      "new": "You could to walk for thirty minutes a day"
+    },
+    {
+      "id": "cne_h027_q2",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Don' t train when you are injured.",
+      "answer": "All right, I will rest",
+      "old": "The muscle is a coach",
+      "new": "All right, I will rested"
+    },
+    {
+      "id": "cne_h027_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "What's the right one for you to invite your classmates to the stadium on Saturday?",
+      "answer": "Shall we run at the stadium on Saturday",
+      "old": "The stadium ran me",
+      "new": "Shall we run at the stadium in Saturday"
+    },
+    {
+      "id": "cne_h034_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "What's the appropriate sentence to tell your classmates about the flood?",
+      "answer": "The flood is serious and many people need help",
+      "old": "The flood is a medal",
+      "new": "The flood is serious and many people needs help"
+    },
+    {
+      "id": "cne_h034_q1",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "What's the appropriate sentence to tell your classmates about the flood?",
+      "answer": "The flood is serious and many people need help",
+      "old": "Please eat the warning",
+      "new": "The flood is serious and many peoples need help"
+    },
+    {
+      "id": "cne_h034_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to express concern for survivors?",
+      "answer": "I am worried about the survivors",
+      "old": "Survivors are lockers",
+      "new": "I is worried about the survivors"
+    },
+    {
+      "id": "cne_h034_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to express concern for survivors?",
+      "answer": "I am worried about the survivors",
+      "old": "I earthquake the worry",
+      "new": "He is worried about the survivors"
+    },
+    {
+      "id": "cne_h034_q4",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "You're lucky the rescue team is on the move. What should I answer?",
+      "answer": "I am glad the rescue team has left",
+      "old": "Glad is a flood",
+      "new": "I is glad the rescue team has left"
+    },
+    {
+      "id": "cne_h034_q4",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "You're lucky the rescue team is on the move. What should I answer?",
+      "answer": "I am glad the rescue team has left",
+      "old": "Please drought the team",
+      "new": "He is glad the rescue team has left"
+    },
+    {
+      "id": "cne_h036_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Key points: Friday earthquake, 20 survivors found, warning ten minutes early. Any three points?",
+      "answer": "An earthquake hit on Friday, rescue teams found twenty survivors, and the warning had been sent ten minutes earlier",
+      "old": "An earthquake hit on Friday",
+      "new": "An earthquake hit on Friday, rescue teams found twenty survivors"
+    },
+    {
+      "id": "cne_h041_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "It's funny but hard to write. Which one is the right one?",
+      "answer": "Chinese characters are interesting but hard to write",
+      "old": "Characters ate the dialect",
+      "new": "Chinese characters are interest but hard to write"
+    },
+    {
+      "id": "cne_h041_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would be appropriate to explain the need to expand the vocabulary?",
+      "answer": "Reading helps you build your vocabulary",
+      "old": "Vocabulary is a shelter",
+      "new": "Reading help you build your vocabulary"
+    },
+    {
+      "id": "cne_h044_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would fit as the first sentence of the plan?",
+      "answer": "My plan for learning Chinese is simple",
+      "old": "In conclusion the dialect won",
+      "new": "My plan for learning Chinese are simple"
+    },
+    {
+      "id": "cne_h044_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would fit as the first sentence of the plan?",
+      "answer": "My plan for learning Chinese is simple",
+      "old": "Therefore eat a character",
+      "new": "Your plan for learning Chinese is simple"
+    },
+    {
+      "id": "cne_h049_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Which one is appropriate to say that the temple should be protected?",
+      "answer": "I think the ancient temple should be preserved",
+      "old": "The temple ate the dynasty",
+      "new": "I thinks the ancient temple should be preserved"
+    },
+    {
+      "id": "cne_h049_q1",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Which one is appropriate to say that the temple should be protected?",
+      "answer": "I think the ancient temple should be preserved",
+      "old": "Preserve is a medal",
+      "new": "I not think the ancient temple should be preserved"
+    },
+    {
+      "id": "cne_h049_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to recommend the establishment of a rules for visitors?",
+      "answer": "We could make rules for visitors",
+      "old": "Rules ate the temple",
+      "new": "We could maked rules for visitors"
+    },
+    {
+      "id": "cne_h049_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to recommend the establishment of a rules for visitors?",
+      "answer": "We could make rules for visitors",
+      "old": "Could is a relic",
+      "new": "We could to make rules for visitors"
+    },
+    {
+      "id": "cne_h056_q2",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "Which one is appropriate to show that hunting is a dangerous source?",
+      "answer": "Hunters are the main danger to this species",
+      "old": "Hunters are habitats",
+      "new": "Hunters is the main danger to this species"
+    },
+    {
+      "id": "cne_h056_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "They say the reserves are useless. You disagree. What should I answer?",
+      "answer": "I don't agree, because the numbers are rising",
+      "old": "I don't agree the numbers ate",
+      "new": "I don't agree, because the numbers are ris"
+    },
+    {
+      "id": "cne_h063_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "They asked why they used nicknames, which one would be appropriate?",
+      "answer": "I use a nickname to protect my privacy",
+      "old": "Nickname ate my privacy",
+      "new": "I use an nickname to protect my privacy"
+    },
+    {
+      "id": "cne_h072_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which line would be the beginning of the introduction?",
+      "answer": "Let me tell you about a local tradition",
+      "old": "In conclusion the battle won",
+      "new": "Let me tell you about an local tradition"
+    },
+    {
+      "id": "cne_h079_q1",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "What's the right one?",
+      "answer": "The band is performing on the stage",
+      "old": "Performing ate the audience",
+      "new": "The band is perform on the stage"
+    },
+    {
+      "id": "cne_h087_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to suggest the use of lanterns to decorate the classroom?",
+      "answer": "Let's decorate the classroom with lanterns",
+      "old": "Decorate ate the feast",
+      "new": "Let's to decorate the classroom with lanterns"
+    },
+    {
+      "id": "cne_h089_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would fit as the first sentence of the introduction?",
+      "answer": "Let me introduce a festival in my hometown",
+      "old": "In conclusion the firework won",
+      "new": "Let me introduce an festival in my hometown"
+    },
+    {
+      "id": "cne_h094_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "I want to pay tribute to my classmates for the honesty of handing over their wallets.",
+      "answer": "It was honest of you to return the wallet",
+      "old": "Honest ate the wallet",
+      "new": "It not was honest of you to return the wallet"
+    },
+    {
+      "id": "cne_h094_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate if you wanted to show respect for others?",
+      "answer": "Respect for others is a virtue",
+      "old": "Respect ate the courage",
+      "new": "Respect for others is an virtue"
+    },
+    {
+      "id": "cne_h096_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would fit as the first sentence of the commentary?",
+      "answer": "Mei made a choice that shows kindness",
+      "old": "In conclusion the wallet won",
+      "new": "Mei made an choice that shows kindness"
+    },
+    {
+      "id": "cne_h101_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "What's the right line to say that the dress in this area is different from what it is in your own country?",
+      "answer": "The costumes in this region are different from those in my hometown",
+      "old": "Costumes ate my hometown",
+      "new": "The costumes in this region are different of those in my hometown"
+    },
+    {
+      "id": "cne_h101_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "I'd like to ask politely whether a faith can take a picture. Which one is appropriate?",
+      "answer": "Could you tell me if I may take photos",
+      "old": "Tell me photo or not now",
+      "new": "Could you tell me if I may taked photos"
+    },
+    {
+      "id": "cne_h101_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "I'd like to ask politely whether a faith can take a picture. Which one is appropriate?",
+      "answer": "Could you tell me if I may take photos",
+      "old": "May is a costume",
+      "new": "Could you tell me if I may to take photos"
+    },
+    {
+      "id": "cne_h103_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is appropriate for the first sentence of the note?",
+      "answer": "Today I learned about a local ethnic group",
+      "old": "In conclusion the costume won",
+      "new": "Today I learned about an local ethnic group"
+    },
+    {
+      "id": "cne_h115_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to suggest a budget before borrowing money?",
+      "answer": "You should make a budget before you take a loan",
+      "old": "Budget ate the loan",
+      "new": "You should maked a budget before you take a loan"
+    },
+    {
+      "id": "cne_h115_q3",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to suggest a budget before borrowing money?",
+      "answer": "You should make a budget before you take a loan",
+      "old": "Take a loan is charity",
+      "new": "You should to make a budget before you take a loan"
+    },
+    {
+      "id": "cne_h117_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence is appropriate as the first sentence of reflection?",
+      "answer": "I learned a lesson about value",
+      "old": "In conclusion the bargain won",
+      "new": "I learned an lesson about value"
+    },
+    {
+      "id": "cne_h122_q1",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "What's the right one for her to dedicate her life to research?",
+      "answer": "She devoted her life to research",
+      "old": "Life ate the Nobel",
+      "new": "She not devoted her life to research"
+    },
+    {
+      "id": "cne_h124_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would fit as the first sentence of the introduction?",
+      "answer": "This paragraph introduces a scientist",
+      "old": "In conclusion the Nobel ate",
+      "new": "This paragraph introduces an scientist"
+    },
+    {
+      "id": "cne_h143_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is the right one to remind each other that they're too close?",
+      "answer": "Please keep a comfortable distance",
+      "old": "Distance ate the gesture",
+      "new": "Please keep an comfortable distance"
+    },
+    {
+      "id": "cne_h150_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to indicate that organic fertilizer could increase production?",
+      "answer": "Organic fertilizer may increase the yield",
+      "old": "Yield ate the irrigation",
+      "new": "Organic fertilizer may increased the yield"
+    },
+    {
+      "id": "cne_h150_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to indicate that organic fertilizer could increase production?",
+      "answer": "Organic fertilizer may increase the yield",
+      "old": "Increase is a crop",
+      "new": "Organic fertilizer may to increase the yield"
+    },
+    {
+      "id": "cne_h152_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would fit the first sentence of the arrangement?",
+      "answer": "Here is the plan for the harvest",
+      "old": "Harvest ate the yield",
+      "new": "Here are the plan for the harvest"
+    },
+    {
+      "id": "cne_h157_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate if you wanted to suggest that you control the variables first?",
+      "answer": "We should control the variables first",
+      "old": "Variables ate the sample",
+      "new": "We should controled the variables first"
+    },
+    {
+      "id": "cne_h157_q4",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate if you wanted to suggest that you control the variables first?",
+      "answer": "We should control the variables first",
+      "old": "First is a method only",
+      "new": "We should to control the variables first"
+    },
+    {
+      "id": "cne_h159_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would fit as the first sentence of the commentary?",
+      "answer": "The hypothesis is interesting but not fully proved",
+      "old": "Hypothesis ate the data",
+      "new": "The hypothesis is interest but not fully proved"
+    },
+    {
+      "id": "cne_h164_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is appropriate to be polite enough to admit that you're not fluent?",
+      "answer": "I am not fluent yet, so I may misunderstand",
+      "old": "Fluent ate the custom",
+      "new": "I am not fluent yet, so I may misunderstanded"
+    },
+    {
+      "id": "cne_h164_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is appropriate to be polite enough to admit that you're not fluent?",
+      "answer": "I am not fluent yet, so I may misunderstand",
+      "old": "Misunderstand is a host",
+      "new": "I am not fluent yet, so I may to misunderstand"
+    },
+    {
+      "id": "cne_h164_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is appropriate to be polite enough to admit that you're not fluent?",
+      "answer": "I am not fluent yet, so I may misunderstand",
+      "old": "Please abroad the language",
+      "new": "I is not fluent yet, so I may misunderstand"
+    },
+    {
+      "id": "cne_h164_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to suggest that exchange students learn about custom first?",
+      "answer": "Exchange students should learn local customs first",
+      "old": "Customs ate the host",
+      "new": "Exchange students should learned local customs first"
+    },
+    {
+      "id": "cne_h164_q4",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate to suggest that exchange students learn about custom first?",
+      "answer": "Exchange students should learn local customs first",
+      "old": "First is homesick",
+      "new": "Exchange students should to learn local customs first"
+    },
+    {
+      "id": "cne_h166_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence is appropriate as the first sentence of reflection?",
+      "answer": "I misunderstood a custom at dinner",
+      "old": "Custom ate the host",
+      "new": "I misunderstood an custom at dinner"
+    },
+    {
+      "id": "cne_h171_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "I'd like to introduce you to the chopstick. Which one is appropriate?",
+      "answer": "It is good manners not to point with chopsticks",
+      "old": "Manners ate the banquet",
+      "new": "It are good manners not to point with chopsticks"
+    },
+    {
+      "id": "cne_h171_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate if you wanted to say that the dish would enhance appetite?",
+      "answer": "The flavour may improve your appetite",
+      "old": "Appetite ate the ingredient",
+      "new": "The flavour may improved your appetite"
+    },
+    {
+      "id": "cne_h171_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate if you wanted to say that the dish would enhance appetite?",
+      "answer": "The flavour may improve your appetite",
+      "old": "Flavour is a chopstick",
+      "new": "The flavour may to improve your appetite"
+    },
+    {
+      "id": "cne_h179_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is appropriate?",
+      "answer": "I am sorry the train is delayed",
+      "old": "Delay ate my ticket",
+      "new": "I is sorry the train is delayed"
+    },
+    {
+      "id": "cne_h179_q4",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is appropriate?",
+      "answer": "I am sorry the train is delayed",
+      "old": "Sorry is a carriage",
+      "new": "He is sorry the train is delayed"
+    },
+    {
+      "id": "cne_h181_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would fit as the first sentence of the mail?",
+      "answer": "I am writing to tell you about the journey",
+      "old": "Journey ate the frost",
+      "new": "I am writ to tell you about the journey"
+    },
+    {
+      "id": "cne_h181_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would fit as the first sentence of the mail?",
+      "answer": "I am writing to tell you about the journey",
+      "old": "In conclusion buy a rail",
+      "new": "I is writing to tell you about the journey"
+    },
+    {
+      "id": "cne_h181_q3",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would fit as the first sentence of the mail?",
+      "answer": "I am writing to tell you about the journey",
+      "old": "Therefore flood the carriage",
+      "new": "He is writing to tell you about the journey"
+    },
+    {
+      "id": "cne_h186_q4",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be appropriate if you wanted to suggest immediate recourse when suffocation took place?",
+      "answer": "If someone is choking, call an ambulance at once",
+      "old": "Ambulance ate the pressure",
+      "new": "If someone is chok, call an ambulance at once"
+    },
+    {
+      "id": "cne_h188_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence is appropriate as the first sentence of the step?",
+      "answer": "Follow these steps when someone is bleeding",
+      "old": "Bleeding ate the bandage",
+      "new": "Follow these steps when someone is bleed"
+    },
+    {
+      "id": "cne_h195_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is appropriate for the first sentence of the note?",
+      "answer": "This note records one visit to a gallery",
+      "old": "Gallery ate the canvas",
+      "new": "This note records one visit to an gallery"
+    },
+    {
+      "id": "cne_h200_q4",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is appropriate to suggest walking to ease anxiety?",
+      "answer": "A short walk can refresh you and reduce anxiety",
+      "old": "Anxiety ate the routine",
+      "new": "A short walk can refreshed you and reduce anxiety"
+    },
+    {
+      "id": "cne_h200_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is appropriate to suggest walking to ease anxiety?",
+      "answer": "A short walk can refresh you and reduce anxiety",
+      "old": "Refresh is nutrition",
+      "new": "A short walk can to refresh you and reduce anxiety"
+    },
+    {
+      "id": "cne_h202_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence is appropriate as the first sentence of the recommendation?",
+      "answer": "A balanced routine can reduce stress",
+      "old": "Stress ate the garden",
+      "new": "A balanced routine can reduced stress"
+    },
+    {
+      "id": "cne_h202_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence is appropriate as the first sentence of the recommendation?",
+      "answer": "A balanced routine can reduce stress",
+      "old": "In conclusion buy anxiety",
+      "new": "A balanced routine can to reduce stress"
+    },
+    {
+      "id": "cne_h207_q2",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "What's the appropriate sentence to say that drought forces people to move?",
+      "answer": "It was the drought that forced people to move",
+      "old": "It was the drought which forced people as a relative only",
+      "new": "It not was the drought that forced people to move"
+    },
+    {
+      "id": "cne_h223_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would be the first line of appreciation?",
+      "answer": "The poem uses quiet imagery and a strong rhythm",
+      "old": "Imagery ate the rhyme",
+      "new": "The poem uses quiet imagery and an strong rhythm"
+    },
+    {
+      "id": "cne_h230_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence is appropriate as the first sentence of the summary?",
+      "answer": "This science fiction follows an android on a spacecraft",
+      "old": "Android ate the gravity",
+      "new": "This science fiction follows an android on an spacecraft"
+    },
+    {
+      "id": "cne_h234_q4",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Where there are temples, there are tourists. Which one is correct?",
+      "answer": "Where there is a temple, there are visitors",
+      "old": "There is a temple where there, visitors",
+      "new": "Where there is an temple, there are visitors"
+    },
+    {
+      "id": "cne_h235_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one is the right one?",
+      "answer": "The tower is a landmark of the city",
+      "old": "Landmark ate the queue",
+      "new": "The tower is an landmark of the city"
+    },
+    {
+      "id": "cne_h249_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "You want to ask your neighbor to help you on Saturday? Which one is appropriate?",
+      "answer": "Could you volunteer on Saturday",
+      "old": "Volunteer ate the charity",
+      "new": "Could you volunteer in Saturday"
+    },
+    {
+      "id": "cne_h251_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which sentence would fit as the first sentence of the bulletin?",
+      "answer": "We need volunteers for the community shelter",
+      "old": "Shelter ate the blankets",
+      "new": "We needs volunteers for the community shelter"
+    },
+    {
+      "id": "cne_h259_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would fit as the first sentence of the mail?",
+      "answer": "I am writing to apply for the post",
+      "old": "Post ate the deadline",
+      "new": "I am writ to apply for the post"
+    },
+    {
+      "id": "cne_h259_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would fit as the first sentence of the mail?",
+      "answer": "I am writing to apply for the post",
+      "old": "In conclusion buy a résumé",
+      "new": "I is writing to apply for the post"
+    },
+    {
+      "id": "cne_h259_q3",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "Which one would fit as the first sentence of the mail?",
+      "answer": "I am writing to apply for the post",
+      "old": "Therefore flood the interview",
+      "new": "He is writing to apply for the post"
+    }
+  ],
+  "failed": [
+    [
+      "cne_j005_q1",
+      "I am a book.",
+      "Nice to meet you, too.",
+      "Nice to meet you."
+    ],
+    [
+      "cne_j005_q3",
+      "Good evening is a book.",
+      "Good morning.",
+      "I'll see you in the morning. Which one is a greeting?"
+    ],
+    [
+      "cne_j005_q3",
+      "What is your pen?",
+      "Good morning.",
+      "I'll see you in the morning. Which one is a greeting?"
+    ],
+    [
+      "cne_j005_q3",
+      "Sit on the name.",
+      "Good morning.",
+      "I'll see you in the morning. Which one is a greeting?"
+    ],
+    [
+      "cne_h005_q1",
+      "I ate the classroom",
+      "Hi, my name is Lin",
+      "On the first day of school, if you want to say hello and say your name, which one is appropriate?"
+    ],
+    [
+      "cne_h005_q1",
+      "Please earthquake the book",
+      "Hi, my name is Lin",
+      "On the first day of school, if you want to say hello and say your name, which one is appropriate?"
+    ],
+    [
+      "cne_h005_q2",
+      "Good night is a book",
+      "Nice to meet you too",
+      "Nice to meet you."
+    ],
+    [
+      "cne_h005_q4",
+      "Good earthquake",
+      "Good morning",
+      "I met the teacher in the school building this morning. Which one is a greeting?"
+    ],
+    [
+      "cne_h005_q4",
+      "Sit on the name",
+      "Good morning",
+      "I met the teacher in the school building this morning. Which one is a greeting?"
+    ],
+    [
+      "cne_h005_q4",
+      "I have a hurricane",
+      "Good morning",
+      "I met the teacher in the school building this morning. Which one is a greeting?"
+    ],
+    [
+      "cne_h007_q4",
+      "Therefore the flood ended",
+      "Hello, let me introduce myself",
+      "Which one would fit at the beginning of the introduction?"
+    ],
+    [
+      "cne_h007_q4",
+      "In conclusion, buy a locker",
+      "Hello, let me introduce myself",
+      "Which one would fit at the beginning of the introduction?"
+    ],
+    [
+      "cne_h007_q4",
+      "However, the hurricane won",
+      "Hello, let me introduce myself",
+      "Which one would fit at the beginning of the introduction?"
+    ],
+    [
+      "cne_h013_q1",
+      "I earthquake the quiz",
+      "My favourite course is English",
+      "Which one is the right one to say your favorite English class?"
+    ],
+    [
+      "cne_h013_q1",
+      "The locker is a grade",
+      "My favourite course is English",
+      "Which one is the right one to say your favorite English class?"
+    ],
+    [
+      "cne_h013_q2",
+      "Yesterday is a volunteer",
+      "That sounds good. I will join",
+      "I'd like to advise you to join the debate."
+    ],
+    [
+      "cne_h013_q3",
+      "Club is eating homework",
+      "Have you joined a club",
+      "I'm asking if the other side is in the club. Which one is appropriate?"
+    ],
+    [
+      "cne_h013_q3",
+      "Please grade the flood",
+      "Have you joined a club",
+      "I'm asking if the other side is in the club. Which one is appropriate?"
+    ],
+    [
+      "cne_h013_q4",
+      "The quiz ate the debate",
+      "Volunteering makes me more confident",
+      "What's the appropriate sentence for participating in volunteer activities to make yourself more confident?"
+    ],
+    [
+      "cne_h013_q4",
+      "I flood the volunteer",
+      "Volunteering makes me more confident",
+      "What's the appropriate sentence for participating in volunteer activities to make yourself more confident?"
+    ],
+    [
+      "cne_h015_q3",
+      "However the quiz ate",
+      "I would like to join the debate club",
+      "Which sentence would be appropriate as the beginning of the application?"
+    ],
+    [
+      "cne_h020_q2",
+      "Yesterday please",
+      "Yes, I would love to",
+      "My friend invited you to see the waterfall."
+    ],
+    [
+      "cne_h020_q3",
+      "Accommodation is a verb",
+      "Where is your accommodation",
+      "I was wondering where the room was booked. Which one was the right one?"
+    ],
+    [
+      "cne_h020_q3",
+      "Where did the castle eat",
+      "Where is your accommodation",
+      "I was wondering where the room was booked. Which one was the right one?"
+    ],
+    [
+      "cne_h020_q3",
+      "Please grade the waterfall",
+      "Where is your accommodation",
+      "I was wondering where the room was booked. Which one was the right one?"
+    ],
+    [
+      "cne_h020_q4",
+      "Leave is a castle",
+      "Let's check the itinerary before we leave",
+      "Which one is appropriate?"
+    ],
+    [
+      "cne_h025_q3",
+      "He is a coach, doesn't he",
+      "He is a coach, isn't he",
+      "Which one of the additional sentences is correct?"
+    ],
+    [
+      "cne_h027_q3",
+      "Saturday is eating",
+      "Shall we run at the stadium on Saturday",
+      "What's the right one for you to invite your classmates to the stadium on Saturday?"
+    ],
+    [
+      "cne_h027_q4",
+      "Diet is a marathon medal",
+      "A balanced diet helps your fitness",
+      "Which one would be appropriate if you wanted to show that a balanced diet would help you?"
+    ],
+    [
+      "cne_h027_q4",
+      "Fitness ate the coach",
+      "A balanced diet helps your fitness",
+      "Which one would be appropriate if you wanted to show that a balanced diet would help you?"
+    ],
+    [
+      "cne_h027_q4",
+      "Please flood the muscle",
+      "A balanced diet helps your fitness",
+      "Which one would be appropriate if you wanted to show that a balanced diet would help you?"
+    ],
+    [
+      "cne_h029_q3",
+      "Injury is a medal",
+      "Stop training if you feel an injury",
+      "Which one is appropriate to alert the reader to the injury?"
+    ],
+    [
+      "cne_h029_q3",
+      "Please eat the stadium",
+      "Stop training if you feel an injury",
+      "Which one is appropriate to alert the reader to the injury?"
+    ],
+    [
+      "cne_h029_q3",
+      "The coach is a diet",
+      "Stop training if you feel an injury",
+      "Which one is appropriate to alert the reader to the injury?"
+    ],
+    [
+      "cne_h034_q1",
+      "I am a shelter",
+      "The flood is serious and many people need help",
+      "What's the appropriate sentence to tell your classmates about the flood?"
+    ],
+    [
+      "cne_h034_q2",
+      "Donate is a hurricane",
+      "Could you please donate some blankets",
+      "Which one is the right one to ask for a blanket?"
+    ],
+    [
+      "cne_h034_q2",
+      "You are an earthquake",
+      "Could you please donate some blankets",
+      "Which one is the right one to ask for a blanket?"
+    ],
+    [
+      "cne_h034_q2",
+      "Blankets ate the shelter",
+      "Could you please donate some blankets",
+      "Which one is the right one to ask for a blanket?"
+    ],
+    [
+      "cne_h034_q3",
+      "Worry ate the drought",
+      "I am worried about the survivors",
+      "Which one would be appropriate to express concern for survivors?"
+    ],
+    [
+      "cne_h035_q4",
+      "The earthquake hit on Monday",
+      "Rescue teams found twenty survivors",
+      "A strong earthquake hit the town on Frid"
+    ],
+    [
+      "cne_h035_q4",
+      "The town had no earthquake",
+      "Rescue teams found twenty survivors",
+      "A strong earthquake hit the town on Frid"
+    ],
+    [
+      "cne_h036_q3",
+      "Shelter is a medal",
+      "Please go to the nearest shelter",
+      "Which one is appropriate to remind readers of the shelter?"
+    ],
+    [
+      "cne_h036_q3",
+      "Eat the warning",
+      "Please go to the nearest shelter",
+      "Which one is appropriate to remind readers of the shelter?"
+    ],
+    [
+      "cne_h036_q3",
+      "The drought won a quiz",
+      "Please go to the nearest shelter",
+      "Which one is appropriate to remind readers of the shelter?"
+    ],
+    [
+      "cne_h036_q4",
+      "The station who sent the warning is a book",
+      "The station that sent the warning is local",
+      "Which one is correct?"
+    ],
+    [
+      "cne_h041_q1",
+      "I am a vocabulary",
+      "Chinese characters are interesting but hard to write",
+      "It's funny but hard to write. Which one is the right one?"
+    ],
+    [
+      "cne_h041_q1",
+      "Please flood the accent",
+      "Chinese characters are interesting but hard to write",
+      "It's funny but hard to write. Which one is the right one?"
+    ],
+    [
+      "cne_h041_q2",
+      "Dialect is a medal",
+      "Can you speak your local dialect",
+      "I wonder if they speak native language. Which one is appropriate?"
+    ],
+    [
+      "cne_h041_q2",
+      "Speak ate the accent",
+      "Can you speak your local dialect",
+      "I wonder if they speak native language. Which one is appropriate?"
+    ],
+    [
+      "cne_h041_q2",
+      "You are a character",
+      "Can you speak your local dialect",
+      "I wonder if they speak native language. Which one is appropriate?"
+    ],
+    [
+      "cne_h041_q3",
+      "Say ate the word",
+      "Could you say that again more slowly",
+      "He's got a heavy accent. You don't understand. What kind of manner?"
+    ],
+    [
+      "cne_h041_q3",
+      "I drought your dialect",
+      "Could you say that again more slowly",
+      "He's got a heavy accent. You don't understand. What kind of manner?"
+    ],
+    [
+      "cne_h041_q4",
+      "Reading ate the dialect",
+      "Reading helps you build your vocabulary",
+      "Which sentence would be appropriate to explain the need to expand the vocabulary?"
+    ],
+    [
+      "cne_h041_q4",
+      "Please earthquake the word",
+      "Reading helps you build your vocabulary",
+      "Which sentence would be appropriate to explain the need to expand the vocabulary?"
+    ],
+    [
+      "cne_h044_q3",
+      "However the locker passed",
+      "My plan for learning Chinese is simple",
+      "Which sentence would fit as the first sentence of the plan?"
+    ],
+    [
+      "cne_h049_q1",
+      "Please flood the relic",
+      "I think the ancient temple should be preserved",
+      "Which one is appropriate to say that the temple should be protected?"
+    ],
+    [
+      "cne_h049_q2",
+      "Damage is a coach",
+      "The damage comes from visitors cutting the walls",
+      "Which one is the right one to say that the damage came from tourists?"
+    ],
+    [
+      "cne_h049_q2",
+      "Visitors are earthquakes",
+      "The damage comes from visitors cutting the walls",
+      "Which one is the right one to say that the damage came from tourists?"
+    ],
+    [
+      "cne_h049_q2",
+      "Walls ate the site",
+      "The damage comes from visitors cutting the walls",
+      "Which one is the right one to say that the damage came from tourists?"
+    ],
+    [
+      "cne_h049_q3",
+      "Your point ate the relic",
+      "I see your point, but the site is worth it",
+      "They think it's too expensive to fix it, and you agree in part. What should we answer?"
+    ],
+    [
+      "cne_h049_q3",
+      "I am a dynasty",
+      "I see your point, but the site is worth it",
+      "They think it's too expensive to fix it, and you agree in part. What should we answer?"
+    ],
+    [
+      "cne_h049_q3",
+      "Worth is a locker",
+      "I see your point, but the site is worth it",
+      "They think it's too expensive to fix it, and you agree in part. What should we answer?"
+    ],
+    [
+      "cne_h049_q4",
+      "Visitors are droughts",
+      "We could make rules for visitors",
+      "Which one would be appropriate to recommend the establishment of a rules for visitors?"
+    ],
+    [
+      "cne_h051_q3",
+      "In conclusion the relic won",
+      "I suggest we protect the old city wall",
+      "Which sentence is appropriate as the first sentence of the recommendation?"
+    ],
+    [
+      "cne_h051_q3",
+      "Therefore eat the site",
+      "I suggest we protect the old city wall",
+      "Which sentence is appropriate as the first sentence of the recommendation?"
+    ],
+    [
+      "cne_h051_q3",
+      "However the medal passed",
+      "I suggest we protect the old city wall",
+      "Which sentence is appropriate as the first sentence of the recommendation?"
+    ],
+    [
+      "cne_h056_q1",
+      "Protected is a hunter",
+      "The antelopes are being protected in the reserve",
+      "What's the right one to say that the hideaway is being protected?"
+    ],
+    [
+      "cne_h056_q1",
+      "Please extinct the plain",
+      "The antelopes are being protected in the reserve",
+      "What's the right one to say that the hideaway is being protected?"
+    ],
+    [
+      "cne_h056_q2",
+      "Danger ate the plain",
+      "Hunters are the main danger to this species",
+      "Which one is appropriate to show that hunting is a dangerous source?"
+    ],
+    [
+      "cne_h056_q2",
+      "Species is a medal",
+      "Hunters are the main danger to this species",
+      "Which one is appropriate to show that hunting is a dangerous source?"
+    ],
+    [
+      "cne_h056_q3",
+      "Agree is extinct",
+      "I don't agree, because the numbers are rising",
+      "They say the reserves are useless. You disagree. What should I answer?"
+    ],
+    [
+      "cne_h056_q3",
+      "Rising is a locker",
+      "I don't agree, because the numbers are rising",
+      "They say the reserves are useless. You disagree. What should I answer?"
+    ],
+    [
+      "cne_h056_q4",
+      "Buy is a reserve",
+      "Please do not buy products made from wild animals",
+      "Which one is appropriate to suggest that people should not buy wildlife products?"
+    ],
+    [
+      "cne_h056_q4",
+      "Products ate the hunter",
+      "Please do not buy products made from wild animals",
+      "Which one is appropriate to suggest that people should not buy wildlife products?"
+    ],
+    [
+      "cne_h056_q4",
+      "Do not is a plain",
+      "Please do not buy products made from wild animals",
+      "Which one is appropriate to suggest that people should not buy wildlife products?"
+    ],
+    [
+      "cne_h058_q3",
+      "Antelope ate the hunter",
+      "Protect the endangered antelope",
+      "Which one would fit as a poster title?"
+    ],
+    [
+      "cne_h058_q3",
+      "In conclusion buy fur",
+      "Protect the endangered antelope",
+      "Which one would fit as a poster title?"
+    ],
+    [
+      "cne_h058_q3",
+      "Therefore flood the plain",
+      "Protect the endangered antelope",
+      "Which one would fit as a poster title?"
+    ],
+    [
+      "cne_h063_q1",
+      "Password is a blog",
+      "Never post your password online",
+      "Which one is appropriate?"
+    ],
+    [
+      "cne_h063_q1",
+      "Please privacy the comment",
+      "Never post your password online",
+      "Which one is appropriate?"
+    ],
+    [
+      "cne_h063_q2",
+      "Deleted is an identity",
+      "The rude comment has been deleted",
+      "Which sentence would be appropriate to say that the commentary has been deleted?"
+    ],
+    [
+      "cne_h063_q2",
+      "Comment ate the password",
+      "The rude comment has been deleted",
+      "Which sentence would be appropriate to say that the commentary has been deleted?"
+    ],
+    [
+      "cne_h063_q3",
+      "Privacy is a stadium",
+      "I use a nickname to protect my privacy",
+      "They asked why they used nicknames, which one would be appropriate?"
+    ],
+    [
+      "cne_h063_q3",
+      "I protect because password",
+      "I use a nickname to protect my privacy",
+      "They asked why they used nicknames, which one would be appropriate?"
+    ],
+    [
+      "cne_h063_q4",
+      "Identity is online eating",
+      "Check the person's identity before you add them",
+      "Which one would be appropriate if you wanted to suggest to the other party that they check their identities before adding friends?"
+    ],
+    [
+      "cne_h063_q4",
+      "Add them before never",
+      "Check the person's identity before you add them",
+      "Which one would be appropriate if you wanted to suggest to the other party that they check their identities before adding friends?"
+    ],
+    [
+      "cne_h063_q4",
+      "Check ate the blog",
+      "Check the person's identity before you add them",
+      "Which one would be appropriate if you wanted to suggest to the other party that they check their identities before adding friends?"
+    ],
+    [
+      "cne_h065_q3",
+      "Identity ate the blog",
+      "Keep your identity safe online",
+      "Which sentence would fit the title of the reminder?"
+    ],
+    [
+      "cne_h065_q3",
+      "In conclusion post the password",
+      "Keep your identity safe online",
+      "Which sentence would fit the title of the reminder?"
+    ],
+    [
+      "cne_h065_q3",
+      "Therefore flood the comment",
+      "Keep your identity safe online",
+      "Which sentence would fit the title of the reminder?"
+    ],
+    [
+      "cne_h070_q1",
+      "Ancestors ate the kingdom",
+      "On Qingming people honour their ancestors",
+      "Which one is appropriate to introduce the custom of the memory of your ancestors?"
+    ],
+    [
+      "cne_h070_q1",
+      "Honour is a battle",
+      "On Qingming people honour their ancestors",
+      "Which one is appropriate to introduce the custom of the memory of your ancestors?"
+    ],
+    [
+      "cne_h070_q1",
+      "Please poem the gathering",
+      "On Qingming people honour their ancestors",
+      "Which one is appropriate to introduce the custom of the memory of your ancestors?"
+    ],
+    [
+      "cne_h070_q3",
+      "Gathering is a castle",
+      "I support keeping this gathering",
+      "Which line would be appropriate to express their support for keeping this gathering?"
+    ],
+    [
+      "cne_h070_q3",
+      "Support ate the custom",
+      "I support keeping this gathering",
+      "Which line would be appropriate to express their support for keeping this gathering?"
+    ],
+    [
+      "cne_h072_q3",
+      "Therefore eat the poem",
+      "Let me tell you about a local tradition",
+      "Which line would be the beginning of the introduction?"
+    ],
+    [
+      "cne_h072_q3",
+      "However the kingdom passed the quiz",
+      "Let me tell you about a local tradition",
+      "Which line would be the beginning of the introduction?"
+    ],
+    [
+      "cne_h079_q1",
+      "Stage is a password",
+      "The band is performing on the stage",
+      "What's the right one?"
+    ],
+    [
+      "cne_h079_q2",
+      "Concert ate the composer",
+      "Shall we go to the classical concert",
+      "What's the right one to invite your classmates to a classical concert?"
+    ],
+    [
+      "cne_h079_q2",
+      "Shall is an instrument",
+      "Shall we go to the classical concert",
+      "What's the right one to invite your classmates to a classical concert?"
+    ],
+    [
+      "cne_h079_q3",
+      "Smiling sat the song",
+      "The audience sat there, smiling",
+      "Which one is appropriate to describe the audience's smile while listening?"
+    ],
+    [
+      "cne_h079_q3",
+      "The audience smiling ate",
+      "The audience sat there, smiling",
+      "Which one is appropriate to describe the audience's smile while listening?"
+    ],
+    [
+      "cne_h081_q3",
+      "Band ate the rhythm",
+      "Student band on stage this Friday",
+      "Which sentence would fit as the title of the notice?"
+    ],
+    [
+      "cne_h081_q3",
+      "In conclusion buy a drum",
+      "Student band on stage this Friday",
+      "Which sentence would fit as the title of the notice?"
+    ],
+    [
+      "cne_h081_q3",
+      "Therefore flood the audience",
+      "Student band on stage this Friday",
+      "Which sentence would fit as the title of the notice?"
+    ],
+    [
+      "cne_h087_q1",
+      "Lanterns ate the lunar calendar",
+      "During the Lantern Festival people watch lanterns",
+      "I want to introduce you to the lantern at the New Year's Eve. Which one is appropriate?"
+    ],
+    [
+      "cne_h087_q1",
+      "Watch is a feast",
+      "During the Lantern Festival people watch lanterns",
+      "I want to introduce you to the lantern at the New Year's Eve. Which one is appropriate?"
+    ],
+    [
+      "cne_h087_q1",
+      "Please origin the firework",
+      "During the Lantern Festival people watch lanterns",
+      "I want to introduce you to the lantern at the New Year's Eve. Which one is appropriate?"
+    ],
+    [
+      "cne_h087_q3",
+      "Origin ate the moon",
+      "The origin of the festival is connected with the moon",
+      "Which line is appropriate to explain the origin of this festival and the relevance of the moon?"
+    ],
+    [
+      "cne_h087_q3",
+      "Connected is a firework",
+      "The origin of the festival is connected with the moon",
+      "Which line is appropriate to explain the origin of this festival and the relevance of the moon?"
+    ],
+    [
+      "cne_h087_q3",
+      "Moon is used to origin",
+      "The origin of the festival is connected with the moon",
+      "Which line is appropriate to explain the origin of this festival and the relevance of the moon?"
+    ],
+    [
+      "cne_h087_q4",
+      "Classroom is a firework",
+      "Let's decorate the classroom with lanterns",
+      "Which one would be appropriate to suggest the use of lanterns to decorate the classroom?"
+    ],
+    [
+      "cne_h089_q3",
+      "Therefore eat the lantern",
+      "Let me introduce a festival in my hometown",
+      "Which sentence would fit as the first sentence of the introduction?"
+    ],
+    [
+      "cne_h089_q3",
+      "However the feast passed",
+      "Let me introduce a festival in my hometown",
+      "Which sentence would fit as the first sentence of the introduction?"
+    ],
+    [
+      "cne_h094_q1",
+      "Return is a virtue only yesterday",
+      "It was honest of you to return the wallet",
+      "I want to pay tribute to my classmates for the honesty of handing over their wallets."
+    ],
+    [
+      "cne_h094_q1",
+      "You are a duty",
+      "It was honest of you to return the wallet",
+      "I want to pay tribute to my classmates for the honesty of handing over their wallets."
+    ],
+    [
+      "cne_h094_q3",
+      "Virtue is a wallet",
+      "Respect for others is a virtue",
+      "Which one would be appropriate if you wanted to show respect for others?"
+    ],
+    [
+      "cne_h094_q3",
+      "Please duty the kindness",
+      "Respect for others is a virtue",
+      "Which one would be appropriate if you wanted to show respect for others?"
+    ],
+    [
+      "cne_h094_q4",
+      "Responsible ate the error",
+      "That was responsible of you",
+      "What should I answer?"
+    ],
+    [
+      "cne_h094_q4",
+      "You are used to error",
+      "That was responsible of you",
+      "What should I answer?"
+    ],
+    [
+      "cne_h096_q3",
+      "Therefore eat the duty",
+      "Mei made a choice that shows kindness",
+      "Which sentence would fit as the first sentence of the commentary?"
+    ],
+    [
+      "cne_h096_q3",
+      "However the courage passed",
+      "Mei made a choice that shows kindness",
+      "Which sentence would fit as the first sentence of the commentary?"
+    ],
+    [
+      "cne_h101_q1",
+      "Different is a belief",
+      "The costumes in this region are different from those in my hometown",
+      "What's the right line to say that the dress in this area is different from what it is in your own country?"
+    ],
+    [
+      "cne_h101_q1",
+      "Please minority the cuisine",
+      "The costumes in this region are different from those in my hometown",
+      "What's the right line to say that the dress in this area is different from what it is in your own country?"
+    ],
+    [
+      "cne_h101_q3",
+      "Photos ate the belief",
+      "Could you tell me if I may take photos",
+      "I'd like to ask politely whether a faith can take a picture. Which one is appropriate?"
+    ],
+    [
+      "cne_h101_q4",
+      "Greeting means no person",
+      "A different greeting does not mean less respect",
+      "To say that the different greeting does not mean that there is no respect. Which one is appropriate?"
+    ],
+    [
+      "cne_h101_q4",
+      "Respect ate the region",
+      "A different greeting does not mean less respect",
+      "To say that the different greeting does not mean that there is no respect. Which one is appropriate?"
+    ],
+    [
+      "cne_h101_q4",
+      "Different is rude always",
+      "A different greeting does not mean less respect",
+      "To say that the different greeting does not mean that there is no respect. Which one is appropriate?"
+    ],
+    [
+      "cne_h103_q3",
+      "Therefore eat the cuisine",
+      "Today I learned about a local ethnic group",
+      "Which one is appropriate for the first sentence of the note?"
+    ],
+    [
+      "cne_h103_q3",
+      "However the greeting passed",
+      "Today I learned about a local ethnic group",
+      "Which one is appropriate for the first sentence of the note?"
+    ],
+    [
+      "cne_h108_q4",
+      "Watch ate the universe",
+      "Shall we watch the rocket launch",
+      "Which one would be appropriate if you wanted to invite your classmates to watch the rocket launch?"
+    ],
+    [
+      "cne_h108_q4",
+      "Shall is gravity",
+      "Shall we watch the rocket launch",
+      "Which one would be appropriate if you wanted to invite your classmates to watch the rocket launch?"
+    ],
+    [
+      "cne_h110_q3",
+      "Mission ate the orbit",
+      "What I learned about the mission",
+      "Which one is appropriate for the headline of the notes?"
+    ],
+    [
+      "cne_h110_q3",
+      "In conclusion buy a rocket",
+      "What I learned about the mission",
+      "Which one is appropriate for the headline of the notes?"
+    ],
+    [
+      "cne_h110_q3",
+      "Therefore flood the planet",
+      "What I learned about the mission",
+      "Which one is appropriate for the headline of the notes?"
+    ],
+    [
+      "cne_h115_q1",
+      "Bargain ate the budget",
+      "This bargain is not worth buying",
+      "What's the right one?"
+    ],
+    [
+      "cne_h115_q4",
+      "Charity ate the debt",
+      "Giving some money to charity is of greater value",
+      "Which one would be appropriate if you wanted to show that some of the money was more valuable to charity?"
+    ],
+    [
+      "cne_h115_q4",
+      "Value is a bargain only",
+      "Giving some money to charity is of greater value",
+      "Which one would be appropriate if you wanted to show that some of the money was more valuable to charity?"
+    ],
+    [
+      "cne_h115_q4",
+      "Greater money gives charity ate",
+      "Giving some money to charity is of greater value",
+      "Which one would be appropriate if you wanted to show that some of the money was more valuable to charity?"
+    ],
+    [
+      "cne_h117_q3",
+      "Therefore eat the budget",
+      "I learned a lesson about value",
+      "Which sentence is appropriate as the first sentence of reflection?"
+    ],
+    [
+      "cne_h117_q3",
+      "However the debt passed the quiz",
+      "I learned a lesson about value",
+      "Which sentence is appropriate as the first sentence of reflection?"
+    ],
+    [
+      "cne_h122_q1",
+      "Please theory the genius",
+      "She devoted her life to research",
+      "What's the right one for her to dedicate her life to research?"
+    ],
+    [
+      "cne_h122_q4",
+      "Next ate the career",
+      "Next, he published the theory",
+      "Which one would be appropriate as a second step if you wanted to introduce people in a step?"
+    ],
+    [
+      "cne_h122_q4",
+      "Theory is a locker",
+      "Next, he published the theory",
+      "Which one would be appropriate as a second step if you wanted to introduce people in a step?"
+    ],
+    [
+      "cne_h124_q3",
+      "Therefore flood the theory",
+      "This paragraph introduces a scientist",
+      "Which sentence would fit as the first sentence of the introduction?"
+    ],
+    [
+      "cne_h124_q3",
+      "However the genius passed the quiz",
+      "This paragraph introduces a scientist",
+      "Which sentence would fit as the first sentence of the introduction?"
+    ],
+    [
+      "cne_h129_q1",
+      "First ate the robot",
+      "First, the sensor checks the food",
+      "What's the right line to take as a first step?"
+    ],
+    [
+      "cne_h129_q1",
+      "Sensor is a prize",
+      "First, the sensor checks the food",
+      "What's the right line to take as a first step?"
+    ],
+    [
+      "cne_h129_q1",
+      "Please predict the appliance",
+      "First, the sensor checks the food",
+      "What's the right line to take as a first step?"
+    ],
+    [
+      "cne_h131_q3",
+      "Second ate the robot",
+      "Second, check whether the network is on",
+      "Which sentence would fit the second sentence as a step?"
+    ],
+    [
+      "cne_h136_q2",
+      "Feed is a wetland",
+      "Feeding animals is prohibited",
+      "Which one is the right one?"
+    ],
+    [
+      "cne_h136_q2",
+      "Please ecology the trail",
+      "Feeding animals is prohibited",
+      "Which one is the right one?"
+    ],
+    [
+      "cne_h138_q3",
+      "Wetland ate the ranger",
+      "How to visit the wetland",
+      "Which line would fit as the title of the note?"
+    ],
+    [
+      "cne_h138_q3",
+      "In conclusion buy binoculars",
+      "How to visit the wetland",
+      "Which line would fit as the title of the note?"
+    ],
+    [
+      "cne_h138_q3",
+      "Therefore flood the boundary",
+      "How to visit the wetland",
+      "Which line would fit as the title of the note?"
+    ],
+    [
+      "cne_h143_q1",
+      "Nod ate the distance",
+      "A nod often means agreement",
+      "Which one would be appropriate if you wanted to say no to what they always agreed?"
+    ],
+    [
+      "cne_h143_q1",
+      "Agreement is a frown",
+      "A nod often means agreement",
+      "Which one would be appropriate if you wanted to say no to what they always agreed?"
+    ],
+    [
+      "cne_h143_q1",
+      "Please posture the contact",
+      "A nod often means agreement",
+      "Which one would be appropriate if you wanted to say no to what they always agreed?"
+    ],
+    [
+      "cne_h143_q4",
+      "Comfortable is a nod",
+      "Please keep a comfortable distance",
+      "Which one is the right one to remind each other that they're too close?"
+    ],
+    [
+      "cne_h145_q3",
+      "Gestures ate the frown",
+      "I watched how people used gestures",
+      "Which one is appropriate for the first sentence of the note?"
+    ],
+    [
+      "cne_h145_q3",
+      "In conclusion buy a nod",
+      "I watched how people used gestures",
+      "Which one is appropriate for the first sentence of the note?"
+    ],
+    [
+      "cne_h145_q3",
+      "Therefore flood the posture",
+      "I watched how people used gestures",
+      "Which one is appropriate for the first sentence of the note?"
+    ],
+    [
+      "cne_h150_q3",
+      "Please soil the organic",
+      "Organic fertilizer may increase the yield",
+      "Which one would be appropriate to indicate that organic fertilizer could increase production?"
+    ],
+    [
+      "cne_h152_q3",
+      "In conclusion buy fertilizer",
+      "Here is the plan for the harvest",
+      "Which sentence would fit the first sentence of the arrangement?"
+    ],
+    [
+      "cne_h152_q3",
+      "Therefore flood the soil",
+      "Here is the plan for the harvest",
+      "Which sentence would fit the first sentence of the arrangement?"
+    ],
+    [
+      "cne_h157_q3",
+      "Data ate the hypothesis",
+      "The data are not enough to support the hypothesis",
+      "Which one is appropriate to point out that the data are not sufficient?"
+    ],
+    [
+      "cne_h157_q3",
+      "Enough is a variable",
+      "The data are not enough to support the hypothesis",
+      "Which one is appropriate to point out that the data are not sufficient?"
+    ],
+    [
+      "cne_h157_q3",
+      "Please sample the method",
+      "The data are not enough to support the hypothesis",
+      "Which one is appropriate to point out that the data are not sufficient?"
+    ],
+    [
+      "cne_h159_q3",
+      "In conclusion buy a sample",
+      "The hypothesis is interesting but not fully proved",
+      "Which sentence would fit as the first sentence of the commentary?"
+    ],
+    [
+      "cne_h159_q3",
+      "Therefore flood the method",
+      "The hypothesis is interesting but not fully proved",
+      "Which sentence would fit as the first sentence of the commentary?"
+    ],
+    [
+      "cne_h166_q3",
+      "In conclusion buy clothes",
+      "I misunderstood a custom at dinner",
+      "Which sentence is appropriate as the first sentence of reflection?"
+    ],
+    [
+      "cne_h166_q3",
+      "Therefore flood the exchange",
+      "I misunderstood a custom at dinner",
+      "Which sentence is appropriate as the first sentence of reflection?"
+    ],
+    [
+      "cne_h171_q3",
+      "Chopsticks are a flavour",
+      "It is good manners not to point with chopsticks",
+      "I'd like to introduce you to the chopstick. Which one is appropriate?"
+    ],
+    [
+      "cne_h171_q3",
+      "Please appetite the spice",
+      "It is good manners not to point with chopsticks",
+      "I'd like to introduce you to the chopstick. Which one is appropriate?"
+    ],
+    [
+      "cne_h173_q3",
+      "Banquet ate the spice",
+      "This paragraph describes one banquet",
+      "Which sentence would fit as the first sentence of the note?"
+    ],
+    [
+      "cne_h173_q3",
+      "In conclusion buy chopsticks",
+      "This paragraph describes one banquet",
+      "Which sentence would fit as the first sentence of the note?"
+    ],
+    [
+      "cne_h173_q3",
+      "Therefore flood the recipe",
+      "This paragraph describes one banquet",
+      "Which sentence would fit as the first sentence of the note?"
+    ],
+    [
+      "cne_h179_q3",
+      "Boundless ate the carriage",
+      "The plain looked boundless",
+      "Which one is the right one to describe the endless plain?"
+    ],
+    [
+      "cne_h179_q3",
+      "Plain is a delay",
+      "The plain looked boundless",
+      "Which one is the right one to describe the endless plain?"
+    ],
+    [
+      "cne_h179_q3",
+      "Please awesome the rail",
+      "The plain looked boundless",
+      "Which one is the right one to describe the endless plain?"
+    ],
+    [
+      "cne_h179_q4",
+      "The frost is your fault always",
+      "I am sorry the train is delayed",
+      "Which one is appropriate?"
+    ],
+    [
+      "cne_h186_q1",
+      "First ate the bandage",
+      "First, put pressure on the wound",
+      "Which one would be appropriate if you wanted to press the wound?"
+    ],
+    [
+      "cne_h186_q1",
+      "Pressure is an ambulance",
+      "First, put pressure on the wound",
+      "Which one would be appropriate if you wanted to press the wound?"
+    ],
+    [
+      "cne_h186_q1",
+      "Please choke the swelling",
+      "First, put pressure on the wound",
+      "Which one would be appropriate if you wanted to press the wound?"
+    ],
+    [
+      "cne_h186_q4",
+      "At once is a wound",
+      "If someone is choking, call an ambulance at once",
+      "Which one would be appropriate if you wanted to suggest immediate recourse when suffocation took place?"
+    ],
+    [
+      "cne_h188_q3",
+      "In conclusion buy pressure",
+      "Follow these steps when someone is bleeding",
+      "Which sentence is appropriate as the first sentence of the step?"
+    ],
+    [
+      "cne_h188_q3",
+      "Therefore flood the ambulance",
+      "Follow these steps when someone is bleeding",
+      "Which sentence is appropriate as the first sentence of the step?"
+    ],
+    [
+      "cne_h193_q3",
+      "Abstract ate the canvas",
+      "The painting is abstract rather than realistic",
+      "Which one is appropriate?"
+    ],
+    [
+      "cne_h193_q3",
+      "Rather is a brush",
+      "The painting is abstract rather than realistic",
+      "Which one is appropriate?"
+    ],
+    [
+      "cne_h193_q3",
+      "Please gallery the visual",
+      "The painting is abstract rather than realistic",
+      "Which one is appropriate?"
+    ],
+    [
+      "cne_h193_q4",
+      "First ate the brush",
+      "First, look at the whole canvas",
+      "Which sentence would be appropriate as a first step to view the exhibition in a step-by-step manner?"
+    ],
+    [
+      "cne_h193_q4",
+      "Canvas is an exhibition",
+      "First, look at the whole canvas",
+      "Which sentence would be appropriate as a first step to view the exhibition in a step-by-step manner?"
+    ],
+    [
+      "cne_h195_q3",
+      "In conclusion buy a sculpture",
+      "This note records one visit to a gallery",
+      "Which one is appropriate for the first sentence of the note?"
+    ],
+    [
+      "cne_h195_q3",
+      "Therefore flood the exhibition",
+      "This note records one visit to a gallery",
+      "Which one is appropriate for the first sentence of the note?"
+    ],
+    [
+      "cne_h200_q4",
+      "Please balance the stress word",
+      "A short walk can refresh you and reduce anxiety",
+      "Which one is appropriate to suggest walking to ease anxiety?"
+    ],
+    [
+      "cne_h202_q3",
+      "Therefore flood the nutrition",
+      "A balanced routine can reduce stress",
+      "Which sentence is appropriate as the first sentence of the recommendation?"
+    ],
+    [
+      "cne_h207_q2",
+      "The drought it was forced people",
+      "It was the drought that forced people to move",
+      "What's the appropriate sentence to say that drought forces people to move?"
+    ],
+    [
+      "cne_h207_q2",
+      "Forced the drought people that",
+      "It was the drought that forced people to move",
+      "What's the appropriate sentence to say that drought forces people to move?"
+    ],
+    [
+      "cne_h207_q3",
+      "Sustainable ate the carbon",
+      "The policy should be sustainable",
+      "What is the appropriate sentence to suggest that policies should be sustainable?"
+    ],
+    [
+      "cne_h207_q3",
+      "Policy is a melt",
+      "The policy should be sustainable",
+      "What is the appropriate sentence to suggest that policies should be sustainable?"
+    ],
+    [
+      "cne_h207_q3",
+      "Please emission the drought",
+      "The policy should be sustainable",
+      "What is the appropriate sentence to suggest that policies should be sustainable?"
+    ],
+    [
+      "cne_h209_q3",
+      "Evidence ate the carbon",
+      "The evidence points to policy, not only to weather",
+      "Which sentence would fit as the first sentence of the commentary?"
+    ],
+    [
+      "cne_h209_q3",
+      "In conclusion buy emissions",
+      "The evidence points to policy, not only to weather",
+      "Which sentence would fit as the first sentence of the commentary?"
+    ],
+    [
+      "cne_h209_q3",
+      "Therefore flood the lake",
+      "The evidence points to policy, not only to weather",
+      "Which sentence would fit as the first sentence of the commentary?"
+    ],
+    [
+      "cne_h214_q3",
+      "Hope ate the ordeal",
+      "Perseverance gave them hope",
+      "What's the right one?"
+    ],
+    [
+      "cne_h214_q3",
+      "Please despair the crew",
+      "Perseverance gave them hope",
+      "What's the right one?"
+    ],
+    [
+      "cne_h216_q3",
+      "Adversity ate the crew",
+      "The story shows courage in adversity",
+      "Which one fits as the first sentence of the post-reading sense?"
+    ],
+    [
+      "cne_h216_q3",
+      "In conclusion buy hope",
+      "The story shows courage in adversity",
+      "Which one fits as the first sentence of the post-reading sense?"
+    ],
+    [
+      "cne_h216_q3",
+      "Therefore flood the island",
+      "The story shows courage in adversity",
+      "Which one fits as the first sentence of the post-reading sense?"
+    ],
+    [
+      "cne_h221_q3",
+      "Metaphor ate the rhyme",
+      "The metaphor carries the emotion of the verse",
+      "What's the appropriate one to show that metaphors express emotions?"
+    ],
+    [
+      "cne_h221_q3",
+      "Emotion is a canvas",
+      "The metaphor carries the emotion of the verse",
+      "What's the appropriate one to show that metaphors express emotions?"
+    ],
+    [
+      "cne_h221_q3",
+      "Please recite the imagery word",
+      "The metaphor carries the emotion of the verse",
+      "What's the appropriate one to show that metaphors express emotions?"
+    ],
+    [
+      "cne_h223_q3",
+      "In conclusion buy a verse",
+      "The poem uses quiet imagery and a strong rhythm",
+      "Which one would be the first line of appreciation?"
+    ],
+    [
+      "cne_h223_q3",
+      "Therefore flood the metaphor",
+      "The poem uses quiet imagery and a strong rhythm",
+      "Which one would be the first line of appreciation?"
+    ],
+    [
+      "cne_h230_q3",
+      "In conclusion buy a clone",
+      "This science fiction follows an android on a spacecraft",
+      "Which sentence is appropriate as the first sentence of the summary?"
+    ],
+    [
+      "cne_h230_q3",
+      "Therefore flood the dimension",
+      "This science fiction follows an android on a spacecraft",
+      "Which sentence is appropriate as the first sentence of the summary?"
+    ],
+    [
+      "cne_h235_q3",
+      "Tower is a guide",
+      "The tower is a landmark of the city",
+      "Which one is the right one?"
+    ],
+    [
+      "cne_h235_q3",
+      "Please statue the temple",
+      "The tower is a landmark of the city",
+      "Which one is the right one?"
+    ],
+    [
+      "cne_h237_q3",
+      "Landmark ate the queue",
+      "This walk starts at the city landmark",
+      "Which sentence would fit as the first sentence of the note?"
+    ],
+    [
+      "cne_h237_q3",
+      "In conclusion buy a statue",
+      "This walk starts at the city landmark",
+      "Which sentence would fit as the first sentence of the note?"
+    ],
+    [
+      "cne_h237_q3",
+      "Therefore flood the temple",
+      "This walk starts at the city landmark",
+      "Which sentence would fit as the first sentence of the note?"
+    ],
+    [
+      "cne_h244_q3",
+      "Tide ate the compass",
+      "Check the tide before the voyage",
+      "Which sentence would fit as the first sentence of the memo?"
+    ],
+    [
+      "cne_h244_q3",
+      "In conclusion buy an anchor",
+      "Check the tide before the voyage",
+      "Which sentence would fit as the first sentence of the memo?"
+    ],
+    [
+      "cne_h244_q3",
+      "Therefore flood the harbour",
+      "Check the tide before the voyage",
+      "Which sentence would fit as the first sentence of the memo?"
+    ],
+    [
+      "cne_h249_q3",
+      "Saturday is a shelter",
+      "Could you volunteer on Saturday",
+      "You want to ask your neighbor to help you on Saturday? Which one is appropriate?"
+    ],
+    [
+      "cne_h249_q3",
+      "Please donate the neighbour word",
+      "Could you volunteer on Saturday",
+      "You want to ask your neighbor to help you on Saturday? Which one is appropriate?"
+    ],
+    [
+      "cne_h251_q3",
+      "In conclusion buy a neighbour",
+      "We need volunteers for the community shelter",
+      "Which sentence would fit as the first sentence of the bulletin?"
+    ],
+    [
+      "cne_h251_q3",
+      "Therefore flood the charity",
+      "We need volunteers for the community shelter",
+      "Which sentence would fit as the first sentence of the bulletin?"
+    ],
+    [
+      "cne_h257_q3",
+      "Interview ate the deadline",
+      "Could I come for an interview before Friday",
+      "I'd like to ask politely if I can interview you by Friday. Which one is appropriate?"
+    ],
+    [
+      "cne_h257_q3",
+      "Friday is a résumé",
+      "Could I come for an interview before Friday",
+      "I'd like to ask politely if I can interview you by Friday. Which one is appropriate?"
+    ],
+    [
+      "cne_h257_q3",
+      "Please employ the word applicant",
+      "Could I come for an interview before Friday",
+      "I'd like to ask politely if I can interview you by Friday. Which one is appropriate?"
+    ]
+  ]
+}

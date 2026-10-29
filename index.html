@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>12Grades · Knowledge Graph</title>
+<meta name="description" content="Adaptive knowledge maps and diagnostics for math, Chinese, English, and physics from elementary school through high school. Follow prerequisite relationships to find learning gaps.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2032%2032%22%3E%3Cpath%20fill%3D%22%23dff3ef%22%20stroke%3D%22%230f6e62%22%20stroke-width%3D%221.7%22%20stroke-linejoin%3D%22round%22%20d%3D%22M6.6%204.8H17L27.4%2015.2V25Q27.4%2027.4%2025.2%2027.4H6.6Q4.4%2027.4%204.4%2025.2V7Q4.4%204.8%206.6%204.8Z%22%2F%3E%3Cpath%20fill%3D%22%23ffffff%22%20d%3D%22M17.7%206.3%2026.1%2014.7H17.7Z%22%2F%3E%3Cpath%20fill%3D%22none%22%20stroke%3D%22%230f6e62%22%20stroke-width%3D%221.35%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20d%3D%22M17.7%206.3V14.7H26.1%22%2F%3E%3Cpath%20fill%3D%22none%22%20stroke%3D%22%230f6e62%22%20stroke-width%3D%222.15%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20d%3D%22M8.3%2024.2H12.4Q14.2%2024.2%2014.2%2022.4V20.2Q14.2%2018.6%2016%2018.6H18.8%22%2F%3E%3Cpath%20fill%3D%22%230f6e62%22%20d%3D%22M18.5%2016.85%2023%2018.6%2018.5%2020.35Z%22%2F%3E%3C%2Fsvg%3E">
+<script>
+(function () {
+  var id = location.hash.replace(/^#/, '');
+  try { id = decodeURIComponent(id); } catch (e) { return; }
+  if (/^cnm_[A-Za-z0-9]+$/.test(id)) {
+    document.documentElement.style.visibility = 'hidden';
+    location.replace('explore/#' + encodeURIComponent(id));
+  } else if (/^cne_[A-Za-z0-9]+$/.test(id)) {
+    document.documentElement.style.visibility = 'hidden';
+    location.replace('explore/?subject=english#' + encodeURIComponent(id));
+  } else if (/^cnp_[A-Za-z0-9]+$/.test(id)) {
+    document.documentElement.style.visibility = 'hidden';
+    location.replace('explore/?subject=physics#' + encodeURIComponent(id));
+  } else if (/^cnc_[A-Za-z0-9]+$/.test(id)) {
+    document.documentElement.style.visibility = 'hidden';
+    location.replace('explore/?subject=chinese#' + encodeURIComponent(id));
+  }
+})();
+</script>
+<link rel="stylesheet" href="assets/site.css">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#0f6e62">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Knowledge Graph">
+<link rel="stylesheet" href="assets/pwa.css">
+</head>
+<body class="page-home">
+<a class="top-banner" href="https://12grades.gungwang.com/?from=math-top" target="_blank" rel="noopener">🧠 IQ Test for Kids</a>
+<header class="site-header">
+  <a class="brand" href="./">
+    <svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><path fill="var(--logo-sheet)" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" d="M6.6 4.8H17L27.4 15.2V25Q27.4 27.4 25.2 27.4H6.6Q4.4 27.4 4.4 25.2V7Q4.4 4.8 6.6 4.8Z"/><path fill="var(--logo-fold)" d="M17.7 6.3 26.1 14.7H17.7Z"/><path fill="none" stroke="currentColor" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round" d="M17.7 6.3V14.7H26.1"/><path fill="none" stroke="currentColor" stroke-width="2.15" stroke-linecap="round" stroke-linejoin="round" d="M8.3 24.2H12.4Q14.2 24.2 14.2 22.4V20.2Q14.2 18.6 16 18.6H18.8"/><path fill="currentColor" d="M18.5 16.85 23 18.6 18.5 20.35Z"/></svg>
+    <span class="brand-copy">
+      <span class="brand-name">12Grades Knowledge Graph</span>
+      <span class="brand-kicker">Learning Paths</span>
+    </span>
+  </a>
+  <nav class="site-nav" aria-label="Primary navigation">
+    <div class="subject-switch" role="group" aria-label="Subjects">
+      <a class="nav-link subject-link on" data-subject="math" href="./">Math</a>
+      <a class="nav-link subject-link" data-subject="chinese" href="./?subject=chinese">Chinese</a>
+      <a class="nav-link subject-link" data-subject="english" href="./?subject=english">English</a>
+      <a class="nav-link subject-link" data-subject="physics" href="./?subject=physics">Physics</a>
+    </div>
+    <div class="page-links">
+      <a class="nav-link active" href="./" aria-current="page">Home</a>
+      <a class="nav-link" href="explore/">Knowledge Graph</a>
+      <a class="nav-link" href="diagnose/">Diagnostics</a>
+      <a class="nav-link" href="children/">Profiles</a>
+        <svg class="resource-search-ico" viewBox="0 0 16 16" aria-hidden="true"><path fill="currentColor" d="M11.5 10.4a5.5 5.5 0 1 0-1.1 1.1l3 3a.75.75 0 0 0 1.06-1.06zM7 11.5A4.5 4.5 0 1 1 7 2.5a4.5 4.5 0 0 1 0 9z"/></svg>Resource Search
+      </a>
+    </div>
+  </nav>
+</header>
+<main class="home">
+  <section class="hero">
+    <p class="eyebrow">Math: elementary through high school · Chinese: Grades 1–6 · English: Grade 3 through high school · Physics: middle school through high school</p>
+    <h1>Find the exact step you haven't mastered yet</h1>
+    <p class="lede">Adaptive questions follow prerequisite relationships. Math spans elementary through high school, Chinese covers Grades 1–6, English covers Grade 3 through high school, and physics covers middle and high school. Start from a topic you choose to trace learning gaps back to their roots, then get a study path in learning order.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary btn-lg" href="diagnose/">Start a Diagnostic</a>
+      <a class="btn btn-lg" href="explore/">Explore the Knowledge Graph</a>
+    </div>
+    <p class="quiet-link"><a href="diagnose/?target=cnm_221&amp;demo=1">Preview a demo: Completing the Square</a></p>
+  </section>
+
+  <h2 class="section-title">Three Steps</h2>
+  <ol class="steps">
+    <li>
+      <span class="step-no">1</span>
+      <h3>Choose a Topic</h3>
+      <p>Math spans Grade 1 through high school; Chinese covers Grades 1–6; English covers Grade 3 through high school; and physics covers middle school through high school. Search or browse by volume and chapter to find what you want to check.</p>
+    </li>
+    <li>
+      <span class="step-no">2</span>
+      <h3>Answer Adaptive Questions</h3>
+      <p>Questions start with your target. If you answer incorrectly, the next question is at the same or an easier level; if you miss that one too, the diagnostic traces back through prerequisites.</p>
+    </li>
+    <li>
+      <span class="step-no">3</span>
+      <h3>Find Root Gaps and a Study Path</h3>
+      <p>See foundational gaps and topics that need reinforcement, then follow a recommended study sequence from earlier to later grades.</p>
+    </li>
+  </ol>
+
+  <h2 class="section-title">What's in the Graph</h2>
+  <div class="stat-grid" id="stats">
+    <div class="stat-card"><div class="stat-num" id="n-topics">…</div><div class="stat-label">Topics</div></div>
+    <div class="stat-card"><div class="stat-num" id="n-edges">…</div><div class="stat-label">Prerequisite Links</div></div>
+    <div class="stat-card"><div class="stat-num" id="n-questions">…</div><div class="stat-label">Questions</div></div>
+    <div class="stat-card"><div class="stat-num" id="n-standards">…</div><div class="stat-label">Standards</div></div>
+  </div>
+  <p class="stat-note">Counts are calculated when the page loads from the selected subject's topics, prerequisites, question bank, and standards. The default subject is Math.</p>
+  <div id="load-error" class="load-error" hidden></div>
+
+  <h2 class="section-title">Browse by Grade</h2>
+  <div class="grade-grid" id="grades" aria-busy="true"></div>
+  <a class="iq-card" href="https://12grades.gungwang.com/?from=math-home" target="_blank" rel="noopener">
+    <strong>🧠 IQ Test for Kids</strong>
+    <span class="iq-sub">Patterns · Complete the Picture · Spatial Reasoning</span>
+    <span class="iq-note">A fun assessment, separate from the math diagnostic</span>
+  </a>
+</main>
+<footer class="site-footer">
+</footer>
+<script src="assets/home.js"></script>
+<script src="assets/stats-config.js"></script>
+<script src="assets/stats.js"></script>
+<script src="assets/pwa.js"></script>
+</body>
+</html>
