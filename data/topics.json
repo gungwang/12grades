@@ -7610,20 +7610,20 @@
   },
   {
     "id": "cnm_041",
-    "name": "The concept of a once-in-one equation.",
+    "name": "Linear Equations in One Variable",
     "domain": "数与代数",
     "grade": 7,
     "semester": "上",
-    "chapter": "VII, chap. V, one dollar, one equation 5.1.2",
+    "chapter": "Grade 7, Semester 1, Chapter 5: Linear Equations in One Variable, Section 5.1.2",
     "type": "conceptual",
-    "description": "Only one unknown, unknown number of times is 1 and the equations of the equals are integers called a one-dollar equation.",
+    "description": "A linear equation in one variable can be written in the form ax + b = 0, where a ≠ 0.",
     "mastery_criteria": [
-      "It's a one-dollar equation.",
-      "Could say standard form ax+b=0"
+      "Recognize a linear equation in one variable.",
+      "Rewrite a linear equation in standard form ax + b = 0."
     ],
     "diagnostic_question": {
-      "question": "x²-1=0 Is it a one-dollar equation? (Answer yes or no)",
-      "answer": "No, unknown number is 2"
+      "question": "Is x² − 1 = 0 a linear equation in one variable?",
+      "answer": "No. Its degree is 2."
     },
     "external": false,
     "standards": [
@@ -8522,20 +8522,20 @@
   },
   {
     "id": "cnm_075",
-    "name": "The way to open squares and square root",
+    "name": "Square Roots and Arithmetic Square Roots",
     "domain": "数与代数",
     "grade": 7,
     "semester": "下",
-    "chapter": "VII, chapter VIII Actual 8.1",
+    "chapter": "Grade 7, Semester 2, Chapter 8: Real Numbers, Section 8.1",
     "type": "procedural",
-    "description": "The square calculation is for the square root of the full square number, understanding that √a² = | a | and can be approximated with the calculator.",
+    "description": "Understand that the principal square root √a is nonnegative, that √(a²) = |a|, and that a calculator can be used to estimate square roots.",
     "mastery_criteria": [
-      "The square root of the common full square number",
-      "Simplified a²"
+      "Find the principal square root of a perfect square.",
+      "Use √(a²) = |a| and estimate square roots when needed."
     ],
     "diagnostic_question": {
-      "question": "Calculates √49, √-5 2, ±√1/4. (√-5 2) 2 denotes -5]2] square root of arithmetic; in turn, ±√ 1/4 writes positive and negative values, four in total, separated by comma)",
-      "answer": "7;5;±1/2"
+      "question": "Evaluate √49, √((-5)²), and both values ±√(1/4). Give all four values separated by commas.",
+      "answer": "7, 5, 1/2, -1/2"
     },
     "external": false,
     "standards": [
@@ -10661,19 +10661,19 @@
   },
   {
     "id": "cnm_146",
-    "name": "Multiple times Multiple",
+    "name": "Multiplying Polynomials",
     "domain": "数与代数",
     "grade": 8,
     "semester": "上",
-    "chapter": "Chapter XVI Multiplication of whole 16.2",
+    "chapter": "Grade 8, Semester 1, Chapter 16: Multiplication of Polynomials, Section 16.2",
     "type": "procedural",
-    "description": "Each of them is multiplied by each of the other, and the sum is added.",
+    "description": "Multiply polynomials by distributing each term of one factor over each term of the other, then combine like terms.",
     "mastery_criteria": [
-      "Expandable a+b c+d",
-      "Not missing a good number."
+      "Expand the product of two binomials using the distributive property.",
+      "Combine like terms after expanding."
     ],
     "diagnostic_question": {
-      "question": "Calculate[x+2 x-3.",
+      "question": "Expand (x + 2)(x − 3).",
       "answer": "x²-x-6"
     },
     "external": false,
@@ -10686,20 +10686,20 @@
   },
   {
     "id": "cnm_147",
-    "name": "Square difference formula",
+    "name": "Difference of Squares Formula",
     "domain": "数与代数",
     "grade": 8,
     "semester": "上",
-    "chapter": "Chapter XVI Multiplication of whole 16.3",
+    "chapter": "Grade 8, Semester 1, Chapter 16: Multiplication of Polynomials, Section 16.3",
     "type": "procedural",
-    "description": "a+b a-b = a²-b², ] capture the word “same item” and “reverse item”.",
+    "description": "Use (a + b)(a − b) = a² − b² to simplify products of a sum and the corresponding difference.",
     "mastery_criteria": [
-      "Can identify the square structure",
-      "It's easy to calculate."
+      "Recognize products that match the difference-of-squares identity.",
+      "Use the identity to simplify calculations."
     ],
     "diagnostic_question": {
-      "question": "Calculate 103×97. (A simple calculation of the square formula is available)",
-      "answer": "(100+3)(100-3)=9991"
+      "question": "Use the difference-of-squares identity to calculate 103 × 97.",
+      "answer": "9991"
     },
     "external": false,
     "standards": [
@@ -10711,11 +10711,11 @@
   },
   {
     "id": "cnm_148",
-    "name": "The square of a binomial",
+    "name": "Square of a Binomial",
     "domain": "数与代数",
     "grade": 8,
     "semester": "上",
-    "chapter": "Chapter XVI Multiplication of whole 16.3",
+    "chapter": "Grade 8, Semester 1, Chapter 16: Multiplication of Polynomials, Section 16.3",
     "type": "procedural",
     "description": "Use (a ± b)² = a² ± 2ab + b² and interpret the identity geometrically.",
     "mastery_criteria": [
@@ -12676,19 +12676,19 @@
   },
   {
     "id": "cnm_219",
-    "name": "The concept of a binary equation",
+    "name": "Quadratic Equations in One Variable",
     "domain": "数与代数",
     "grade": 9,
     "semester": "上",
-    "chapter": "Nine, twenty-five, one-dollar, binary equation 25.1",
+    "chapter": "Grade 9, Semester 1, Chapter 25: Quadratic Equations in One Variable, Section 25.1",
     "type": "conceptual",
-    "description": "An entire equation containing only one unknown number with the highest number of 2 is called a single-dollar binary equation in general form ax²+bx+c=0 a≠0.",
+    "description": "A quadratic equation in one variable has the standard form ax² + bx + c = 0, where a ≠ 0.",
     "mastery_criteria": [
-      "It's a one-dollar binary equation.",
-      "Could indicate secondary, one-time and constant factors"
+      "Recognize whether an equation is quadratic in one variable.",
+      "Identify the coefficients a, b, and c in ax² + bx + c = 0."
     ],
     "diagnostic_question": {
-      "question": "What are the sub-factors, single-point coefficients and constants of x²-5x+6=0? (In turn, separated by commas)",
+      "question": "For x² − 5x + 6 = 0, identify the coefficients a, b, and c. Give the values separated by commas.",
       "answer": "1, -5, 6"
     },
     "external": false,
@@ -12696,33 +12696,33 @@
       {
         "id": "cms-2022:4.NA.27",
         "confidence": "inferred",
-        "note": "The concept of a one-thousand-dual equation is a prerequisite for the solution, and the syllabuses are not listed separately."
+        "note": "The standard covers methods for solving quadratic equations; it does not list the definition as a separate clause."
       }
     ]
   },
   {
     "id": "cnm_220",
-    "name": "Directly squared method",
+    "name": "Solving Equations by Taking Square Roots",
     "domain": "数与代数",
     "grade": 9,
     "semester": "上",
-    "chapter": "Nine, twenty-five, one-dollar, binary equation 25.2",
+    "chapter": "Grade 9, Semester 1, Chapter 25: Quadratic Equations in One Variable, Section 25.2",
     "type": "procedural",
-    "description": "A equation that is x²=p or x+m 2 = p, using the meaning of square root to solve it directly.",
+    "description": "Solve equations of the form x² = p or (x + m)² = p by taking square roots.",
     "mastery_criteria": [
-      "It's a way to judge a straight-off.",
-      "Can take two roots and consider p<0 No solution"
+      "Solve x² = p when p is positive, zero, or negative.",
+      "Solve (x + m)² = p by taking square roots."
     ],
     "diagnostic_question": {
-      "question": "Solve the equation x-1 2 = 9. (Two roots separated by commas)",
-      "answer": "x=4 or x=-2"
+      "question": "Solve (x − 1)² = 9. Give both solutions separated by a comma.",
+      "answer": "4, -2"
     },
     "external": false,
     "standards": [
       {
         "id": "cms-2022:4.NA.27",
         "confidence": "inferred",
-        "note": "Direct flatting is an exception to the matching method, and the course is not singled out."
+        "note": "The direct square-root method is a separate solving strategy; the standard does not list it as a standalone topic."
       }
     ]
   },
@@ -12988,19 +12988,19 @@
   },
   {
     "id": "cnm_231",
-    "name": "y=ax-h 2 + k Images and typologies",
+    "name": "Vertex Form of a Quadratic Function",
     "domain": "数与代数",
     "grade": 9,
     "semester": "上",
-    "chapter": "IX Chapter XXVI ii Function 26.2",
+    "chapter": "Grade 9, Semester 1, Chapter 26: Quadratic Functions, Section 26.2",
     "type": "conceptual",
-    "description": "The vertices of parabola y=a x-h 2+k are h, k, symmetrically x=h, which may be moved horizontally by y=ax².",
+    "description": "For y = a(x − h)² + k with a ≠ 0, the vertex is (h, k) and the axis of symmetry is x = h. The graph is a translation of y = ax².",
     "mastery_criteria": [
-      "Can write vertex and symmetry axes",
-      "You can tell me how to do it."
+      "Identify the vertex and axis of symmetry from vertex form.",
+      "Describe how h, k, and a affect the graph."
     ],
     "diagnostic_question": {
-      "question": "y =x-1 vertex, symmetric axis and relative +2 to y=x². Which of the following is correct?",
+      "question": "The graph of y = (x − 1)² + 2 is a translation of y = x². What are its vertex, axis of symmetry, and translation?",
       "answer": "vertex 1, 2, symmetric axis x=1, right 1 units up 2 units]"
     },
     "external": false,
@@ -13013,19 +13013,19 @@
   },
   {
     "id": "cnm_232",
-    "name": "y=ax²+bx+c Images and nature",
+    "name": "Vertex Form and Properties of Quadratic Functions",
     "domain": "数与代数",
     "grade": 9,
     "semester": "上",
-    "chapter": "IX Chapter XXVI ii Function 26.2",
+    "chapter": "Grade 9, Semester 1, Chapter 26: Quadratic Functions, Section 26.2",
     "type": "procedural",
-    "description": "Captive coordinates -b/2a, 4ac-b²/4a are derived from formulae to a vertex formula and increase or decrease is studied.",
+    "description": "Complete the square to rewrite y = ax² + bx + c in vertex form, identify the vertex and axis of symmetry, and determine where the function increases or decreases.",
     "mastery_criteria": [
-      "You can turn the formula into a vertex.",
-      "It says vertex, symmetry and decrease."
+      "Rewrite a quadratic function in vertex form by completing the square.",
+      "Identify the vertex, axis of symmetry, and intervals of increase or decrease."
     ],
     "diagnostic_question": {
-      "question": "Turn y=x²-4x+3 into a vertex. Which one was the result?",
+      "question": "Rewrite y = x² − 4x + 3 in vertex form. Which expression is equivalent?",
       "answer": "y=(x-2)²-1"
     },
     "external": false,

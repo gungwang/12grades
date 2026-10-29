@@ -764,6 +764,10 @@
     const q = item.question;
     const t = D.graph.byId[id];
     const key = id + '#' + item.attempt;
+    const confirmCount = E.needConfirm(D.graph, session, id);
+    const topicProgress = item.attempt > confirmCount
+      ? 'Retest question ' + (item.attempt - confirmCount)
+      : 'Topic question ' + item.attempt + ' / ' + confirmCount;
     if (ui.key !== key) ui = { key: key, phase: 'ask', answer: '', verdict: null, picked: null };
     const n = session.answers.length;
     const card = h('div', { class: 'card' });
@@ -778,7 +782,7 @@
         isPrereqKnowledge(id) ? h('span', { class: 'tag ext', text: 'Prerequisite' }) : null,
         h('span', { class: 'tag diff-' + q.difficulty, text: DIFF_LABEL[q.difficulty] || q.difficulty }),
         h('span', { class: 'tag', text: TYPE_LABEL[q.type] || q.type }),
-        h('span', { class: 'tag', text: 'Topic question ' + item.attempt + ' / ' + E.needConfirm(D.graph, session, id) })),
+        h('span', { class: 'tag', text: topicProgress })),
       h('div', { class: 'reason', text: reasonFor(item) }),
       h('div', { class: 'q-text', id: 'q-text', text: q.prompt }));
     const stemFig = figureEl(q.figure);
@@ -851,7 +855,8 @@
       h('button', { class: 'small', onclick: function () { if (confirm('Discard this diagnostic and return to the start page?')) restart(); } }, 'Restart')));
     const page = h('div');
     if (demo) page.append(demoBanner());
-    page.append(childBar('question'));
+    const childNotice = childBar('question');
+    if (childNotice) page.append(childNotice);
     page.append(card);
     show(page);
     const inp = document.getElementById('ans');
@@ -1033,7 +1038,8 @@
     const page = h('div');
     if (demo) page.append(demoBanner());
     saveToChild(sum);
-    page.append(childBar('result'));
+    const childNotice = childBar('result');
+    if (childNotice) page.append(childNotice);
 
     const targetsMastered = session.targets.every(function (id) { return E.statusOf(session, id) === 'mastered'; });
     const chapters = screen ? E.chapterSummary(D.graph, session) : null;
@@ -1410,7 +1416,6 @@
           elements: elements,
           minZoom: heavy ? 0.45 : 0.2,
           maxZoom: 2.8,
-          wheelSensitivity: 0.28,
           boxSelectionEnabled: false,
           autoungrabify: true,
           userPanningEnabled: true,

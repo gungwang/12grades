@@ -1013,8 +1013,8 @@
     {
       "id": "cms-2022:4.NA.23",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Equations and Equations",
+      "theme": "Equations and Inequalities",
+      "section": "Equations and Systems of Equations",
       "clause": "①",
       "text": "The meaning of the equation can be understood in the light of the realities, and the equation can be tailored to specific issues; the meaning of the equation can be understood and the process of estimating it is going on.",
       "page_or_ref": "Printed p. 56"
@@ -1022,8 +1022,8 @@
     {
       "id": "cms-2022:4.NA.24",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Equations and Equations",
+      "theme": "Equations and Inequalities",
+      "section": "Equations and Systems of Equations",
       "clause": "②",
       "text": "(c) Mastery of the basic nature of the equation; a fractional equation that solves a one-dollar equation and can be converted to a one-dollar equation.",
       "page_or_ref": "Printed p. 56"
@@ -1031,8 +1031,8 @@
     {
       "id": "cms-2022:4.NA.25",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Equations and Equations",
+      "theme": "Equations and Inequalities",
+      "section": "Equations and Systems of Equations",
       "clause": "③",
       "text": "You can solve the binary one-time equations with the metamorphosis.",
       "page_or_ref": "Printed p. 56"
@@ -1040,8 +1040,8 @@
     {
       "id": "cms-2022:4.NA.26",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Equations and Equations",
+      "theme": "Equations and Inequalities",
+      "section": "Equations and Systems of Equations",
       "clause": "④",
       "text": "It solves a simple three-dollar one-time equation group.",
       "page_or_ref": "Printed p. 56",
@@ -1050,17 +1050,19 @@
     {
       "id": "cms-2022:4.NA.27",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Equations and Equations",
+      "theme": "Equations and Inequalities",
+      "section": "Equations and Systems of Equations",
       "clause": "⑤",
-      "text": "An understanding of the formulae, a formulae, and a one-thirty-drive equation to decompose the numerical coefficient.",
-      "page_or_ref": "Printed p. 56"
+      "text": "Solve quadratic equations in one variable with numerical coefficients using completing the square, the quadratic formula, and factorization.",
+      "page_or_ref": "Printed p. 56",
+      "verbatim": false,
+      "note": "English translation based on the published clause description; verify exact wording against the official source before classroom use."
     },
     {
       "id": "cms-2022:4.NA.28",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Equations and Equations",
+      "theme": "Equations and Inequalities",
+      "section": "Equations and Systems of Equations",
       "clause": "⑥",
       "text": "The equation is based on a one-dollar, two-dimensional equation, whether the equation is real or not and whether the two are equal.",
       "page_or_ref": "Printed p. 56"
@@ -1068,8 +1070,8 @@
     {
       "id": "cms-2022:4.NA.29",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Equations and Equations",
+      "theme": "Equations and Inequalities",
+      "section": "Equations and Systems of Equations",
       "clause": "⑦",
       "text": "Understanding the relationship between the root and coefficients of the one-dollar-two equation (example 67.",
       "page_or_ref": "Printed p. 56"
@@ -1077,8 +1079,8 @@
     {
       "id": "cms-2022:4.NA.30",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Equations and Equations",
+      "theme": "Equations and Inequalities",
+      "section": "Equations and Systems of Equations",
       "clause": "⑧",
       "text": "The legitimacy of the equation can be tested on the basis of the practical significance of the particular issue.",
       "page_or_ref": "Printed p. 56"
@@ -1086,8 +1088,8 @@
     {
       "id": "cms-2022:4.NA.31",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Instinct and Instinct Groups",
+      "theme": "Equations and Inequalities",
+      "section": "Inequalities and Systems of Inequalities",
       "clause": "①",
       "text": "In the context of specific issues, understanding the meaning of the iniquitous and exploring the basic nature of the iniquitous.",
       "page_or_ref": "Printed p. 56"
@@ -1095,8 +1097,8 @@
     {
       "id": "cms-2022:4.NA.32",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Instinct and Instinct Groups",
+      "theme": "Equations and Inequalities",
+      "section": "Inequalities and Systems of Inequalities",
       "clause": "②",
       "text": "The one-dollar insulation that solves the numerical coefficients and can represent the decomposition on a number of axes; it is determined by a number of axes in the decomposition of two one-dollar insular groups.",
       "page_or_ref": "Printed p. 56"
@@ -1104,8 +1106,8 @@
     {
       "id": "cms-2022:4.NA.33",
       "domain": "数与代数",
-      "theme": "Equations and Instincts",
-      "section": "Instinct and Instinct Groups",
+      "theme": "Equations and Inequalities",
+      "section": "Inequalities and Systems of Inequalities",
       "clause": "③",
       "text": "One dollar at a time, depending on the numerical relationship in the particular issue, could be used to solve simple problems.",
       "page_or_ref": "Printed p. 56"
@@ -1204,10 +1206,12 @@
       "id": "cms-2022:4.NA.44",
       "domain": "数与代数",
       "theme": "Function",
-      "section": "Secondary",
+      "section": "Quadratic Functions",
       "clause": "②",
-      "text": "An image of a secondary function can be drawn, and the nature of the secondary function can be understood by the image, and the relationship of the secondary function coefficient to the image shape and symmetric axis.",
-      "page_or_ref": "Printed p. 57"
+      "text": "Draw the graph of a quadratic function and use it to explore its properties, including how its coefficients relate to the graph's shape and axis of symmetry.",
+      "page_or_ref": "Printed p. 57",
+      "verbatim": false,
+      "note": "English translation of the published clause; verify exact wording against the official source before classroom use."
     },
     {
       "id": "cms-2022:4.NA.45",

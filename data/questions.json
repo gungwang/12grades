@@ -15195,22 +15195,20 @@
     "topicId": "cnm_041",
     "difficulty": "basic",
     "type": "short",
-    "prompt": "x²-1=0 Is it a one-dollar equation? (Answer yes or no)",
-    "answer": "No",
+    "prompt": "Is x² − 1 = 0 a linear equation in one variable?",
+    "answer": "No. Its degree is 2.",
     "accept": [
       "No",
-      "No",
-      "No, the number is 2",
-      "No, unknown number is 2"
+      "No, it has degree 2."
     ],
-    "explanation": "The number of unknown numbers in a one-dollar equation must be 1, while the number of x in this equation is 2, so it is not."
+    "explanation": "A linear equation has degree 1. This equation contains x², so it has degree 2."
   },
   {
     "id": "cnm_041_q2",
     "topicId": "cnm_041",
     "difficulty": "basic",
     "type": "choice",
-    "prompt": "Which one of the following equations is a one-dollar one?",
+    "prompt": "Which of the following is a linear equation in one variable?",
     "answer": "D",
     "choices": [
       {
@@ -15230,23 +15228,25 @@
         "text": "2x+1=7"
       }
     ],
-    "explanation": "A contains two unknowns; B The number of unknowns is 2; C The denominator contains unknowns, not integers; only 2x+1=7 is a one-dollar equation."
+    "explanation": "A has two variables, B has degree 2, and C has the variable in a denominator. D is linear in one variable.",
+    "verify": "\"2x+1=7\""
   },
   {
     "id": "cnm_041_q3",
     "topicId": "cnm_041",
     "difficulty": "standard",
     "type": "numeric",
-    "prompt": "If (m-1)x^|m|+3=0 It's about...x One dollar at a time, please.m value.",
+    "prompt": "For what value of m is (m − 1)x^|m| + 3 = 0 a linear equation in one variable?",
     "answer": "-1",
-    "explanation": "x Number of times 1♪ So ♪m|=1, m=1 or-1;a further factor m-1≠0♪ So ♪m≠1 It's just...m=-1."
+    "explanation": "For the equation to be linear, |m| must equal 1, so m = 1 or m = −1. Its x coefficient m − 1 must be nonzero, which excludes m = 1. Thus m = −1.",
+    "verify": "-1"
   },
   {
     "id": "cnm_041_q4",
     "topicId": "cnm_041",
     "difficulty": "advanced",
     "type": "choice",
-    "prompt": "What are the conditions to be met for an equation x ax+b=0 that is a one-dollar equation [, a, b?",
+    "prompt": "For ax + b = 0 to be a linear equation in x, what condition must a satisfy?",
     "answer": "C",
     "choices": [
       {
@@ -15266,7 +15266,8 @@
         "text": "a, b None.0"
       }
     ],
-    "explanation": "The standard form ax+b=0 requires an unknown factor a≠0, or the item x disappears; b may] 0."
+    "explanation": "If a = 0, the x term disappears, so the equation is not linear in x. Therefore, a must be nonzero.",
+    "verify": "\"a≠0\""
   },
   {
     "id": "cnm_042_q1",
@@ -17748,9 +17749,9 @@
     "topicId": "cnm_075",
     "difficulty": "standard",
     "type": "numeric",
-    "prompt": "Calculates √49, √-5 2, ±√1/4. (√-5 2) 2 denotes -5]2] square root of arithmetic; in turn, ±√ 1/4 writes positive and negative values, four in total, separated by comma)",
+    "prompt": "Evaluate √49, √((-5)²), and both values ±√(1/4). Give all four values separated by commas.",
     "answer": "7, 5, 1/2, -1/2",
-    "explanation": "√49=7;(-5)²=25, √25=5;(1/2)²=1/4♪ So ♪1/4)=±1/2.",
+    "explanation": "√49 = 7, √((-5)²) = 5, and ±√(1/4) gives 1/2 and −1/2.",
     "verify": "[isqrt(49), isqrt((-5)**2), sqrt(Fraction(1,4)), -sqrt(Fraction(1,4))]"
   },
   {
@@ -17758,7 +17759,7 @@
     "topicId": "cnm_075",
     "difficulty": "basic",
     "type": "numeric",
-    "prompt": "Request[169 of arithmetic square root.",
+    "prompt": "Find the arithmetic square root of 169.",
     "answer": "13",
     "explanation": "13^2=169, so the arithmetical square root of 169 is 13.",
     "verify": "isqrt(169)"
@@ -17768,7 +17769,7 @@
     "topicId": "cnm_075",
     "difficulty": "standard",
     "type": "choice",
-    "prompt": "a<0, if known, a² equals",
+    "prompt": "If a < 0, what is √(a²)?",
     "choices": [
       {
         "key": "A",
@@ -17788,16 +17789,17 @@
       }
     ],
     "answer": "A",
-    "explanation": "√(a²)=|a♪ Bang, bang, bang ♪a<0 Time a|=-a So the result is--a(A positive number)"
+    "explanation": "Since √(a²) = |a| and a is negative, |a| = −a.",
+    "verify": "\"-a\""
   },
   {
     "id": "cnm_075_q4",
     "topicId": "cnm_075",
     "difficulty": "advanced",
     "type": "numeric",
-    "prompt": "Calculate[25/144 - √0.04, with the result written in the shortest fraction.",
+    "prompt": "Evaluate √(25/144) − √0.04. Give the result as a simplified fraction.",
     "answer": "13/60",
-    "explanation": "√(25/144)=5/12, √0.04=0.2=1/5, 5/12-1/5=25/60-12/60=13/60.",
+    "explanation": "√(25/144) = 5/12 and √0.04 = 0.2 = 1/5. Their difference is 5/12 − 1/5 = 13/60.",
     "verify": "Fraction(5,12)-Fraction(1,5)"
   },
   {
@@ -23014,7 +23016,7 @@
     "topicId": "cnm_146",
     "difficulty": "basic",
     "type": "choice",
-    "prompt": "Calculate[x+2 x-3.",
+    "prompt": "Expand (x + 2)(x − 3).",
     "answer": "B",
     "choices": [
       {
@@ -23034,16 +23036,17 @@
         "text": "x²-5x-6"
       }
     ],
-    "explanation": "x·x=x², x·(-3)=-3x, 2·x=2x, 2·(-3)=-6 It's a merger.x²-x-6."
+    "explanation": "(x + 2)(x − 3) = x² − 3x + 2x − 6 = x² − x − 6.",
+    "verify": "\"x²-x-6\""
   },
   {
     "id": "cnm_146_q2",
     "topicId": "cnm_146",
     "difficulty": "basic",
     "type": "numeric",
-    "prompt": "Expand[x+1 x+2, coefficient for the result x.",
+    "prompt": "Expand (x + 1)(x + 2). What is the coefficient of x?",
     "answer": "3",
-    "explanation": "x+1 x+2 =x²+2x+x+2=x²+3x+2, x [The coefficient shall be 3.",
+    "explanation": "(x + 1)(x + 2) = x² + 3x + 2, so the coefficient of x is 3.",
     "verify": "1+2"
   },
   {
@@ -23051,9 +23054,9 @@
     "topicId": "cnm_146",
     "difficulty": "standard",
     "type": "numeric",
-    "prompt": "Expand 2x-1 3x+4, in turn, x coefficients and constants, separated by commas.",
+    "prompt": "Expand (2x − 1)(3x + 4). Give the coefficient of x and the constant term, separated by a comma.",
     "answer": "5, -4",
-    "explanation": "(2x-1)(3x+4)=6x²+8x-3x-4=6x²+5x-4.",
+    "explanation": "(2x − 1)(3x + 4) = 6x² + 5x − 4, so the requested values are 5 and −4.",
     "verify": "[2*4+(-1)*3, -1*4]"
   },
   {
@@ -23061,7 +23064,7 @@
     "topicId": "cnm_146",
     "difficulty": "standard",
     "type": "choice",
-    "prompt": "Calculate[a+2b a-b.",
+    "prompt": "Expand (a + 2b)(a − b). Which expression is equivalent?",
     "answer": "B",
     "choices": [
       {
@@ -23081,16 +23084,17 @@
         "text": "a²+ab+2b²"
       }
     ],
-    "explanation": "a·a=a², a·(-b)=-ab, 2b·a=2ab, 2b·(-b)=-2b² It's a merger.a²+ab-2b²."
+    "explanation": "(a + 2b)(a − b) = a² − ab + 2ab − 2b² = a² + ab − 2b².",
+    "verify": "\"a²+ab-2b²\""
   },
   {
     "id": "cnm_146_q5",
     "topicId": "cnm_146",
     "difficulty": "advanced",
     "type": "numeric",
-    "prompt": "If x+2x^2+ax+b (the] is not included in the extension of x^2 and x, the values of a, b in the order given, separated by commas are requested.",
+    "prompt": "Choose a and b so that (x + 2)(x² + ax + b) has no x² or x term. Give the values of a and b, separated by a comma.",
     "answer": "-2, 4",
-    "explanation": "Expand x^3+(a+2)x^2+(b+2a)x+2b.x^2 Item coefficient a+2=0 Okay.a=-2;x Item coefficient b+2a=0 Okay.b=4.",
+    "explanation": "Expanding gives x³ + (a + 2)x² + (b + 2a)x + 2b. Set the x² and x coefficients to zero: a = −2 and b + 2a = 0, so b = 4.",
     "verify": "[-2, -2*(-2)]"
   },
   {
@@ -23098,9 +23102,9 @@
     "topicId": "cnm_147",
     "difficulty": "standard",
     "type": "numeric",
-    "prompt": "Calculate 103×97. (A simple calculation of the square formula is available)",
+    "prompt": "Use the difference-of-squares identity to calculate 103 × 97.",
     "answer": "9991",
-    "explanation": "103×97=(100+3)(100-3)=100²-3²=10000-9=9991.",
+    "explanation": "103 × 97 = (100 + 3)(100 − 3) = 100² − 3² = 9,991.",
     "verify": "103*97"
   },
   {
@@ -23108,7 +23112,7 @@
     "topicId": "cnm_147",
     "difficulty": "basic",
     "type": "choice",
-    "prompt": "In the following formulas, the difference formula can be calculated:",
+    "prompt": "Which product can be evaluated using the difference-of-squares identity?",
     "answer": "A",
     "choices": [
       {
@@ -23128,16 +23132,17 @@
         "text": "(x-y)(y-x)"
       }
     ],
-    "explanation": "The square difference formula requires the same and a reverse number; x+y x-y is satisfied, and the remaining three are in full square form (or the opposite number)."
+    "explanation": "The difference-of-squares identity applies to a sum multiplied by the corresponding difference: (x + y)(x − y).",
+    "verify": "\"(x+y)(x-y)\""
   },
   {
     "id": "cnm_147_q3",
     "topicId": "cnm_147",
     "difficulty": "basic",
     "type": "numeric",
-    "prompt": "Calculate[x+3 x-3 and value x=5 at the time of the calculation.",
+    "prompt": "Evaluate (x + 3)(x − 3) when x = 5.",
     "answer": "16",
-    "explanation": "x+3 x-3 = x²-9, x=5 at 25-9=16.",
+    "explanation": "(x + 3)(x − 3) = x² − 9. Substituting x = 5 gives 25 − 9 = 16.",
     "verify": "(5+3)*(5-3)"
   },
   {
@@ -23145,9 +23150,9 @@
     "topicId": "cnm_147",
     "difficulty": "standard",
     "type": "numeric",
-    "prompt": "Calculated using a squared difference formula 1.02×0.98.",
+    "prompt": "Use the difference-of-squares identity to calculate 1.02 × 0.98.",
     "answer": "0.9996",
-    "explanation": "1.02×0.98=(1+0.02)(1-0.02)=1-0.0004=0.9996.",
+    "explanation": "1.02 × 0.98 = (1 + 0.02)(1 − 0.02) = 1 − 0.0004 = 0.9996.",
     "verify": "Fraction(102,100)*Fraction(98,100)"
   },
   {
@@ -23155,9 +23160,9 @@
     "topicId": "cnm_147",
     "difficulty": "advanced",
     "type": "numeric",
-    "prompt": "Calculates the value of 2+1 2^2+1 2^4+1 2^8+1.",
+    "prompt": "Evaluate (2 + 1)(2² + 1)(2⁴ + 1)(2⁸ + 1).",
     "answer": "65535",
-    "explanation": "Multiply 2-1 = 1 after [, , and with a continuous squared formula, the result is 2^16-1=65535.",
+    "explanation": "Repeated use of the difference-of-squares identity gives (2¹⁶ − 1)/(2 − 1) = 65,535.",
     "verify": "(2+1)*(2**2+1)*(2**4+1)*(2**8+1)"
   },
   {
@@ -23185,16 +23190,17 @@
         "text": "4x²-12x+9"
       }
     ],
-    "explanation": "(2x − 3)² = (2x)² − 2(2x)(3) + 3² = 4x² − 12x + 9."
+    "explanation": "(2x − 3)² = (2x)² − 2(2x)(3) + 3² = 4x² − 12x + 9.",
+    "verify": "\"4x²-12x+9\""
   },
   {
     "id": "cnm_148_q2",
     "topicId": "cnm_148",
     "difficulty": "basic",
     "type": "numeric",
-    "prompt": "Expand[x-5 ^2 for one-time coefficient.",
+    "prompt": "Expand (x − 5)². What is the coefficient of x?",
     "answer": "-10",
-    "explanation": "x-5 ^ 2=x^2-10x+25, with a factor of -10 at a time.",
+    "explanation": "(x − 5)² = x² − 10x + 25, so the coefficient of x is −10.",
     "verify": "-2*5"
   },
   {
@@ -23202,7 +23208,7 @@
     "topicId": "cnm_148",
     "difficulty": "standard",
     "type": "numeric",
-    "prompt": "Calculated using a full square formula 99^2.",
+    "prompt": "Calculate 99² using the identity (a − b)².",
     "answer": "9801",
     "explanation": "99^2=(100-1)^2=10000-200+1=9801.",
     "verify": "99**2"
@@ -23212,9 +23218,9 @@
     "topicId": "cnm_148",
     "difficulty": "advanced",
     "type": "numeric",
-    "prompt": "Known a+b=5, ab=6, for a^2+b^2 values.",
+    "prompt": "Given a + b = 5 and ab = 6, find a² + b².",
     "answer": "13",
-    "explanation": "a^2+b^2=(a+b)^2-2ab=25-12=13.",
+    "explanation": "a² + b² = (a + b)² − 2ab = 25 − 12 = 13.",
     "verify": "5**2-2*6"
   },
   {
@@ -28063,9 +28069,9 @@
     "topicId": "cnm_219",
     "difficulty": "basic",
     "type": "numeric",
-    "prompt": "What are the sub-factors, single-point coefficients and constants of x²-5x+6=0? (In turn, separated by commas)",
+    "prompt": "For x² − 5x + 6 = 0, identify the coefficients a, b, and c. Give the values separated by commas.",
     "answer": "1, -5, 6",
-    "explanation": "The equation is already in general form ax²+bx+c=0, against which a=1, b=-5, c=6. Note that a factor with a symbol.",
+    "explanation": "The equation is in standard form ax² + bx + c = 0, so a = 1, b = −5, and c = 6.",
     "verify": "[1, -5, 6]"
   },
   {
@@ -28073,7 +28079,7 @@
     "topicId": "cnm_219",
     "difficulty": "basic",
     "type": "choice",
-    "prompt": "Which one of the following equations is the binary one?",
+    "prompt": "Which of the following is a quadratic equation in one variable?",
     "choices": [
       {
         "key": "A",
@@ -28093,16 +28099,17 @@
       }
     ],
     "answer": "D",
-    "explanation": "A x² The offset on either side is followed by a single-dollar equation; B contains a split 1/x and not an integer equation; C contains two unknown numbers; D is organized into 3x²-2x-1=0 and is a single-dollar, binary equation."
+    "explanation": "A simplifies to a linear equation, B contains the variable in a denominator, and C contains two variables. D is a quadratic equation in one variable.",
+    "verify": "\"3x²-2x=1\""
   },
   {
     "id": "cnm_219_q3",
     "topicId": "cnm_219",
     "difficulty": "standard",
     "type": "numeric",
-    "prompt": "Put the equation 2x(x-1)=3-x Turned into general form ax²+bx+c=0(a>0, in turn a, b, c(Comma-separated)",
+    "prompt": "Write 2x(x − 1) = 3 − x in standard form ax² + bx + c = 0, with a > 0. Give a, b, and c separated by commas.",
     "answer": "2, -1, -3",
-    "explanation": "It's in brackets.2x²-2x=3-x, move merged 2x²-x-3=0♪ So ♪a=2, b=-1, c=-3.",
+    "explanation": "Expand and collect terms: 2x² − 2x = 3 − x becomes 2x² − x − 3 = 0. Thus a = 2, b = −1, and c = −3.",
     "verify": "[2, -2+1, -3]"
   },
   {
@@ -28110,9 +28117,9 @@
     "topicId": "cnm_219",
     "difficulty": "advanced",
     "type": "numeric",
-    "prompt": "x The equation m-1 x ^ [| m +1 +2x-3=0 is a one-dollar, two-dimensional equation for the value m.",
+    "prompt": "For what value of m is (m − 1)x^(|m| + 1) + 2x − 3 = 0 a quadratic equation in x?",
     "answer": "-1",
-    "explanation": "bygone m|+1=2 Okay.m=±1;and double coefficient m-1≠0 or m≠1♪ So ♪m=-1.",
+    "explanation": "For the equation to be quadratic, its degree must be 2, so |m| + 1 = 2 and m = ±1. The coefficient m − 1 must be nonzero, which excludes m = 1. Therefore m = −1.",
     "verify": "[m for m in range(-5,6) if abs(m)+1==2 and m-1!=0][0]"
   },
   {
@@ -28120,10 +28127,10 @@
     "topicId": "cnm_220",
     "difficulty": "basic",
     "type": "numeric",
-    "prompt": "Solve the equation x-1 2 = 9. (Two roots separated by commas)",
+    "prompt": "Solve (x − 1)² = 9. Give both solutions separated by a comma.",
     "answer": "4, -2",
     "unordered": true,
-    "explanation": "Each side shall be squared x-1=3 or x-1=-3, so x=4 or x=-2.",
+    "explanation": "Taking square roots gives x − 1 = ±3, so x = 4 or x = −2.",
     "verify": "[1+isqrt(9), 1-isqrt(9)]"
   },
   {
@@ -28131,7 +28138,7 @@
     "topicId": "cnm_220",
     "difficulty": "basic",
     "type": "numeric",
-    "prompt": "Solve the equation x²=49. (Two roots separated by commas)",
+    "prompt": "Solve x² = 49. Give both solutions separated by a comma.",
     "answer": "7, -7",
     "unordered": true,
     "explanation": "The square root of 49 is 7, so x=7 or x=-7.",
@@ -28142,10 +28149,10 @@
     "topicId": "cnm_220",
     "difficulty": "standard",
     "type": "numeric",
-    "prompt": "Solve the equation 4x+2 2 = 25. (The two roots are separated by commas and written as the shortest fraction or integer)",
+    "prompt": "Solve 4(x + 2)² = 25. Give both solutions as simplified numbers, separated by a comma.",
     "answer": "1/2, -9/2",
     "unordered": true,
-    "explanation": "Be x+2 2 = 25/4, squared x+2 = ± 5/2, so x=1/2 or x=-9/2.",
+    "explanation": "Divide by 4 and take square roots: x + 2 = ±5/2, so x = 1/2 or x = −9/2.",
     "verify": "[Fraction(5,2)-2, -Fraction(5,2)-2]"
   },
   {
@@ -28153,7 +28160,7 @@
     "topicId": "cnm_220",
     "difficulty": "advanced",
     "type": "choice",
-    "prompt": "With respect to the equation x x-2]2 =[[ k-3 two different actual root causes, the range of values to be taken k is?",
+    "prompt": "For (x − 2)² = k − 3 to have two distinct real solutions, what values can k take?",
     "choices": [
       {
         "key": "A",
@@ -28173,7 +28180,8 @@
       }
     ],
     "answer": "C",
-    "explanation": "x-2]2 is not negative. For two different physical roots, it is necessary k-3>0, that is, k>3; k=3 has only one root at a time and k<3 has no actual root at a time."
+    "explanation": "The equation has two distinct real solutions when k − 3 > 0, so k > 3. When k = 3 it has one solution; when k < 3 it has no real solutions.",
+    "verify": "\"k>3\""
   },
   {
     "id": "cnm_221_q1",
@@ -28802,36 +28810,37 @@
     "topicId": "cnm_231",
     "difficulty": "basic",
     "type": "choice",
-    "prompt": "y =x-1 vertex, symmetric axis and relative +2 to y=x². Which of the following is correct?",
+    "prompt": "The graph of y = (x − 1)² + 2 is a translation of y = x². What are its vertex, axis of symmetry, and translation?",
     "choices": [
       {
         "key": "A",
-        "text": "vertex 1, 2, symmetric axis x=1, right horizontal 1 units] and upwards 2 units"
+        "text": "Vertex (1, 2), axis x = 1; shift right 1 and up 2."
       },
       {
         "key": "B",
-        "text": "vertex -1, 2, symmetric axis x=-1, move left to 1 units and move 2 units upwards"
+        "text": "Vertex (−1, 2), axis x = −1; shift left 1 and up 2."
       },
       {
         "key": "C",
-        "text": "vertex 1, 2, symmetric axis x=1, move left to 1 units and move 2 units upwards"
+        "text": "Vertex (1, 2), axis x = 1; shift left 1 and up 2."
       },
       {
         "key": "D",
-        "text": "vertex 2, 1, symmetric axis x=2, right horizontal 2 units] and upwards 1 units"
+        "text": "Vertex (2, 1), axis x = 2; shift right 2 and up 1."
       }
     ],
     "answer": "A",
-    "explanation": "y=a x-hk 2+h, with k, h=1, k=2, ] symmetric axis x=1; h>0 transferred to the right, k>0 horizontally moved upwards."
+    "explanation": "The form y = (x − h)² + k has vertex (h, k) and axis x = h. Here h = 1 and k = 2, so the graph shifts right 1 and up 2.",
+    "verify": "\"Vertex (1, 2), axis x = 1; shift right 1 and up 2.\""
   },
   {
     "id": "cnm_231_q2",
     "topicId": "cnm_231",
     "difficulty": "basic",
     "type": "numeric",
-    "prompt": "The top point coordinates of the parabolic line y=2 x+3 2 -5 are written in turn by cross-coordinates and vertical coordinates (separated by comma).",
+    "prompt": "For y = 2(x + 3)² − 5, find the vertex coordinates. Give the x- and y-coordinates separated by a comma.",
     "answer": "-3, -5",
-    "explanation": "y=2 x+3 [[[ -5 then y=2x[[[[ -3-[[[ -5 2 + ([[ h=-3, so k=-5, [ -3, ] , , at the top [[[ -5, ]]].",
+    "explanation": "In vertex form y = a(x − h)² + k, the vertex is (h, k). Here the vertex is (−3, −5).",
     "verify": "[-3, 0-5]"
   },
   {
@@ -28839,7 +28848,7 @@
     "topicId": "cnm_231",
     "difficulty": "standard",
     "type": "choice",
-    "prompt": "Move the parabola y=x² first to the left square 2 units, then to the bottom to the 3 units, and the type of the resulting parabolic line is?",
+    "prompt": "Translate y = x² left 2 units and down 3 units. Which equation describes the translated parabola?",
     "choices": [
       {
         "key": "A",
@@ -28859,16 +28868,17 @@
       }
     ],
     "answer": "B",
-    "explanation": "Move 2 units to the left: x shall be replaced by x+2, shall be y = x+2 2; and further to the bottom 3 units: reduce 3 as a whole, shall y = x+2 2 -3."
+    "explanation": "A shift left by 2 replaces x with x + 2; a shift down by 3 subtracts 3. The result is y = (x + 2)² − 3.",
+    "verify": "\"y=(x+2)²-3\""
   },
   {
     "id": "cnm_231_q4",
     "topicId": "cnm_231",
     "difficulty": "advanced",
     "type": "numeric",
-    "prompt": "The upper point of the known parabola is 2, -1 and the upper point 3, 1, which is decompositioned to y=ax-2 2 -1, ] and requires a values.",
+    "prompt": "A parabola has vertex (2, −1) and passes through (3, 1). In y = a(x − 2)² − 1, find a.",
     "answer": "2",
-    "explanation": "3, 1 insert 1=a3-2 , -1, ] a=2.",
+    "explanation": "Substitute (3, 1): 1 = a(3 − 2)² − 1, so a = 2.",
     "verify": "Fraction(1-(-1),(3-2)**2)"
   },
   {
@@ -28876,7 +28886,7 @@
     "topicId": "cnm_232",
     "difficulty": "basic",
     "type": "choice",
-    "prompt": "Turn y=x²-4x+3 into a vertex. Which one was the result?",
+    "prompt": "Rewrite y = x² − 4x + 3 in vertex form. Which expression is equivalent?",
     "choices": [
       {
         "key": "A",
@@ -28896,16 +28906,17 @@
       }
     ],
     "answer": "D",
-    "explanation": "y=x²-4x+4-4+3 = x-2 2 -1. A Missigned number of constant items, B missigned item at a time and C formulations used coefficients 4 instead of half of it."
+    "explanation": "Complete the square: y = x² − 4x + 4 − 4 + 3 = (x − 2)² − 1.",
+    "verify": "\"y=(x-2)²-1\""
   },
   {
     "id": "cnm_232_q2",
     "topicId": "cnm_232",
     "difficulty": "basic",
     "type": "numeric",
-    "prompt": "The symmetric axis of the parabolic line y=x²-6x+5 is written for x.",
+    "prompt": "What is the equation of the axis of symmetry of y = x² − 6x + 5?",
     "answer": "3",
-    "explanation": "Symmetric axis x=-b/(2a)=6/2=3; also formulae y=(x-3)²-4.",
+    "explanation": "The axis is x = −b/(2a) = 6/2 = 3. The vertex form is y = (x − 3)² − 4.",
     "verify": "-Fraction(-6,2*1)"
   },
   {
@@ -28913,9 +28924,9 @@
     "topicId": "cnm_232",
     "difficulty": "standard",
     "type": "numeric",
-    "prompt": "The vertex coordinates of the parabolic line y=-2x²+8x-3 are written in turn by cross-coordinates and vertical coordinates (separated by commas).",
+    "prompt": "Find the vertex coordinates of y = −2x² + 8x − 3. Give the x- and y-coordinates separated by a comma.",
     "answer": "2, 5",
-    "explanation": "Formula:y=-2(x²-4x)-3=-2(x-2)²+8-3=-2(x-2)²+5, Photo()2, 5).",
+    "explanation": "Complete the square: y = −2(x² − 4x) − 3 = −2(x − 2)² + 5, so the vertex is (2, 5).",
     "verify": "[Fraction(-8,2*(-2)), Fraction(4*(-2)*(-3)-8**2,4*(-2))]"
   },
   {
@@ -28923,7 +28934,7 @@
     "topicId": "cnm_232",
     "difficulty": "advanced",
     "type": "choice",
-    "prompt": "For secondary functions y=-x²-4x+1, x is increased with y x in what range?",
+    "prompt": "For y = −x² − 4x + 1, over what interval is the function increasing?",
     "choices": [
       {
         "key": "A",
@@ -28943,7 +28954,8 @@
       }
     ],
     "answer": "B",
-    "explanation": "The formulation y =-x+2 2 [[ +5, with openings down, symmetric axis x=-2. Opens down with the symmetric axis y on the left side x and so on x<-2."
+    "explanation": "Rewrite as y = −(x + 2)² + 5. The parabola opens downward and has axis of symmetry x = −2, so it increases for x < −2.",
+    "verify": "\"x<-2\""
   },
   {
     "id": "cnm_233_q1",

@@ -1,9 +1,9 @@
 /* Offline cache: the site shell (pages, scripts, styles, icons) and graph data.
  * Pages and scripts prefer the network and fall back to cache; data and icons use cache first and update in the background.
- * Increment VERSION when the SHELL or DATA lists change, or when the data structure changes. */
+ * Increment VERSION whenever cached app/data content or the data structure changes. */
 'use strict';
 
-var VERSION = 'v3';
+var VERSION = 'v4';
 var CACHE = 'cnm-pwa-' + VERSION;
 var SCOPE = self.registration.scope;
 

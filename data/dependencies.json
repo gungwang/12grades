@@ -1959,7 +1959,7 @@
     "topicId": "cnm_148",
     "prerequisiteId": "cnm_p089",
     "strength": "soft",
-    "reason": "Learning the \"full square formula\" requires first-hand knowledge of the \"cubes and squares\" of primary schools."
+    "reason": "Area models of squares and rectangles support the geometric interpretation of a binomial square."
   },
   {
     "topicId": "cnm_200",
@@ -3453,19 +3453,19 @@
     "topicId": "cnm_147",
     "prerequisiteId": "cnm_146",
     "strength": "hard",
-    "reason": "Formulas are multiplied by multiples"
+    "reason": "Squaring a binomial uses polynomial multiplication and combining like terms."
   },
   {
     "topicId": "cnm_148",
     "prerequisiteId": "cnm_146",
     "strength": "hard",
-    "reason": "Formulas are multiplied by multiples"
+    "reason": "Squaring a binomial uses polynomial multiplication and combining like terms."
   },
   {
     "topicId": "cnm_148",
     "prerequisiteId": "cnm_147",
     "strength": "soft",
-    "reason": "Full square and square formulas are multiplied by multiples, and comparison of learning helps to remember and distinguish"
+    "reason": "Comparing these related identities helps distinguish the square-of-a-binomial formula from the difference-of-squares formula."
   },
   {
     "topicId": "cnm_149",
@@ -4329,49 +4329,49 @@
     "topicId": "cnm_219",
     "prerequisiteId": "cnm_041",
     "strength": "hard",
-    "reason": "The one-dollar-dual equation is a one-dollar equation that needs to be understood first."
+    "reason": "Understanding linear equations in one variable helps distinguish them from quadratic equations."
   },
   {
     "topicId": "cnm_219",
     "prerequisiteId": "cnm_146",
     "strength": "soft",
-    "reason": "Arranging equations requires an integer operation"
+    "reason": "Rearranging an equation into standard form uses integer arithmetic."
   },
   {
     "topicId": "cnm_220",
     "prerequisiteId": "cnm_219",
     "strength": "hard",
-    "reason": "It's a binary equation."
+    "reason": "Taking square roots is a method for solving quadratic equations in one variable."
   },
   {
     "topicId": "cnm_220",
     "prerequisiteId": "cnm_075",
     "strength": "hard",
-    "reason": "The basis for the direct squared approach is the meaning of squared root, which requires a squared square first."
+    "reason": "Solving by taking square roots requires understanding square roots and perfect squares."
   },
   {
     "topicId": "cnm_221",
     "prerequisiteId": "cnm_220",
     "strength": "hard",
-    "reason": "After the formula, open the square."
+    "reason": "Completing the square rewrites the equation as (x + m)² = n, which can then be solved by taking square roots."
   },
   {
     "topicId": "cnm_221",
     "prerequisiteId": "cnm_148",
     "strength": "hard",
-    "reason": "The formula is based on a fully square formula"
+    "reason": "Completing the square uses the square-of-a-binomial identity: x² ± 2ax + a² = (x ± a)²."
   },
   {
     "topicId": "cnm_222",
     "prerequisiteId": "cnm_221",
     "strength": "hard",
-    "reason": "The root formula is derived from the formula of the equation in its normal form, which requires first mastering the formula."
+    "reason": "The quadratic formula can be derived by completing the square, so this method is a prerequisite for understanding the formula."
   },
   {
     "topicId": "cnm_222",
     "prerequisiteId": "cnm_171",
     "strength": "hard",
-    "reason": "The result of the root formula is often root-based and needs to be the simplest."
+    "reason": "Applying the quadratic formula may require simplifying radicals."
   },
   {
     "topicId": "cnm_223",
@@ -4485,13 +4485,13 @@
     "topicId": "cnm_232",
     "prerequisiteId": "cnm_231",
     "strength": "hard",
-    "reason": "Studying the general pattern of images needs to be formulated into a vertex, and you need to master the vertex pattern."
+    "reason": "Vertex form makes the vertex and axis of symmetry explicit; completing the square rewrites a quadratic into this form."
   },
   {
     "topicId": "cnm_232",
     "prerequisiteId": "cnm_221",
     "strength": "hard",
-    "reason": "The formula for vertical formulas needs to be formulated."
+    "reason": "Completing the square converts a quadratic from standard form to vertex form."
   },
   {
     "topicId": "cnm_233",

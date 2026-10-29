@@ -784,7 +784,6 @@
           // If a large graph is scaled to fit one screen, nodes become only a few pixels and Cytoscape may render a nearly blank whole-graph texture.
           minZoom: heavy ? 0.5 : 0.05,
           maxZoom: 2.8,
-          wheelSensitivity: 0.28,
           boxSelectionEnabled: false,
           autoungrabify: true,
           userPanningEnabled: true,
